@@ -1,0 +1,1051 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_authoryear
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1.3cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+"Farming with predators": 
+\end_layout
+
+\begin_layout Title
+Applying spatial interactions between four predator species to human-wildlife
+ conflict in Namibia
+\end_layout
+
+\begin_layout Author
+Chavoux Luyt
+\end_layout
+
+\begin_layout Part*
+Background
+\end_layout
+
+\begin_layout Paragraph*
+Predators form an important part of any ecosystem and it has been suggested
+ that most ecosystems are actually top-down controlled 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011"
+
+\end_inset
+
+ and therefore susceptible to trophic cascades when top-level predators
+ are removed.
+ It follows that an ecosystem without its full complement of predators might
+ not be able to deliver ecosystem services sustainably, in addition to the
+ wider loss in biodiversity.
+ The removal of top predators leads to meso-predator release (e.g.
+ the removal of leopards in some areas may lead to an increase in the number
+ of caracals and black-backed jackals).
+ Similar increase in meso-predator numbers has been shown in America for
+ coyotes as a result of the loss of wolves, cougars or grizzly bears 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011"
+
+\end_inset
+
+.
+ Current conserved areas are insufficient to ensure the long-term survival
+ of large, wide-ranging predators like cheetahs, both because of intra-guild
+ hostility by larger, social predators like lions and spotted hyenas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+ and because of the minimum required number of individuals needed in a populatio
+n to ensure genetic survival (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stuart_1981"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lande_1995"
+
+\end_inset
+
+) combined with the home range size requirements of these species.
+ Thus it is not strange that the majority (90% - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_et_al_2003a"
+
+\end_inset
+
+) of surviving cheetahs in Namibia are found on farmlands outside formally
+ conserved areas.
+ It is therefore imperative to get buy-in from landowners outside formally
+ conserved areas to ensure the long-term survival of these predator species.
+\end_layout
+
+\begin_layout Paragraph*
+Globally, the greatest thread to mammal biodiversity is habitat destruction
+ or degradation
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schipper_et_al_2008"
+
+\end_inset
+
+.
+ However, for cheetahs in Namibia, direct killing by humans and the resulting
+ change in population demographics, have been identified as the greatest
+ contributors to their mortality rates 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003a"
+
+\end_inset
+
+.
+ The major predators perceived as a threat to their livelihoods by livestock
+ and game farmers in Northern Namibia, are leopards (
+\shape italic
+Panthera pardus
+\shape default
+), cheetahs (
+\shape italic
+Acinonyx jubatus
+\shape default
+), caracals (
+\shape italic
+Felis caracal
+\shape default
+) and black-backed jackals (
+\shape italic
+Canis mesomelas
+\shape default
+).
+ Two of these predator species, are classified as vulnerable (
+\shape italic
+Acinonyx jubatus
+\shape default
+) and near-threatened (
+\shape italic
+Panthera pardus
+\shape default
+) by the IUCN 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schipper_et_al_2008"
+
+\end_inset
+
+.
+ A number of farmers have complained of a recent increase in leopard numbers
+ and a simultaneous decrease in cheetahs (pers.
+ comm.), but the reasons for this change, if true, are less clear.
+ Although the spatial ecology of both leopards 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_n_Dickman_2005"
+
+\end_inset
+
+ and cheetahs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2008"
+
+\end_inset
+
+ have been extensively studied, their spatial interaction with each other,
+ and with smaller predators on Namibian farms are less clear.
+ Although caracals and jackals are not considered a problem on most commercial
+ farms in Northern Namibia where cattle are the most important livestock,
+ they are considered as the major "problem predators" on communal land where
+ a significant portion of livestock consists of goats and sheep (cf.
+ recent CCF survey of four conservacies in Hereroland).
+\end_layout
+
+\begin_layout Paragraph*
+The Greater Waterberg Complex are currently severely overgrazed with little
+ surviving game (pers.
+ obs.).
+ This begs the question of whether the reported cases of livestock depredation
+ in these areas are the result of a small resident predator community mostly
+ living on livestock, or primarily non-resident individuals moving through
+ the area from neighbouring land.
+ Some key aspects and questions that flow from previous research include:
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Spatial ecology of the various predators.
+ What factors determine home range sizes? What factors determine the location
+ of core areas withing home ranges? Are there preferred hunting areas within
+ the home ranges of predators and what variables are important in the choice
+ of "hunting areas" (if they exist)? Leopards in the Karoo side of the Cederberg
+ Mountains made much more use of dry river beds than the mountains inside
+ their territories, while those leopards in the Fynbos side tend to use
+ all of their territory 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martins_2010"
+
+\end_inset
+
+.
+ Can habitat types have a similar effect on the use of their home ranges
+ for Namibian predators? If both cheetah and leopard home ranges of females
+ are resource-dependent whereas male home ranges are determined by the availabil
+ity of females (cf.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_2002"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Martins_2010"
+
+\end_inset
+
+) why do leopard males generally have larger home ranges than females (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Martins_2010"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stein_et_al_2011"
+
+\end_inset
+
+) while cheetah females have larger home ranges than males 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2008"
+
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Diet and prey preferences.
+ Most predator species teach their young to hunt.
+ To what extend is there individual differences in prey preference and can
+ a species-wide "index of prey preference" be established for each predator
+ species? Are there other factors in addition to prey size and availability
+ that determines prey preference? Is there any difference in prey preference
+ between commercial, communal and conserved areas for the different predators?
+ Is there any difference between prey preferences of resident individuals
+ compared to roaming individuals? Is there any change in jackal diet where
+ larger predators are present (and they can scavenge) compared to areas
+ with few or no large predators? 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1999"
+
+\end_inset
+
+ claimed that "problem animals" do not exist and that predators probably
+ only take prey (including livestock) according to availability (and with
+ the obvious provisio that it is in the right size class for the predator).
+ Is this true for all four of the Namibian predators under consideration?
+\end_layout
+
+\begin_layout Enumerate
+Is there any spatial interaction between the various predator species? Since
+ leopards are known to kill and occasionally prey on all three the other
+ predator species (cf.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Bothma_n_Le_Riche_1994"
+
+\end_inset
+
+ with 15% of Kalahari leopard scats including black-backed jackal), does
+ this have any spatial or behavioural effect?
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Current livestock predation prevention management techniques and possible
+ alternatives.
+ What are the specific reasons for non-lethal methods not being used universally
+ on Namibian farms? What options are available to game farmers in particular?
+ What new (or old) methods exist that has not been tried in Namibia yet?
+ How does the type of farming (commercial vs communal; cattle vs game vs
+ small livestock vs mixed) influence the perception of predation and tolerance
+ of predator species? What are the advantages and disadvantages of the different
+ non-lethal livestock predation prevention methods? What factors would determine
+ whether a specific method would be the best option on a specific farm and
+ situation? What role does concervancies currently play in the conservation
+ of predators?
+\end_layout
+
+\begin_layout Part*
+Aims and objectives
+\end_layout
+
+\begin_layout Paragraph*
+The main aim of this research project is to alleviate human-predator conflict,
+ thus contributing to the continual survival of predators on Namibian farmlands
+ and possibly finding solutions with a wider application.
+ It will therefore concentrate on those predator species that have a significant
+ probability for conflict with humans as a result of livestock predation,
+ i.e.
+ cheetah, leopard, caracal and black-backed jackal.
+ The approach is taken that a better understanding of the whole ecosystem
+ and interactions between species, will benefit both wildlife and farmers.
+\end_layout
+
+\begin_layout Paragraph*
+Specific objectives to meet these aims are:
+\end_layout
+
+\begin_layout Enumerate
+Spatial ecology: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\color red
+Determine home range sizes for breeding/territorial males and females of
+ each predator species.
+ It is hypothesised that home ranges will differ between species and between
+ the sexes of the same species (where males and females have separate home
+ ranges).
+\end_layout
+
+\begin_layout Enumerate
+Determine dispersal rates and/or distances of non-breeding males and females
+ (e.g.
+ newly released or sub-adults) for each species.
+ If possible, determine factors influencing size, age and sex ratios of
+ big non-territorial cheetah groups.
+ Investigate migration patterns, if possible (Descriptive statistics only).
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Determine habitat use within their home ranges for each species.
+ It is hypothesised that each species will have areas within its home ranges
+ that are more used vs the null hypotheses that they will use all of the
+ area within their home range equally or that the choice of core areas are
+ random and unrelated to habitat or prey availability.
+\end_layout
+
+\begin_layout Enumerate
+Determine the importance of home-range co-variates for each species, including:
+ 1.
+ movement of other predator species, 
+\color red
+2.
+ movement of other individuals of same species & social interaction (e.g.
+ male coalitions in cheetahs), 3.
+ prey abundance and species, 4.
+ habitat factors including: 4.1.
+ distance to drinking water, 4.2.
+ topography, 4.3.
+ vegetation structure & visibility, 4.4.
+ vegetation type and/or 4.5.
+ grazing/browsing quality 5.
+ land use (conservation area with no hunting of predators, commercial farming
+ area, communal farming area, possibly "trophy hunting" game farming area),
+ including the effects of removals.
+
+\color inherit
+ It is hypothesised that one or more of these factors will determine which
+ areas within their home ranges are more used than others vs the null hypothesis
+ of random usage of the area within their home ranges.
+\end_layout
+
+\begin_layout Enumerate
+Try to find den sites for each predator species and compare them in terms
+ of the above factors.
+ It is hypothesised that one or more of the above factors will determine
+ in which part of their home range females will have their young, vs the
+ null hypothesis that den site selection will be random or independent of
+ any of these factors (there might be other factors instead, though).
+\end_layout
+
+\begin_layout Enumerate
+Determine if there are any seasonal differences in breeding between the
+ predator species and any correlation to breeding seasons of specific prey
+ species.
+ It is hypothesised that the predators species will tend to have their young
+ in the same season that (most of) their preferred prey species also have
+ their young (vs the null hypotheses that either there is no specific breeding
+ season for the predator species, or the breeding season is independent
+ of prey species).
+\end_layout
+
+\begin_layout Enumerate
+If possible, determine the average dispersal distance for each predator
+ species and sex (the average linear distance travelled per day by non-resident
+ individuals).
+ It is hypothesised that there will be significant differences between different
+ species and the sexes within each species vs the null hypothesis of little
+ differences between species or sexes.
+\end_layout
+
+\begin_layout Enumerate
+Build a predictive Dempster-Shafer expected density model for each factor
+ and combination of factors that are likely to influence habitat use and
+ density for each predator species and find the best predictive model for
+ each species.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Diet and prey preferences: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\color red
+Test the suitability of GPS cluster analysis together with scat analysis
+ as tools for diet determination of the four predator species.
+ It is hypothesised that GPS cluster analysis (in combination with activity
+ data) will be able to find at least as many prey species as can be found
+ in the scat of predators vs the null hypothesis that GPS cluster analysis
+ will be unable to correctly identify kill sites.
+ It is also hypothesised that the use of GPS cluster analysis and kill sites
+ will correct for any bias in scat samples by giving a better indication
+ of the total biomass contributed by the prey animal - i.e.
+ longer time periods (= more GPS points) will be spend at bigger prey and
+ less time at smaller prey items vs the null hypothesis that prey size will
+ have no effect on time spent at the kill/feeding site.
+\end_layout
+
+\begin_layout Enumerate
+Determine prey availability in different habitats (and land use categories)
+ and compare prey use to prey availability to determine prey preference
+ for each individual.
+ It is hypothesised that each predator species will tend to prefer certain
+ prey species or prey age class vs the null hypothesis of no preference
+ and taking prey in the same proportion that they are found.
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Determine diet and prey preferences for each species and measure individual
+ degree of variance of prey preference within species.
+ No individual will have exactly the same prey preference.
+ Factors like habitat and availability will also influence individual predator
+ diet.
+ The degree of difference between the individuals and the average prey preferenc
+e of the whole species sample will be measured and compared between the
+ different species.
+ It is hypothesised that some species will have more individual differences
+ than others vs the null hypothesis that there will be no significant difference
+ between the species.
+
+\color inherit
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Predator intra-guild interactions:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Include the movement of other predator species in the Dempster Shafer GIS
+ models as a negative factor.
+ It is hypothesised that Dempster-Shafer models that include data on the
+ home ranges of other predator species, will have greater explanatory power
+ than models that ignore other predator species vs the null hypothesis that
+ there will be no significant difference.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Habitat changes:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Compare predator densities to previous studies in order to determine if
+ there has truly been a shift in population distribution.
+ It is hypothesised that there has been a change in predator species composition
+ on some Namibian farms vs the null hypothesis that any change in predator
+ numbers is insignificant.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Seasonal behavioural changes:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\color red
+It is hypothesised that females with young will still exhibit changes in
+ their spatial or hunting behaviour vs the null hypothesis of no spatial
+ changes.
+\end_layout
+
+\begin_layout Enumerate
+It is furthermore hypothesised that females will not choose den sites randomly,
+ but that there will be specific factors that can be identified as indicators
+ of good denning sites and that these factors will differ between species
+ vs the null hypotheses of random den sites and no differences between species.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Farm management techniques:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Survey Namibia farmers to determine costs and effectiveness of current anti-pred
+ation measures and do a cost-benefit analysis.
+\end_layout
+
+\begin_layout Enumerate
+Set up a new "scale of adaptation" that can be used to measure farmers'
+ willingness to adapt their farming methods and livestock/game species to
+ their environment vs their love for specific breeds or species of animals
+ and the resulting need to change the environment to fit to their farming
+ practises.
+\end_layout
+
+\begin_layout Enumerate
+Determine reasons for farmers' use of lethal rather than non-lethal anti-predati
+on measures.
+ We will simply record which reasons are given and by which percentage of
+ farmers.
+\end_layout
+
+\begin_layout Enumerate
+Investigate more non-lethal alternatives and factors that would influence
+ their adoption, costs and effectiveness, including their view on "green"
+ marketing vs.
+ insurance against predation.
+\end_layout
+
+\begin_layout Enumerate
+
+\color red
+Investigate how the spatial ecology and interaction of predators can benefit
+ farmers by finding better management methods for protecting livestock.
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+Methods
+\end_layout
+
+\begin_layout Enumerate
+Literature review:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+A full literature review will be done of human-predator conflict and the
+ different solutions that have been tried worldwide, in order to find new
+ methods that might work in Namibia.
+ Specifically, the use of specially trained herders, called "Natural Resource
+ Rangers", will be evaluated, both as a non-lethal predator conservation
+ method and as a job creation project in addition to other techniques.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Camera trapping:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+About 30 camera traps will be used and frequently changed to determine the
+ best capture sites for predators.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Setting camera traps at the exact same spots where they had been set in
+ the past, any possible changes in species composition and game densities
+ can be determined.
+ The claimed change in leopard and cheetah distribution will be investigated
+ using this method.
+\end_layout
+
+\begin_layout Enumerate
+Randomly placed camera traps can be used in combination with other methods
+ to help determine prey species distribution within known predator home
+ ranges in order to map prey species availability.
+\end_layout
+
+\begin_layout Enumerate
+Camera traps will also be used to determine the effect of the different
+ habitat restoration methods on both predator and prey species diversity
+ (and densities).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Capturing animals and GPS collars:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Once good capture sites have been identified, adult predators of all four
+ species will be captured using a combination of cage traps (for cheetahs,
+ caracals and possibly leopards), soft traps 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kamler_et_al_2008"
+
+\end_inset
+
+ and foot snares 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Frank_et_al_2003"
+
+\end_inset
+
+ for jackals and leopards.
+ The GPS collars that will take hourly readings as 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Martins_2010"
+
+\end_inset
+
+ has shown that daily distance traveled and habitat usage can be severely
+ under-estimated when longer time periods between readings are used.
+\end_layout
+
+\begin_layout Enumerate
+GPS collar data will also be used to look for "hunting grounds" within the
+ home ranges of each species.
+ It is hypothesised that each species will have areas within its home-ranges
+ that are preferred for hunting, and that the factors determining which
+ area it is, will differ between species.
+\end_layout
+
+\begin_layout Enumerate
+If any breeding females are collared, the den sites will be investigated
+ and possible factors that determines choice of den sites, identified.
+\end_layout
+
+\begin_layout Enumerate
+If non-resident predators are collared, the average distance they move will
+ be recorded until either the end of the study period (and the drop-off
+ of the collars) or the establishment of a new home range or territory.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+GIS mapping:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Habitat maps including canopy cover (vegetation structure) and vegetation
+ types will be made using GIS image analysis of satellite/aerial images.
+ The resulting maps will be ground-truthed using random sample sites.
+\end_layout
+
+\begin_layout Enumerate
+A combination of camera traps, circuit counts and track identification (claimed
+ by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stein_2008"
+
+\end_inset
+
+ as less biased than the other two methods) will be used to determine available
+ prey densities and species in each study area.
+\end_layout
+
+\begin_layout Enumerate
+Using GIS, predictive Dempster-Shafer models of expected habitat use will
+ be built for each predator species, using the different factors that are
+ hypothesised to determine their habitat usage.
+ The predicted models will then be compared with the actual GPS collar data
+ to determine which combination of factors best describe the actual habitat
+ use.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Scat analysis:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Where-ever predator scat are found in the study areas, this will be collected
+ and analysed (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Bothma_n_Le_Riche_1994"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Moyo_et_al_2006"
+
+\end_inset
+
+) to determine the diet.
+ This data will be used in conjunction with GPS cluster analysis (and possibly
+ acceleration/deceleration points to include hunting attempts).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Survey of Namibian farmers and conservancies:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The survey will be used to determine: 1.
+ costs and effectiveness of current anti-predation measures, 2.
+ reasons for use of lethal rather than non-lethal predation control methods,
+ 3.
+ their willingness to adopt or test alternative non-lethal methods, 4.
+ the effects of conservancies on management practises, 5.
+ differences between the motivations of communal and commercial farmers,
+ 6.
+ how the type of farming (commercial vs communal; cattle vs game vs small
+ livestock vs mixed) influence the perception of predation and tolerance
+ of predator species (see 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lindsey_et_al_2003"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Analysis:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Using both GPS collar data and survey results, the effects of the different
+ predators on land with different habitats and different livestock species
+ will be investigated.
+ It is hypothesised that in the absence of larger predators like leopards
+ and cheetahs and where small livestock (and smaller game species) are a
+ bigger proportion of the farm income, the smaller predator species like
+ caracal and jackal will be considered as a bigger problem by farmers.
+ Which of the two species will be the most important, will be determined
+ by the habitat (caracals are hypothesised to be more important in rocky
+ / mountainous areas, while jackals should be more important in flat areas).
+\end_layout
+
+\begin_layout Enumerate
+Unpublished long-term fixed point photography data will be used to test
+ the hypothesis of bush encroachment.
+ It is hypothesised that there has been an increase in woody vegetation
+ and canopy cover vs the null hypothesis of no change in the average ratio
+ between woody and grassy vegetation components.
+ This might be one possible explanation of the claimed change in predator
+ species distribution.
+\end_layout
+
+\begin_layout Enumerate
+A cost-benefit analysis of both lethal and non-lethal methods used by actual
+ farmers on actual Namibian farms will be done and made public to farmers.
+\end_layout
+
+\begin_layout Enumerate
+Use a combination of cost-benefit analysis of farmer methods and spatial
+ ecology data to provide method (decision support model) for farmers to
+ decide which method works "best", both short-term and long-term.
+ The management implications of the spatial ecology of the main predator
+ species (and their prey) will also be used to suggest alternative predation
+ prevention methods and to integrate it into a holistic ecological management
+ model for both game and livestock farmers (possibly using an object-oriented
+ Bayesian network model).
+ This will include at least some of the following aspects:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What farming (predation prevention) methods will be applicable to which
+ farms (i.e.
+ what predators can you expect naturally in the habitat types found on your
+ farm and in which camps can you expect them)? How could habitat changes
+ (e.g.
+ bush encroachment or habitat restoration) influence this?
+\end_layout
+
+\begin_layout Enumerate
+Depending on what method works best against which predator, how can a farmer
+ decide on the best methods for his situation, both short-term and long-term?
+ (The "best" method might differ between short-term and long-term: e.g.
+ killing one of a breeding pair of jackals might decrease current predation
+ losses (short-term), but can result in increasing jackal numbers and more
+ losses in the following year (long-term)).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Any proof of spatial exclusion and thus possible meso-predator release?
+ (Or even the 2 meso-predator species limiting each others' numbers)? Possible
+ application: 1.
+ Having leopards can prevent meso-predator release (is this true for Northern
+ Namibia?).
+ 2.
+ Caracal being easier to capture and kill can lead to ecological imbalance
+ and increase in jackals (if the effects of the killing of caracal cubs
+ by jackals and of jackal pups by caracals are actually large enough to
+ have an influence on their spatial distribution) or vice versa.
+\end_layout
+
+\begin_layout Enumerate
+Use the factors which determine core habitats or preferred hunting areas
+ within the predator home ranges (this has been used successfully on at
+ least one farm in South Africa [according to the Landbouweekblad / Farmer's
+ Weekly] to prevent leopards predation of calves, by simply moving the calving
+ cows out of the preferred leopard habitat - and it is much easier and less
+ costly than keeping calves in a kraal or using a permanent herder)? Can
+ this method be applied in (some parts of) Namibia?
+\end_layout
+
+\begin_layout Enumerate
+Prey preferences can be used to determine if individuals only opportunistically
+ prey on livestock.
+ I.e.
+ if they take livestock according to availability, they should be managed
+ differently than if there are individuals who become habitual livestock
+ hunters.
+ In the former case, simply taking better care of the livestock should be
+ enough to protect livestock and the predator can stay where it should be.
+ In addition, the myth of the "problem animal" (an individual who prefers
+ livestock to natural prey) can be dispelled.
+ However, if there are clear individual differences in prey preferences,
+ it is more likely that individual habitual livestock hunters exist in the
+ specific species.
+ In that case, it might perhaps be better to remove the animal and to relocate
+ it to a fenced conservation area with no livestock available (or kill it
+ if it can no longer hunt natural prey because of old age).
+ If it can be shown that prey preferences differ individually, management
+ can deal with individuals, rather than causing the indiscriminate removal
+ of all individuals of the guilty species.
+\end_layout
+
+\begin_layout Enumerate
+Can a species-wide "index of prey preference" be established for each predator
+ species? If there is strong preferences for certain species (and not just
+ size classes), it might help game farmers with high-value game species
+ to stock their land with lower-valued, but preferred prey species.
+ On the other hand, if there is only a weak preferences for specific species,
+ this will have little/no effect.
+ And because of species differences, this method might work for one predator
+ species, but not for another, making the question on habitat preferences
+ more relevant.
+\end_layout
+
+\begin_layout Enumerate
+Previous research has shown already that there is extensive overlap between
+ cheetah and leopard home ranges in Namibia 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_2002"
+
+\end_inset
+
+.
+ Does this mean that we should not expect any change in cheetah spatial
+ behaviour in the absence of leopards or spatial changes in leopards if
+ cheetahs were exterminated from their territories? Such behavioural changes
+ might include changes in diet and hunting range.
+\end_layout
+
+\begin_layout Enumerate
+What are the dispersal rates of the different predators? How long will it
+ take for non-resident individuals to discover the empty home range if one
+ or more resident animals have been removed? How short term is this "solution"
+ really?
+\end_layout
+
+\begin_layout Enumerate
+If leopards keep away caracals and jackals, (and lambs/kids normally being
+ too small to be preferred leopard prey), small livestock farmers might
+ not need to keep lambs in the kraal in an area with leopards, but rather
+ concentrate on methods to protect the adult livestock.
+ Moreover, this might be an additional ecological role of larger predators,
+ motivating farmers to keep a large predator around if it is not killing
+ livestock.
+\end_layout
+
+\begin_layout Enumerate
+If a shift in predator species composition is found and it can be correlated
+ to habitat changes (or other factors), it means that by managing the habitat
+ (or other factors influencing predator movement) the predator species distribut
+ion can also be managed.
+ Since predators are part of the whole eco-system, any changes in habitat
+ or prey species composition could have unforeseen results for predators
+ which needs to be taken into account if we want to conserve them into the
+ future.
+ The importance of habitat destruction as the major driver of extinctions
+ will be important here.
+\end_layout
+
+\begin_layout Enumerate
+How would the solutions given to game farmers differ from those given to
+ livestock farmers (since game farming and hunting is such an important
+ aspect of farming in Northern Namibia - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McGranahan_2008"
+
+\end_inset
+
+)? How would it differ between commercial and communal areas?
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Part*
+Scientific contribution
+\end_layout
+
+\begin_layout Enumerate
+This will be the first use of predictive Dempster-Shafer modeling for predator
+ habitat use.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The usefulness of cluster analysis and GPS activity data as a method for
+ determining predator diet for species other than leopards, will be tested.
+\end_layout
+
+\begin_layout Enumerate
+The different factors that influence predator use of their home range, will
+ be investigated for all four predator species.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The spatial and behavioural effects of all four predator species on each
+ other (if any) will be investigated for the first time.
+\end_layout
+
+\begin_layout Enumerate
+The link between ecosystem processes and human-wildlife conflict will be
+ investigated.
+\end_layout
+
+\begin_layout Part*
+Conclusion
+\end_layout
+
+\begin_layout Paragraph*
+Even though Namibia remains the global stronghold for free-roaming cheetahs,
+ the survival of Namibian cheetahs are by no means secure.
+ Because of their large home ranges and competition from larger social predators
+, formally conserved areas are not enough to ensure their survival.
+ It is therefore imperative that practical solutions to human-predator conflict
+ on Namibian farmlands be found.
+ This project will make great strides in finding new solutions and applying
+ existing solutions to human-wildlife conflict in Namibia in order for livestock
+ farmers to farm with predators instead of fighting against nature.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/boer/Documents/Ecology"
+options "/home/boer/TeX/bibtex/bst/stellenbosch/myplainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

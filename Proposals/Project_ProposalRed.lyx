@@ -1,0 +1,789 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_authoryear
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.3cm
+\topmargin 1cm
+\rightmargin 1.3cm
+\bottommargin 1.3cm
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset Quotes eld
+\end_inset
+
+Farming with predators
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Human-predator conflict on Namibian farmlands: an ecosystem approach
+\end_layout
+
+\begin_layout Date
+Chavoux Luyt
+\end_layout
+
+\begin_layout Abstract
+Human-wildlife conflict is a worldwide and increasingly important problem.
+ In the past most "solutions" to this conflict has been either from an agricultu
+ral perspective or from a conservation perspective.
+ However, because the goals of these two perspectives are seldom the same,
+ there has been frustratingly little progress in preventing human-wildlife
+ conflict.
+ The "Farming with Predators"project attempts to cross this divide by seeking
+ solutions that are both ecologically and agriculturally sustainable.
+ In Northern Namibia four predator species are widely considered as responsible
+ for most livestock losses, leopards (
+\shape italic
+Panthera pardus
+\shape default
+), cheetahs (
+\shape italic
+Acinonyx jubatus
+\shape default
+), caracals (
+\shape italic
+Caracal caracal
+\shape default
+) and blackjacked jackals (
+\shape italic
+Canis mesomelas)
+\shape default
+.
+ Two of these predator species, are classified as vulnerable (
+\shape italic
+Acinonyx jubatus
+\shape default
+) and near-threatened (
+\shape italic
+Panthera pardus
+\shape default
+) in the IUCN Red List of Threatened species.
+ A recent increase in leopard numbers and a decrease in cheetahs have been
+ reported by various farmers in North Central Namibia, but needs to be verified.
+ Camera trap data will be used and compared with data from a previous camera
+ trap survey by the Cheetah Conservation Fund (CFC) for this purpose.
+ Possible causes for this shift, if real, might be important for the future
+ survival of cheetahs on farmland, where 90% of Namibia's cheetahs currently
+ occur.
+ The spatial interaction between the four main "problem predators" on Namibian
+ farmlands, will be investigated to with the specific goals of investigating
+ the possible direct influence of leopards on cheetah spatial or temporal
+ behaviour and for evidence of meso-predator release where leopards or cheetahs
+ have been removed from an area.
+ This will be done using a combination of camera traps, physical tracking
+ with a Cybertracker GPS device, possibly GPS collars, and faecal analysis.
+ A cost-benefit analysis of the current anti-predation measures used by
+ Namibian farmers will also be done using data from both general surveys
+ and detailed monthly data.
+ The practical implications of these data for sustainable farming and persistenc
+e of functioning ecosystems on farmlands will be discussed as well as its
+ wider application in diminishing human-wildlife conflict.
+\end_layout
+
+\begin_layout Abstract
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Introduction
+\end_layout
+
+\begin_layout Paragraph
+Human-wildlife conflict is an increasing and worldwide problem (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Messmer_2000"
+
+\end_inset
+
+; 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+), even though a variety of mitigating methods have been proposed (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Nyhus_et_al_2003,Linnell_et_al_1996,Shivik_2004,Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+).
+ These include proactive methods to prevent the conflict (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+), methods that increase the value of the wildlife species to offset the
+ costs of living with wildlife (e.g.
+ regulated harvest of leopard in Uganda [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+], wildlife property rights on Namibian farmlands [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McGranahan_2008"
+
+\end_inset
+
+], eco-tourism, etc.), and reactive methods including compensation and removal
+ of problem animals after-the-fact.
+ 
+\end_layout
+
+\begin_layout Paragraph
+On Namibian farmlands, most human-wildlife conflict involve predators, since
+ livestock and game farming are the main economic activities on about 69%
+ of Namibia (with 16% of Namibia being true desert and unsuitable for any
+ agricultural activities, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_2002"
+
+\end_inset
+
+).
+ The major predators perceived as a threat to their livelihoods by livestock
+ and game farmers in Northern Namibia, are leopards (
+\shape italic
+Panthera pardus
+\shape default
+), cheetahs (
+\shape italic
+Acinonyx jubatus
+\shape default
+), caracals (
+\shape italic
+Caracal caracal
+\shape default
+) and blackjacked jackals (
+\shape italic
+Canis mesomelas)
+\shape default
+ (cf.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stein_2008"
+
+\end_inset
+
+).
+ Two of these predator species, are classified as vulnerable (
+\shape italic
+Acinonyx jubatus
+\shape default
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Durant_et_al_2008"
+
+\end_inset
+
+) and near-threatened (
+\shape italic
+Panthera pardus,
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Henschel_et_al_2008"
+
+\end_inset
+
+) by the IUCN.
+ In addition, because of intra-guild hostility with larger predators like
+ lions and spotted hyaena, their large home range requirements, as well
+ as their susceptibility to anthrax, conserved areas alone are unlikely
+ to ensure the survival of Namibian cheetahs (cf.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lindeque_et_al_1998"
+
+\end_inset
+
+).
+ Human-wildlife conflict involving lions, elephants and spotted hyaenas
+ is usually caused by nonresident populations moving onto farmlands from
+ a source population in a conserved area.
+ By contrast, 90% of surviving cheetahs in Namibia are found on farmlands
+ outside formally conserved areas and direct killing by humans and the resulting
+ change in population demographics have been identified as the major cause
+ of cheetah mortality on Namibian farmlands 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003a"
+
+\end_inset
+
+.
+ Persecution by humans is also one of the major threats to leopards in Africa
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Henschel_et_al_2008"
+
+\end_inset
+
+.
+ However, recent reports from farmers (pers.
+ comm.) suggest that there has been an increase in leopard numbers on many
+ farms and a simultaneous decrease in cheetah numbers.
+ If this effect is real, it could have important implications for the survival
+ of cheetahs, since inter-specific competition with larger predators are
+ one of the threats to long-term cheetah survival 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Durant_et_al_2008"
+
+\end_inset
+
+.
+ This shift in species composition could be the result of direct lethal
+ confrontation between leopards and cheetahs, "fear and loathing" (
+\shape italic
+sensu
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+) resulting in cheetahs avoiding areas with high leopard density, habitat
+ changes caused by bush encroachment, a change in available prey species,
+ a disproportionate number of cheetahs killed by humans compared to leopards,
+ or possibly other unknown reasons.
+ 
+\end_layout
+
+\begin_layout Paragraph
+While leopards and cheetahs can prey on large livestock (cattle calves and
+ horse or donkey foals), blackjacked jackals are perceived as the biggest
+ problem by farmers with small livestock, while caracals are not considered
+ as important on most North Central Namibian farms 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stein_2008"
+
+\end_inset
+
+.
+ By contrast, in Southern Namibia as well as small livestock areas of South
+ Africa, caracals are second in importance to blackjacked jackal as livestock
+ predator 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Griffin_1998,Daly_et_al_2006,Snow_2008"
+
+\end_inset
+
+.
+ This is also true in Herero-land, a communal farming area of North Central
+ Namibia, where sheep and goats form a larger portion of the livestock (GWC
+ survey, 2012).
+ Herero-land is a part of the Greater Waterberg Complex (GWC) and has been
+ severely overgrazed (pers.obs.) with little natural prey.
+ Since many of the predation management methods used on commercial farmlands
+ are not practical there, finding solutions to human-wildlife conflict on
+ these communal lands necessitates finding out whether the predators are
+ resident or just moving through from the surrounding areas.
+\end_layout
+
+\begin_layout Paragraph
+Meso-predator release has been shown in America for coyotes as a result
+ of the loss of wolves, cougars or grizzly bears 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011"
+
+\end_inset
+
+.
+ It follows that one of the major reasons for the increasing problems with
+ jackals and caracals could be meso-predator release 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+.
+ It is known that leopards will kill and eat blackjacked jackals 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bothma_n_Le_Riche_1994"
+
+\end_inset
+
+, and that caracals and jackals will occasionally kill each other's young,
+ but the extend and importance of these interactions have not been studied
+ in enough detail to know whether meso-predator release could be a significant
+ reason for the reported increase in livestock depredation by these meso-predato
+r species.
+\end_layout
+
+\begin_layout Paragraph
+Predators form an important part of any ecosystem and it has been suggested
+ that most ecosystems are actually top-down controlled 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011"
+
+\end_inset
+
+ and therefore susceptible to trophic cascades when top-level predators
+ are removed.
+ It follows that an ecosystem without its full complement of predators might
+ not be able to deliver ecosystem services sustainably, in addition to the
+ wider loss in biodiversity.
+ One of the major reasons for farmer-predator conflict is that although
+ everyone benefits from these ecosystem services, it is the farmers who
+ have to bear the brunt of the costs.
+ In a study done for the Red meat Producers Organisation the total annual
+ costs of livestock depredation for small livestock farmers in South Africa
+ was estimated as R 1 390 453 062 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Van_Niekerk_2010"
+
+\end_inset
+
+.
+ For this reason, it is assumed that the methods most likely to decrease
+ conflict between farmers and predators, are those that will maximise the
+ benefits and minimise the costs of predators on the land.
+\end_layout
+
+\begin_layout Paragraph
+While the spatial ecology of Namibian cheetahs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2008"
+
+\end_inset
+
+, leopards 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_n_Dickman_2005,Stein_et_al_2011"
+
+\end_inset
+
+ and caracals 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_n_Dickman_2005a"
+
+\end_inset
+
+ have been studied, the extend and importance of the spatial interaction
+ between these predator species is still relatively unknown.
+ Since intra-guild interactions can have a huge impact on ecosystems 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sinclair_et_al_2003,Estes_et_al._2011"
+
+\end_inset
+
+, and the current human-predator conflict might largely be the result of
+ changes in the predator species composition on farmland ecosystems 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Daly_et_al_2006,Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, a better understanding of these interactions could lead to both better
+ conservation and less human-wildlife conflict.
+\end_layout
+
+\begin_layout Part
+Aims and objectives
+\end_layout
+
+\begin_layout Paragraph
+The main aim of this research project is to alleviate human-predator conflict,
+ thus contributing to the continual survival of predators on both commercial
+ and communal farmlands in Namibia and possibly finding principles for solving
+ human-wildlife conflict with a wider application.
+ The approach is taken that a better understanding of the whole ecosystem
+ and interactions between species, will benefit both wildlife and farmers.
+ Specific objectives for meeting this aim are:
+\end_layout
+
+\begin_layout Enumerate
+Determine if the reports of a leopard increase and a simultaneous cheetah
+ decrease on Namibian farmlands are true.
+\end_layout
+
+\begin_layout Enumerate
+Determine whether predator-human conflict in communal Herero-land is the
+ result of resident predator populations, or nonresidents occasionally entering
+ the area from the surrounding commercial farms.
+\end_layout
+
+\begin_layout Enumerate
+Determine the costs vs benefits of the various anti-predation methods currently
+ used by Namibian farmers.
+\end_layout
+
+\begin_layout Enumerate
+Assess the different anti-predation methods used worldwide in terms of their
+ applicability to different farming situations and drawbacks, especially
+ in terms of the differences between commercial and communal farming contexts.
+\end_layout
+
+\begin_layout Enumerate
+Determine the reasons for farmer choices of specific anti-predation methods
+ and their willingness to change their farming methods and/or livestock
+ type.
+\end_layout
+
+\begin_layout Part
+Methods
+\end_layout
+
+\begin_layout Paragraph
+The study will mostly be done in the Greater Waterberg Complex, including
+ both commercial farms and communal land (Herero-land) forming part of the
+ Waterberg conservancy.
+ Where possible, a comparison with historical data as well as between the
+ different land management systems will be done.
+ This study site was chosen because very little research has been done on
+ the predator community of Herero-land, to the extend that it is not even
+ known whether resident predators still persist in the area.
+\end_layout
+
+\begin_layout Enumerate
+Camera trapping: Camera traps will be used to identify individual cheetahs
+ and leopards at cheetah play-trees 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker-Kraus_n_Kraus_1994"
+
+\end_inset
+
+ and compare the results to a previous survey done in 2008 by CCF to see
+ if there has been any change in relative number of individuals in the same
+ area.
+ The relative abundance of prey species will also be recorded to be analysed
+ as a possible reason for changes in predator numbers using published prey
+ preferences for the two species.
+ Before and after this survey camera traps will be used on commercial farms
+ bordering the Herero-land conservancies and in the conservancies to capture
+ any movement between farmlands and conservancies, to determine good capture
+ sites for predators, and to compare relative prey species composition in
+ the different areas.
+\end_layout
+
+\begin_layout Enumerate
+Using the best capture sites as determined by the camera traps, soft traps
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kamler_et_al_2008"
+
+\end_inset
+
+, cage traps 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003a"
+
+\end_inset
+
+, foot loop traps 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Frank_et_al_2003"
+
+\end_inset
+
+ and free darting 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_et_al_1997"
+
+\end_inset
+
+ can be used to capture predators in the same general area.
+ If the necessary funding can be obtained, they will be collared and released
+ with modified GPS collars 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Wilson_et_al_2013"
+
+\end_inset
+
+ that can record acceleration and deceleration as well as take GPS points
+ (at least every hour) in order to capture both position and hunting behaviour.
+ These data will be used to determine the spatial interaction between the
+ different predator species and in particular differences in prey prey preferenc
+e and hunting success using a combination of cluster analysis and acceleration
+ data.
+ The need for this method will be evaluated closer to the time.
+ These prey preference data will be compared to prey prefernce data of the
+ same animals as determined by scat analysis.
+\end_layout
+
+\begin_layout Enumerate
+A survey of Namibian farmers and conservancies will be done to determine:
+ 1.
+ costs and effectiveness of current anti-predation measures, 2.
+ reasons for use of lethal rather than nonlethal predation control methods,
+ 3.
+ their willingness to adopt or test alternative nonlethal methods, 4.
+ the effects of conservancies on management practises, 5.
+ differences between the motivations of communal and commercial farmers,
+ 6.
+ how the type of farming (commercial vs communal; cattle vs game vs small
+ livestock vs mixed) influence the perception of predation and tolerance
+ of predator species (see 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lindsey_et_al_2003"
+
+\end_inset
+
+).
+ The survey will consist of both a general survey aimed at the larger farming
+ community and a more detailed survey with monthly costs and predation loss
+ data from participating farmers.
+\end_layout
+
+\begin_layout Enumerate
+A thorough survey of anti-predation methods mentioned in the literature
+ will be used to suggest new methods that could be applied in Namibia.
+ A cost-benefit analysis of farmer methods will be used to provide a method
+ (decision support model) for farmers to decide which method works "best"
+ for their situation, both short-term and long-term.
+\end_layout
+
+\begin_layout Section
+Timetable
+\end_layout
+
+\begin_layout Subsubsection
+2013 - Preparation:
+\end_layout
+
+\begin_layout Enumerate
+Full literature review on Human-Wildlife Conflict worldwide with advantages
+ and disadvantages of methods used to solve it - submit for publication
+ if useful.
+\end_layout
+
+\begin_layout Enumerate
+Find funding for remaining project costs, especially equipment.
+\end_layout
+
+\begin_layout Enumerate
+General survey of North Central Namibian farmers to identify farmers able
+ and willing to share costs and effectiveness of different anti-predation
+ methods used.
+\end_layout
+
+\begin_layout Enumerate
+Start camera trap survey of good capture sites and movement of predators
+ onto Herero-land from surrounding areas.
+\end_layout
+
+\begin_layout Enumerate
+Contact all landowners or authorities to finalise permission to do the research
+ on their land.
+\end_layout
+
+\begin_layout Subsubsection
+2014 - Data collection:
+\end_layout
+
+\begin_layout Enumerate
+Procure all equipment needed.
+\end_layout
+
+\begin_layout Enumerate
+Capture and collar predators, download and map data (if needed funding acquired).
+\end_layout
+
+\begin_layout Enumerate
+Do camera trap surveys to see if predator ratios have changed.
+\end_layout
+
+\begin_layout Enumerate
+Do further camera trap surveys to determine available prey species composition.
+\end_layout
+
+\begin_layout Enumerate
+Collect monthly data from participating farmers, enter into database and
+ map data.
+\end_layout
+
+\begin_layout Enumerate
+Collect and analyse scat to identify individuals and for prey hair.
+\end_layout
+
+\begin_layout Subsubsection
+2015 - Data analysis and writing up:
+\end_layout
+
+\begin_layout Enumerate
+Build GIS models of all data collected in 2014.
+\end_layout
+
+\begin_layout Enumerate
+Analyse data for hypothesis testing.
+\end_layout
+
+\begin_layout Enumerate
+Collect any missing data or where new questions arose from 2014 data that
+ can be answered within a reasonable time period.
+\end_layout
+
+\begin_layout Enumerate
+Write thesis and submit papers from it as they are done.
+ Also make results available to the wider agricultural community in a report
+ and popular articles.
+\end_layout
+
+\begin_layout Part
+Scientific contribution
+\end_layout
+
+\begin_layout Enumerate
+This will be the first use of predictive Dempster-Shafer modelling for predator
+ habitat use (if spatial data can be collected).
+ 
+\end_layout
+
+\begin_layout Enumerate
+The usefulness of cluster analysis and GPS activity data as a method for
+ determining predator diet for species other than leopards, will be tested
+ (if GPS data can be collected).
+\end_layout
+
+\begin_layout Enumerate
+Differences in diet composition (and possibly hunting success) of four predator
+ species in the same area where the same prey is available will be done.
+ Most previous predator-prey studies has been on single predator species
+ with little regard for the influence of niche partitioning between predator
+ species.
+\end_layout
+
+\begin_layout Enumerate
+The spatial and behavioural effects of all four predator species on each
+ other (if any) will be investigated for the first time.
+\end_layout
+
+\begin_layout Enumerate
+The link between ecosystem processes and human-wildlife conflict will be
+ investigated.
+ The management of livestock farmlands as an ecological system instead of
+ just an agricultural system, will be modelled.
+\end_layout
+
+\begin_layout Part
+Conclusion
+\end_layout
+
+\begin_layout Paragraph
+Even though Namibia remains the global stronghold for free-roaming cheetahs,
+ the survival of Namibian cheetahs are by no means secure.
+ Because of their large home ranges and competition from larger social predators
+, formally conserved areas are not enough to ensure their survival.
+ It is therefore imperative that practical solutions to human-predator conflict
+ on Namibian farmlands be found.
+ This project will make great strides in finding new solutions and applying
+ existing solutions to human-wildlife conflict in Namibia in order for livestock
+ farmers to farm with predators instead of fighting against nature.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/boer/Documents/Ecology"
+options "bibtotoc,/home/boer/TeX/bibtex/bst/stellenbosch/myplainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

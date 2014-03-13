@@ -1,0 +1,20 @@
+Uit literatuur:
+1. Jagluiperd selektiewe jagters (individuele groepe het voorkeure). Verkies
+sekere grootte prooi. 
+2. Rooikat neig om prooi in verhoudig tot beskikbaarheid te neem. Soms is daar
+egter individuele voorkeure... lyk of daar "probleem"-individue kan wees.
+3. Waarom doen CCF nog mis-analise as al die diëet inligting reeds bekend is?
+4. 77% Jagluiperds nomadies! (Fabiano)
+5. Metodes keuse redes: High conflict zones more important; where they work, livestock guarding animals work well; kraaling works against most predators; training helps people to find their own solutions; environmental shepherds should be more trustworthy than most herders; photo tourism puts value on predators; a price premium will convince many farmers to change their management; insurance is a good way for compensation with less likelihood for fraud than other compensation schemes.
+6. Hereroland: Jakkals grootste probleem. Prioriteit! Jagluiperds mag moontlik Jakkalse in bedwang hou (meso-predator vrylating), maar luiperds is meer waarskynlik om hierdie rol te vervul. Maar dan moet dit verseker wees dat luiperds geen negatiewe effek op jagluiperds het nie. Jagluiperds kan moontlik luiperds uitkompeteer (beter jag-sukses), maar luiperds maak soms jagluiperds dood. Onseker watter van jakkals en rooikat dominante kompeteerder. Moontlik habitat-verwant? Selfde vir luiperds en jagluiperds? 
+7. Om die besluitnemingstelsel (DSS) vir boere te skryf is daar 2 hoof punte: 1. Beste metode uit landbou-oogpunt (koste-voordeel en verwante effekte) en 2. Ekologiese langtermyn faktore: Daar is 3 ekologiese faktore wat 'n boer se bestuur kan beïnvloed (waaraan ek kan dink): 1. Dieet-voorkeure: 1.1. Is daar spesie-voorkeure? Dit sal beïnvloed watter wildspesies op die veld veeverliese (en moontlik hoë waarde wild-verliese) kan verminder. 1.2. Is daar individuele voorkeure? Is daar iets soos "probleem individue"? Vir alle roofdier spesies? Dit sal beïnvloed of dit die moeite werd is om individue te verwyder. 2. Habitat-voorkeure: 2.1. Is daar spesifieke habitatte wat elke roofdier-spesie verkies (om in te jag)? Dit is die habitatte waaruit kwesbare wild en vee gehou moet word. (Kan deur Xi² bepaal word). 2.2. Waarom verkies die betrokke roofdier-spesie die betrokke habitat? (Kan deur Dempster-Shafer modelle vasgestel word). Is daar bv. areas wat vir jag en/of "dens" verkies word? Is daar verskille tussen 
+residensiële en nomadiese indiviue (dit is belangrik vir bv. Bontebokke)? 3: Roofdier-interaksie: Sal rooikatte bv. jakkalse weg hou uit sekere areas? Luiperds jagluiperds? Luiperds jakkalse en rooikatte? Afhangende van my veetipe kan dit bepaal waar ek sekere veetipes in sekere seisoene kan plaas (of selfs met watter veetipe ek kan boer). Kan met GPS halsbande, moontlik kameras en spore en Dempster-Shafer model bepaal word.
+8. One main question per chapter...
+9. Gebruik SurveyFacedoc as basiese vraelys. AgriForum kan dit verander en aanpas?
+
+Survey:
++Breeds for other livestock
+6: predators tick-box & 7 (increase & decrease)
+Online html survey?
+10.1: die -> the
+Topography of farm (influence method)?
