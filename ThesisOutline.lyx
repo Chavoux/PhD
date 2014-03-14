@@ -2,7 +2,7 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass article
+\textclass extreport
 \use_default_options true
 \maintain_unincluded_children false
 \language british
@@ -143,7 +143,7 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Part
+\begin_layout Chapter
 Chapter 1: General Intro
 \end_layout
 
@@ -212,14 +212,21 @@ key "Estes_et_al._2011"
  the removal of leopards in some areas, may lead to an increase in the number
  of caracals and black-backed jackals).
  Similar increase in meso-predator numbers has been shown in America for
- coyotes as a result of the loss of wolves, cougars or grizzly bears 
+ coyotes as a result of the loss of wolves, cougars or grizzly bears (
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealp
 key "Estes_et_al._2011"
 
 \end_inset
 
-.
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+).
  It follows that an ecosystem without its full complement of predators might
  not be able to deliver ecosystem services sustainably, in addition to the
  wider loss in biodiversity.
@@ -252,14 +259,21 @@ key "Marker_et_al_2003a"
  Current conserved areas are insufficient to ensure the long-term survival
  of large, wide-ranging predators like cheetahs, both because of intra-guild
  hostility by larger, social predators like lions and spotted hyenas inside
- conserved areas 
+ conserved areas (
 \begin_inset CommandInset citation
-LatexCommand citep
+LatexCommand citealp
 key "Ritchie_and_Johnson_2009"
 
 \end_inset
 
-, and because of the minimum required number of individuals needed in a
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Durant_1998,Durant_2000"
+
+\end_inset
+
+), and because of the minimum required number of individuals needed in a
  population to ensure genetic survival (
 \begin_inset CommandInset citation
 LatexCommand citealp
@@ -459,7 +473,7 @@ However, especially for the long-term sustainability of whichever method
  there is enough low-risk alternative areas available) and 2.
  if the reason why certain predators prefer certain habitat types within
  their wide-ranging home ranges can be established (e.g.
- for hunting or by females with higher prey requirements for having their
+ for hunting, or by females with higher prey requirements for having their
  cubs), vulnerable livestock can be kept away from these habitats.
  Lastly, the interactions between the predator species can also influence
  management options.
@@ -494,13 +508,15 @@ key "Beinart_1998"
  to prevent future livestock losses from too many meso-predators.
 \end_layout
 
-\begin_layout Paragraph
-Details of study site (everything relevant to all chapters) and introduction
- to the methods:
+\begin_layout Description
+Details of study site (everything relevant to all chapters: i.e.
+ North-Central Namibia) and introduction to the methods:
 \end_layout
 
 \begin_layout Itemize
-Literature review on human-wildlife conflict
+Literature review on human-wildlife conflict (Chapter 2); Literature review
+ on know behaviour of the four predator species as part of introduction
+ for each chapter / Or as part of background?
 \end_layout
 
 \begin_layout Itemize
@@ -508,11 +524,15 @@ Farmer survey
 \end_layout
 
 \begin_layout Itemize
-Camera trap survey
+Camera trap survey & possible leopard-cheetah interaction
 \end_layout
 
 \begin_layout Itemize
-Analysis of historical data
+Spatial behaviour & habitat preferences
+\end_layout
+
+\begin_layout Itemize
+Prey preferences & diet
 \end_layout
 
 \begin_layout Itemize
@@ -520,22 +540,22 @@ Should there be any new methods or just use already existing methods? (Don't
  need new methods)
 \end_layout
 
-\begin_layout Part
+\begin_layout Chapter
 Chapter 2: Literature review on HWC
 \end_layout
 
-\begin_layout Paragraph
+\begin_layout Description
 Literature review on human-wildlife conflict worldwide, the different kinds
  of mitigating methods, their use in Southern Africa and their advantages
  and disadvantages in the Namibian context.
 \end_layout
 
-\begin_layout Part
+\begin_layout Chapter
 Chapter 3: Agricultural perspective: Farmer surveys
 \end_layout
 
-\begin_layout Itemize
-Sets up current situation...
+\begin_layout Description
+Current situation...
 \end_layout
 
 \begin_layout Itemize
@@ -544,23 +564,79 @@ General survey (as many farmers as possible):
 
 \begin_deeper
 \begin_layout Itemize
-Non-drought (2 years ago) vs.
- drought (Now)???
+What methods do farmers use to protect livestock from predators? 
 \end_layout
 
 \begin_layout Itemize
-Compare stocking levels / losses (and game numbers) of above two periods.
- (vs.
+Any correlation between stocking densities and percentage livestock losses?
+ 
+\end_layout
+
+\begin_layout Itemize
+Any correlation between farm size and percentage of livestock depredation
+ losses? 
+\end_layout
+
+\begin_layout Itemize
+Any correlation between game numbers and percentage livestock losses? 
+\end_layout
+
+\begin_layout Itemize
+How big is the predation problem really (both from a documented and a perception
+ point of view)? How many livestock lost annually (documented and estimated)?
+ 
+\end_layout
+
+\begin_layout Itemize
+How are the livestock depredation issues distributed between districts?
+ 
+\end_layout
+
+\begin_layout Itemize
+Any correlation between livestock depredation prevention measures and actual
+ percentage of livestock lost? (How well do the methods work?) 
+\end_layout
+
+\begin_layout Itemize
+Any unexpected advantages or disadvantages of the actual methods used? (Why
+ do you prefer these methods?) 
+\end_layout
+
+\begin_layout Itemize
+How good are farmers in recording livestock losses (and livestock numbers)?
+ 
+\end_layout
+
+\begin_layout Itemize
+How willing are farmers to consider alternative methods? And why (not)?
+ 
+\end_layout
+
+\begin_layout Itemize
+Do farmers know what the costs of their livestock protection methods are?
+ 
+\end_layout
+
+\begin_layout Itemize
+Are there any changes in the numbers of predators as perceived by farmers?
+ Can these changes be linked to any specific districts (and possible predator
+ range increases/decreases)? 
+\end_layout
+
+\begin_layout Itemize
+Identify farmers with good book-keeping practices and interest for follow-up
+ visits and more detailed data on the costs and effectiveness of the different
+ methods used.
+\end_layout
+
+\begin_layout Itemize
+Compare stocking levels / losses (and game numbers) (vs.
  1990's)
-\end_layout
-
-\begin_layout Itemize
-Compare predator numbers (will they still have records from 2 years ago?)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-Monthly survey (from willing farmers with good record-keeping)
+Monthly survey (from willing farmers with good record-keeping in focus area)
 \end_layout
 
 \begin_deeper
@@ -581,9 +657,14 @@ Changes in livestock numbers (calves/lambs/kids) - used to determine calving
  and weaning %.
 \end_layout
 
+\begin_layout Itemize
+Predators killed
+\end_layout
+
 \end_deeper
-\begin_layout Part
-Chapter 4: Camera trap survey (+ historical GPS data?)
+\begin_layout Chapter
+Chapter 4: Camera Trap Study on Farm Woltemade, Namibia: Did an increase
+ in leopard numbers coincide with a decrease in cheetah numbers?
 \end_layout
 
 \begin_layout Itemize
@@ -595,12 +676,8 @@ How many individual predators? Density estimates.
 \end_layout
 
 \begin_layout Itemize
-Habitat use -> Habitat components!
-\end_layout
-
-\begin_layout Itemize
 Leopard-Cheetah fluctuation: Perception (From Chapter 3?), Reality (Cam.
- trap data) and Causes (Behavioural models).
+ trap data) and possible causes (Behavioural models).
 \end_layout
 
 \begin_layout Itemize
@@ -610,8 +687,46 @@ Historical data: What do we have? How many individuals? What areas? How
  data has already been published and what can still be used?
 \end_layout
 
-\begin_layout Part
-Chapter 5: Cost benefit analysis
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "CamTrap.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Chapter 5: Spatial behaviour and habitat preferences
+\end_layout
+
+\begin_layout Itemize
+Literature for each species
+\end_layout
+
+\begin_layout Itemize
+Spoor tracking (and possible GPS) -> Day-range 
+\end_layout
+
+\begin_layout Itemize
+GIS habitat models
+\end_layout
+
+\begin_layout Itemize
+Dempster-Shafer predictive models
+\end_layout
+
+\begin_layout Itemize
+Observed 
+\end_layout
+
+\begin_layout Chapter
+Chapter 6: Prey preferences and diet
+\end_layout
+
+\begin_layout Chapter
+Chapter 6: Cost-benefit analysis and Decision Support System (DDS)
 \end_layout
 
 \begin_layout Itemize
@@ -621,10 +736,6 @@ From monthly farmer data (Chapter 3).
 \begin_layout Itemize
 Include other methods identified in lit.
  review for discussion.
-\end_layout
-
-\begin_layout Part
-Chapter 6: Roll out wider into Africa? Habitat Model application to management.
 \end_layout
 
 \begin_layout Itemize
@@ -639,14 +750,14 @@ How cheetahs (other predators?) used their territories.
 \begin_layout Itemize
 Extrapolate: Where should they be? Does that correlate to conservancies/communal
  land etc.
- ?
+ ???
 \end_layout
 
 \begin_layout Itemize
 Decision support system for farmers.
 \end_layout
 
-\begin_layout Part
+\begin_layout Chapter
 Chapter 7: General discussion
 \end_layout
 

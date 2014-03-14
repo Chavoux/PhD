@@ -4,6 +4,7 @@
 \begin_header
 \textclass article
 \use_default_options true
+\master ThesisOutline.lyx
 \maintain_unincluded_children false
 \language british
 \language_package default
@@ -64,7 +65,285 @@
 
 \begin_body
 
+\begin_layout Title
+Camera Trap Study on Farm Woltemade, Namibia: Did an increase in leopard
+ numbers coincide with a decrease in cheetah numbers?
+\end_layout
+
+\begin_layout Author
+Chavoux Luyt
+\end_layout
+
+\begin_layout Part
+Introduction 
+\end_layout
+
+\begin_layout Paragraph
+In addition to prey and habitat preferences, interaction with other predators
+ is the third ecological aspect of predator behaviour that can determine
+ management options for farmers.
+ Especially for cheetahs, competition with larger predators is one of the
+ main reasons why conserved areas are insufficient to ensure their long-term
+ survival.
+ A number of Namibian farmers have reported an increase in leopard numbers
+ and a simultaneous decrease in cheetah numbers (pers.
+ comm.
+ Francois Kok, Rolf Ritter and others).
+ The reported increase in leopards could be causing a decline in cheetah
+ as the result of direct lethal confrontation between leopards and cheetahs,
+ cheetahs avoiding areas with high leopard density ("fear and loathing"
+ sensu 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+), habitat changes more favourable to leopards, changes in available prey
+ species, a disproportionate number of cheetahs killed by farmers compared
+ to leopards, or other currently unknown reasons.
+ However, no such change has been reported on the land of the Cheetah Conservati
+on Fund (CCF), where no predators are killed.
+\end_layout
+
+\begin_layout Paragraph
+Woltemade Guest and Hunting Farm is situated in North Central Namibia, about
+ 40km Northwest of Hochfeld 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Figure 1 Map of study site with camera trap stations"
+
+\end_inset
+
+.
+ It is a guest and hunting farm as well as a working cattle farm of about
+ 22 000 ha with its own butchery in total and forms part of the Sandveld
+ conservancy.
+ The farm falls within the Thornbush shrubland vegetation type of Namibia,
+ growing on chromic Cambisols in the southern part, petric Calcisols in
+ the centre and ferric Arenosols soil types in the northern part of the
+ farm.
+ In 2008 CCF did a three month camera trap survey on the land, primarily
+ to determine cheetah numbers.
+ A total of 3890 pictures were taken, of which 19% where cheetahs, allowing
+ for the identification of six different cheetahs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_2008"
+
+\end_inset
+
+.
+ Other predators, including leopard, were also recorded.
+ Two cameras were used per site and cameras were placed at 10 play trees
+ and next to one road.
+ This data presents us with an opportunity to test whether the perceived
+ increase in leopard numbers really coincided with a decrease in cheetah
+ numbers.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset Graphics
+	filename Data/GIS/RolfRitter.png
+	lyxscale 30
+	scale 30
+	groupId Maps
+
+\end_inset
+
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "Figure 1 Map of study site with camera trap stations"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Aims and objectives 
+\end_layout
+
+\begin_layout Paragraph
+The main aim of the camera trap study is simply to determine if there has
+ really been an increase in leopard numbers on the farm Woltemade and secondly,
+ if such an increase coincided with a decrease in cheetah numbers.
+ If such a change in numbers has indeed occurred, it would suggest that
+ more research into the reasons for this change needs to be done to ensure
+ the future survival of cheetahs on farmlands.
+ Some circumstantial data will also be collected to suggest possible avenues
+ of future research.
+ There are a number of alternative hypotheses to be tested.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The null hypothesis (H0) is simply that there has been no significant change
+ in either leopard or cheetah numbers.
+ The perceived change that was reported might be simply because of an increase
+ in livestock losses from leopard depredation, leading to farmers thinking
+ that there has been an increase in leopard numbers.
+ Increasing livestock losses from leopards might be caused by them switching
+ to livestock as prey because of changes in wild prey availability, changes
+ in farm management bringing more vulnerable livestock into contact with
+ areas of high leopard density, or any number of other reasons that does
+ not entail an increase in numbers.
+ Because of the rise of conservancies, it is also possible that predators
+ are less persecuted than before, changing their behaviour, and so they
+ are simply seen more easily by farmers.
+ Of course, since this study can only be done on the one farm for which
+ historical data are available, it is also possible that the sample sizes
+ might be too small to show significance (only four cheetah individuals
+ identified during previous survey), even if there was a real change in
+ numbers.
+ 
+\end_layout
+
+\begin_layout Enumerate
+H1 There might be an actual increase in leopard numbers, but no change in
+ cheetah numbers.
+ This will indicate that a number of possible reasons could cause an increase
+ in leopard numbers, but that these factors don’t really influence the numbers
+ of cheetahs and also that leopards are unlikely to influence cheetah numbers
+ through direct competition or outright killing.
+ 
+\end_layout
+
+\begin_layout Enumerate
+H2 There might both be an increase in the numbers of leopards and a simultaneous
+ decrease in the numbers of cheetahs.
+ While this will not indicate any reason for the changes in numbers, it
+ would suggest that is possible that leopards can have a direct effect on
+ the numbers of cheetahs and that this should be investigated further.
+ Finding the reason for the changes will be important, both to ensure the
+ long-term survival of the cheetah and for farmers to adapt their management
+ practices to take into account the difference in behaviour and predation
+ risk between leopards and cheetahs.
+ 
+\end_layout
+
+\begin_layout Enumerate
+H3 There might be an increase in both leopard and cheetah numbers.
+ This will indicate that circumstances have somehow changed (e.g.
+ a change in habitat, number of available prey species or management changes)
+ so that both predator species benefit.
+ It might mean that farmers should consider additional management practices
+ to protect their livestock from both predator species, but that the current
+ management of Woltemade farm and neighbouring conservancy members are benefitin
+g predator conservation.
+ 
+\end_layout
+
+\begin_layout Enumerate
+H4 The last, very unlikely result, might be that there has actually been
+ an increase in cheetah numbers, while leopard numbers decreased or stayed
+ the same.
+ This will be the opposite of what is being reported by most farmers and
+ will also need more research to find the reason for such a change.
+\end_layout
+
+\begin_layout Part
+Methods & materials 
+\end_layout
+
 \begin_layout Standard
+1.
+ On 12-13 March 2014, camera traps will be set at the exact same 11 sites
+ and in the same season of the year as the previous survey.
+ Personnel used: Chavoux Luyt, Matti Nghikembua and one intern.
+ Materials needed: 1.
+ 24 Camera traps (provided by CCF) (2 for back-up) 2.
+ 22 metal poles (provided by R.
+ Ritter) 3.
+ Spade, hoe and panga for clearing grass and shrubs in front of cameras
+ (CCF) 4.
+ GPS for finding playtree sites (CCF) 5.
+ Vehicle and fuel for transporting equipment (CCF) 6.
+ Tents, food and cooking equipment for one night (CCF) 7.
+ Cybertracker device with GPS to record camera trap details (C.
+ Luyt) 2.
+ In order to check the cameras regularly and to save on travelling costs,
+ I propose to return to the farm on Tuesday 18 March.
+ Data on rainfall, game numbers, and changes in management practices, both
+ on his own farm and the neighbouring conservancy members will be collected
+ from Rolf Ritter in order to shed more light on the results of the camera
+ trap survey.
+ Materials needed: 1.
+ Tent, food & cooking equipment for at least one week (provided by C.
+ Luyt) 2.
+ Vehicle and fuel for camera checking (C.
+ Luyt) 3.
+ Cybertracker device to record camera checking data (C.
+ Luyt) 4.
+ Charger for batteries (CCF) 5.
+ Laptop and back-up external hard-drives for downloading data (pictures
+ and Cybertracker) (C.
+ Luyt) 6.
+ Back-up non-rechargeable batteries (C.
+ Luyt) 3.
+ During the stay on the farm, I will also work on various other aspects
+ of the PhD: 1.
+ Finish up first draft of literature review on known farmer-predator conflict
+ prevention methods.
+ 2.
+ Start identifying and counting the leopards from the previous camera trap
+ survey.
+ 3.
+ Finish farmer survey for AgriForum.
+ 4.
+ Finish the Stellenbosch University ethics clearance and MET permit applications.
+ 5.
+ Start sorting the weekly downloaded pictures by species.
+ 6.
+ Possibly visit some of the neighbouring farms.
+ Optionally use farmer survey (if any of them do not receive the AgriForum)
+ for more data on their management methods.
+ 7.
+ Do field testing on the viability of using spoor tracking and Cybertracker
+ for predator spatial behaviour in the rainy season.
+ I have tested this at CCF in the dry season and it worked reasonably well
+ for leopard kills (at least 3 leopard kills recorded with Cybertracker
+ within walking distance of CCF centre).
+ Why? 4.
+ The data will be analysed when the survey is done, using Resampling Stats
+ (add-in for Excel).
+ If there are any need for predator/kill ID training and/or game counts
+ in the coming months, I can return to CCF for a few days at a time and
+ also bring the collected data with for download to CCF hard drives.
+\end_layout
+
+\begin_layout Part
+Conclusion 
+\end_layout
+
+\begin_layout Paragraph
+Although the camera trap study will not be able to prove that there has
+ been a general increase in leopard numbers (and simultaneous decrease in
+ cheetah numbers) in Northern Namibia, it should be able to test if this
+ effect as reported by one farmer, is real or not.
+ Even if this data can not be extrapolated to the whole of North Central
+ Namibia, it can provide supportive evidence that the reported change in
+ predator composition on these farmlands are real.
+ If there is a real effect, it will imply that more research is needed on
+ the causes of the change in predator numbers.
+ Any additional data on rainfall, vegetation changes, game and livestock
+ numbers and management can also be provided as possible causes for the
+ change in predator numbers that needs to be investigated.
+ Spoor tracking will later (from July 2014 onward) be used to provide more
+ detail on the spatial behaviour of the four predator species that can have
+ an economic impact on livestock farming in Northern Namibia.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/boer/Documents/Ecology"
+options "bibtotoc,plainnat"
+
+\end_inset
+
 
 \end_layout
 
