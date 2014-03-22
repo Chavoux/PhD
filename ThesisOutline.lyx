@@ -510,7 +510,7 @@ key "Beinart_1998"
 
 \begin_layout Description
 Details of study site (everything relevant to all chapters: i.e.
- North-Central Namibia) and introduction to the methods:
+ North-Central Namibia) and introduction to the methods (August 2015):
 \end_layout
 
 \begin_layout Itemize
@@ -541,13 +541,34 @@ Should there be any new methods or just use already existing methods? (Don't
 \end_layout
 
 \begin_layout Chapter
-Chapter 2: Literature review on HWC
+Chapter 2: Literature review on HWC 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Better title
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
 Literature review on human-wildlife conflict worldwide, the different kinds
  of mitigating methods, their use in Southern Africa and their advantages
  and disadvantages in the Namibian context.
+ (Current - June 2014)
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Web searches, library & papers
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
@@ -556,10 +577,12 @@ Chapter 3: Agricultural perspective: Farmer surveys
 
 \begin_layout Description
 Current situation...
+ To be able to do a cost-benefit analysis of anti-predation methods.
 \end_layout
 
 \begin_layout Itemize
-General survey (as many farmers as possible):
+General survey (as many farmers as possible) (Sent with April 2014 AgriForum.
+ Replies until July?):
 \end_layout
 
 \begin_deeper
@@ -621,6 +644,16 @@ Do farmers know what the costs of their livestock protection methods are?
 Are there any changes in the numbers of predators as perceived by farmers?
  Can these changes be linked to any specific districts (and possible predator
  range increases/decreases)? 
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Clear time period
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -632,11 +665,22 @@ Identify farmers with good book-keeping practices and interest for follow-up
 \begin_layout Itemize
 Compare stocking levels / losses (and game numbers) (vs.
  1990's)
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Ministry of Agriculture?
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 Monthly survey (from willing farmers with good record-keeping in focus area)
+ (July 2014 - July 2015)
 \end_layout
 
 \begin_deeper
@@ -662,9 +706,28 @@ Predators killed
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+Cost-benefit analysis of methods (+ other pros & cons)
+\end_layout
+
 \begin_layout Chapter
-Chapter 4: Camera Trap Study on Farm Woltemade, Namibia: Did an increase
- in leopard numbers coincide with a decrease in cheetah numbers?
+Chapter 4: Camera Trap Study on Farm Woltemade, Namibia: Did the reported
+ increase in leopard numbers coincide with a decrease in cheetah numbers?
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Perception vs Reality (2 points in time)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+March - June 2014
 \end_layout
 
 \begin_layout Itemize
@@ -684,7 +747,8 @@ Leopard-Cheetah fluctuation: Perception (From Chapter 3?), Reality (Cam.
 Historical data: What do we have? How many individuals? What areas? How
  long per individual? Data point frequency? What species? Did the tagging
  periods (and place) overlap with the previous camera trap surveys? What
- data has already been published and what can still be used?
+ data has already been published and what can still be used? (Relative Abundance
+ Index)
 \end_layout
 
 \begin_layout Standard
@@ -702,40 +766,107 @@ Chapter 5: Spatial behaviour and habitat preferences
 \end_layout
 
 \begin_layout Itemize
+July 2014 - July 2015
+\end_layout
+
+\begin_layout Itemize
 Literature for each species
 \end_layout
 
 \begin_layout Itemize
-Spoor tracking (and possible GPS) -> Day-range 
+Spoor tracking (and possible GPS) -> Day-range data (habitat use)
 \end_layout
 
 \begin_layout Itemize
-GIS habitat models
+GIS habitat models (Xi square analysis)
 \end_layout
 
 \begin_layout Itemize
-Dempster-Shafer predictive models
+Dempster-Shafer predictive models (from literature)
 \end_layout
 
 \begin_layout Itemize
-Observed 
+Observed (Regression: P(Dempster-Shafer predicted) : Density observed /
+ habitat use percentage)
 \end_layout
 
 \begin_layout Chapter
 Chapter 6: Prey preferences and diet
 \end_layout
 
-\begin_layout Chapter
-Chapter 6: Cost-benefit analysis and Decision Support System (DDS)
+\begin_layout Itemize
+July 2014 - July 2015 (Overlap with Chapter 5 and mostly use same method(s))
 \end_layout
 
 \begin_layout Itemize
-From monthly farmer data (Chapter 3).
+Two questions: 1.
+ Species prey preference (mostly from literature) 2.
+ Individual specialization.
+\end_layout
+
+\begin_layout Itemize
+Hunting attempts and kills recorded from tracking (Individuals vs species
+ preferences) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bothma_n_Le_Riche_1984"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cluster analysis of GPS data? 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martins_et_al_2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Possible corroboration from scat analysis.
+ (Samples needed: Sanna's report & another paper?)
+\end_layout
+
+\begin_layout Itemize
+Get available prey % from camera trap data and / or game count data.
+ Jacobs index.
+\end_layout
+
+\begin_layout Chapter
+Chapter 7: Cost-benefit analysis and Decision Support System (DDS)
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Graphics
+	filename DSS1.pdf
+	rotateAngle 270
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+July 2015 - December 2015 
+\end_layout
+
+\begin_layout Itemize
+Inputs:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+From monthly farmer data (Chapter 3): Cost-benefit analysis.
 \end_layout
 
 \begin_layout Itemize
 Include other methods identified in lit.
- review for discussion.
+ review for discussion (pros and cons).
 \end_layout
 
 \begin_layout Itemize
@@ -743,13 +874,19 @@ Commercial vs communal: The results might not be applicable in most of Africa.
 \end_layout
 
 \begin_layout Itemize
-How cheetahs (other predators?) used their territories.
+How predators use their territories.
  Determining factors (Dempster-Shafer model?).
 \end_layout
 
+\end_deeper
 \begin_layout Itemize
-Extrapolate: Where should they be? Does that correlate to conservancies/communal
- land etc.
+Outputs:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Extrapolate: Where are predators most likely to be? Does that correlate
+ to conservancies/communal land etc.
  ???
 \end_layout
 
@@ -757,8 +894,9 @@ Extrapolate: Where should they be? Does that correlate to conservancies/communal
 Decision support system for farmers.
 \end_layout
 
+\end_deeper
 \begin_layout Chapter
-Chapter 7: General discussion
+Chapter 8: General discussion
 \end_layout
 
 \begin_layout Standard

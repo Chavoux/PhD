@@ -18,3 +18,33 @@ Survey:
 Online html survey?
 10.1: die -> the
 Topography of farm (influence method)?
+
+Hi Anne
+First, I want repeat that using GPS collars is a fall-back method in case I cannot get enough data from spoor tracking. It is also stated as such in my project proposal. However, I will need to have the permits etc. already in place beforehand. For the permit I need a letter from a vet (which does not need to be the CCF vet), with veterinary board registration number and drug protocol that is going to be used for the immobilization.
+
+In terms of your questions:
+1. Included in the permit would be 3 leopards, 3 cheetahs, 5 caracals and 10 (5 male, 5 female) jackals. Obviously this will be subject to capture success.
+2. Capture methods:
+2.1 Cheetah and caracal: Cage Traps
+2.3. Leopard: Foot loop trap (Please contact Panthera or the Cape Leopard Trust if there are doubts about this method: lepoards are frequently badly hurt by trap cages)
+2.4. Soft traps for jackals (could also opportunistically catch caracal)
+Jackal and caracal can be transported in closed "release" cage / squeeze cage to closest vet and immobilized there (less stress for animal and less time waiting for vet to arrive at capture site).
+3. Funding for drugs and other staff will come out of my project funding. I was hoping that the vet staff time could be provided by CCF. If I have to pay for the vet time, it would probably make more sense to simply use a vet from town which might reach farms quicker than the vet from CCF.
+
+A draft letter:
+To whom it may concern
+
+I, <name of vet>, registration number <registration number of vet> will be the responsible veterinarian during the capture and immobilization of the following predators as part of the PhD research project of E. du C. Luyt. The immobilizing drugs and dosages that will be used for each predator species (in cc per kg body mass) will be as follows:
+1. Leopard (Panthera pardus): 
+2. Cheetah (Acinonyx jubatus):
+3. Caracal (Caracal caracal):
+3. Black-backed jackal: (Canis mesomelas):
+
+Regards
+
+<Signature>
+
+<name of vet>   Date:
+
+Thanks
+Chavoux
