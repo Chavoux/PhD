@@ -12,6 +12,7 @@
 % use this if you need line numbers
 %\usepackage{lineno}
 \end_preamble
+\options authoryear
 \use_default_options false
 \begin_modules
 fixltx2e
@@ -4544,7 +4545,7 @@ elsarticle-num
 LatexCommand bibtex
 btprint "btPrintCited"
 bibfiles "/home/boer/doks/Literature/Ecology"
-options "myplainnat"
+options "elsarticle-harv"
 
 \end_inset
 

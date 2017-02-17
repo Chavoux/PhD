@@ -59,7 +59,7 @@ fixltx2e
 \paperorientation portrait
 \suppress_date false
 \justification true
-\use_refstyle 0
+\use_refstyle 1
 \index Index
 \shortcut idx
 \color #008000
@@ -2394,7 +2394,7 @@ elsarticle-num
 LatexCommand bibtex
 btprint "btPrintCited"
 bibfiles "/home/boer/doks/PhD/Literature/Ecology"
-options "elsarticle-harv"
+options "/home/boer/texmf/bibtex/bst/stellenbosch/myplainnat"
 
 \end_inset
 
@@ -2402,9 +2402,18 @@ options "elsarticle-harv"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 \begin_inset CommandInset include
 LatexCommand include
 filename "01Appendix.lyx"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 

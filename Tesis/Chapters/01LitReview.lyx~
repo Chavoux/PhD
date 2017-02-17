@@ -1,0 +1,1247 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass elsarticle
+\begin_preamble
+% specify here the journal
+\journal{Journal for Nature Conservation}
+
+% use this if you need line numbers
+%\usepackage{lineno}
+\end_preamble
+\options authoryear
+\use_default_options false
+\begin_modules
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 0
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This is a template \SpecialChar LyX
+ file for articles to be submitted to journals of the
+ Elsevier publishing company.
+ For general infos see 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://wiki.lyx.org/Examples/Elsevier
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The Journal is specified in the document preamble! For the right document
+ class options to get the page format for your journal, have a look at the
+ elsarticle documentation: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.ctan.org/get/macros/latex/contrib/elsarticle/elsdoc.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrontmatter
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keep this empty!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Human-Predator Conflict: The need for a new approach
+\begin_inset Flex Titlenotemark
+status collapsed
+
+\begin_layout Plain Layout
+t1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+tnoteref
+\series default
+\size normal
+ you refer to the title footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title footnote
+This research was funded by a NRF Innovation Doctoral Scholarship.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+t1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Title footnote
+The second title footnote which is a longer longer than the first one and
+ with an intention to fill in up more than one line while formatting.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+t2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title footnote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+There are two author styles possible:
+\end_layout
+
+\begin_layout Plain Layout
+1.
+ Authors side by side
+\begin_inset space \hfill{}
+\end_inset
+
+2.
+ Authors below each other
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+Address
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Addresses
+\begin_inset space \hfill{}
+\end_inset
+
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+——-
+\begin_inset space \hfill{}
+\end_inset
+
+Address
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+E.
+ du C.
+\begin_inset space ~
+\end_inset
+
+Luyt
+\begin_inset Flex Authormark
+status collapsed
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex CorAuthormark
+status collapsed
+
+\begin_layout Plain Layout
+cor1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Email
+chavoux@gmail.com
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+At least one Email address is required.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+A.J.
+\begin_inset space ~
+\end_inset
+
+Leslie
+\begin_inset Flex Authormark
+status collapsed
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+C.
+\begin_inset space ~
+\end_inset
+
+Hui
+\begin_inset Flex Authormark
+status collapsed
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+L.M.
+\begin_inset space ~
+\end_inset
+
+Marker
+\begin_inset Flex Authormark
+status collapsed
+
+\begin_layout Plain Layout
+fn2
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+focal
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+fnref
+\series default
+\size normal
+ and you refer to the author footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Email
+http://www.cheetah.org
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+url
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author footnote
+Stellenbosch University.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author footnote
+Cheetah Conservation Fund.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+fn2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Corresponding author
+Corresponding author
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+cor1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Corresponding author
+Principal corresponding author
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+cor2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+Faculty of AgriSciences, Private Bag X1, 7602 Matieland, South Africa
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+P.O.
+ Box 1755, Otjiwarongo, Namibia
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+focal
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This is an example of the second author style:
+\end_layout
+
+\begin_layout Author
+C.V.
+\begin_inset space ~
+\end_inset
+
+Radhakrishnan
+\end_layout
+
+\begin_layout Email
+cvr@river-valley.com
+\end_layout
+
+\begin_layout Address
+River Valley Technologies, SJP Building, Cotton Hills, Trivandrum, Kerala,
+ India 695014
+\end_layout
+
+\begin_layout Author
+K.
+\begin_inset space ~
+\end_inset
+
+Bazargan
+\end_layout
+
+\begin_layout Email
+http://www.elsevier.com
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+url
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+River Valley Technologies, 9, Browns Court, Kennford, Exeter, United Kingdom
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Although many methods has been suggested to mitigate human-predator conflict,
+ it is still a worldwide and increasingly important problem, both for predator
+ conservation and for livestock farming.
+ In the past most solutions to this conflict has been either from an agricultura
+l perspective or from a conservation perspective.
+ However, because the goals of these two perspectives are seldom the same,
+ there has been frustratingly little progress in preventing human-wildlife
+ conflict.
+ Here we review different published methods used worldwide to alleviate
+ human-wildlife conflict, specifically conflict between livestock farmers
+ and predators, the pros and cons of each method and the probable usefulness
+ of the different methods to livestock farmers in North Central Namibia.
+ We propose a more useful classification of methods than the usual lethal
+ non-lethal dichotomy, and compare the various methods in terms of their
+ success and cost-effectiveness.
+ We also investigate the possible reasons for both failures and successes
+ of the different methods.
+ Lastly we propose that a new approach is needed if we want practical and
+ sustainable solutions to our current human-wildlife conflicts.
+\end_layout
+
+\begin_layout Keywords
+Human-wildife conflict 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ HWC 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ farmer-predator conflict 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ mitigating methods 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ Namibia 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ sustainability
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keywords must be separated by 
+\series bold
+
+\backslash
+sep
+\series default
+.
+ 
+\series bold
+
+\backslash
+PACS
+\series default
+ and 
+\series bold
+
+\backslash
+MSC
+\series default
+ are optional classifications.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout EndFrontmatter
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keep this empty!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Use here the command 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+linenumbers 
+\end_layout
+
+\end_inset
+
+ and enable the package 
+\series bold
+lineno
+\series default
+ in the preamble if you need line numbers.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Human-wildlife conflict is a growing global problem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Messmer_2000,Treves_n_Karanth_2003b,Nyhus_et_al_2005"
+
+\end_inset
+
+.
+ This has implications both for agriculture and for conservation.
+ Indeed, some authors have considered the conflict to be human-human conflict
+ between agriculturalists and conservation ecologists, rather than between
+ farmers and wildlife 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003,Conradie_n_Piesse_2013,Nattrass_n_Conradie_2013"
+
+\end_inset
+
+.
+ This imply that any solution to the conflict should address both the agricultur
+al perspective and the ecological perspective.
+ Although using the general term "human-wildlife conflict" (HWC), this article
+ really focus on carnivores and more specifically on predators.
+ So the terms "human-carnivore conflict" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Khorozyan_et_al_2015"
+
+\end_inset
+
+, "farmer-predator conflict" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Potgieter_et_al_2016"
+
+\end_inset
+
+ will be used interchangeably, with the understanding that "human-wildlife
+ conflict" as used here refers not only to carnivores in general (which
+ includes scavengers), but specifically to conflict arising from depredation
+ of livestock.
+ We will be focussing on commercial livestock farming in Namibia, while
+ keeping in mind that the same methods could work in other areas with similar
+ circumstances and predators.
+ The issue of game farming and conflict caused by depredation of valuable
+ game animals, is really a separate question and will not be considered
+ here.
+\end_layout
+
+\begin_layout Standard
+From an ecological perspective it is known that the greatest threat to large
+ mammalian carnivores and sharks is direct killing by humans 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Bruskotter_2014"
+
+\end_inset
+
+, an even greater immediate threat than habitat destruction, especially
+ in Africa 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ray_et_al_2005"
+
+\end_inset
+
+.
+ This includes killing of carnivores in retaliation for livestock depredation
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ogada_et_al_2003"
+
+\end_inset
+
+.
+ Large carnivores, often apex predators, need large home ranges or territories
+ to sustain themselves, making them more vulnerable to extinction 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cardillo_et_al_2004,Schipper_et_al_2008"
+
+\end_inset
+
+.
+ This is exemplified by the cheetah (
+\shape italic
+Acinonyx jubatus
+\shape default
+), classified as vulnerable in the IUCN Red List 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Durant_et_al_2015"
+
+\end_inset
+
+.
+ In Namibia, the country with the largest surviving population of cheetahs
+ in the world 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_1998,Marker_et_al_2003b,Durant_et_al_2015"
+
+\end_inset
+
+, an estimated 90% of cheetahs are found on commercial livestock farms (private
+ ranches) outside formally protective reserves 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_2000,Marker_et_al_2003a"
+
+\end_inset
+
+ with being shot on livestock farms the major cause of death 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2010"
+
+\end_inset
+
+.
+ In Southern Africa, most of the vulnerable 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stein_et_al_2016"
+
+\end_inset
+
+ leopard (
+\shape italic
+Panthera pardus
+\shape default
+) habitat is found outside protected areas and the major threat to leopard
+ survival is direct killing by people
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Swanepoel_et_al_2015"
+
+\end_inset
+
+.
+ The same high percentage of habitat outside conserved areas is true for
+ tigers, jaguars and snow leopards (Miquelle et al., 1999; Nowell & Jackson,
+ 1996; quoted in 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Dickman_et_al_2011"
+
+\end_inset
+
+).
+ With farmers as the custodians of the majority of land in most countries
+ of the world, the ultimate survival of many species are squarely in the
+ hands of farmers.
+\end_layout
+
+\begin_layout Standard
+A telephone survey by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Van_Niekerk_2010"
+
+\end_inset
+
+ showed that livestock farmers in South Africa claimed a total annual loss
+ of R 1 390 453 062 worth of livestock directly to predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ These losses were unequally distributed with some districts and some farmers
+ having much higher losses than the average (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+).
+ Similarly, data from the official government-sponsored hunting clubs for
+ the period 1979-1987 in the Ceres South district 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+and Cooper hunting club 1976-1981 outside Mossel Bay 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bailey_n_Conradie_2013"
+
+\end_inset
+
+ showed average losses of 1.48 livestock units per farm and 0.94 sheep per
+ farm per year, but with highs of up to 114 sheep lost in a single year
+ to predators on a single farm.
+ In the area around the Waterberg in North-Central Namibia, farmers lost
+ on average 3.8% of their calves to depredation annually (US$1370 per farm
+ per year according to 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stein_et_al_2010"
+
+\end_inset
+
+).
+ In a slightly wider area of North-Central Namibia, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Marker_et_al_2003b"
+
+\end_inset
+
+ found that farmers who claimed cheetah problems on average lost 16.7 (2%)
+ of their cattle and 18.0 (5.3%) of their small livestock per year for the
+ period 1991-1993 and those who claimed cheetahs as not problematic lost
+ on average 6.8 (1.3%) of their cattle and 11.5 (4.3%) of their small livestock
+ to predators.
+ In 1993-1999 the numbers changed to an average of 5.8 cattle lost per year
+ by farmers who claimed cheetahs as problematic and 1.2 by those who did
+ not consider cheetahs problematic, while they lost on average 8.5 and 12.1
+ small livestock respectively.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lindsey_et_al_2013c"
+
+\end_inset
+
+found the average annual livestock losses reported due to leopards over
+ most of Namibia's commercial farm areas to be US$2,644/farm to leopards,
+ almost double that reported by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stein_et_al_2010"
+
+\end_inset
+
+ earlier.
+ If we keep in mind that we might have a similar uneven distribution of
+ livestock depredation between farms as shown by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+ in the Ceres Karoo, the losses of some individual farmers could be very
+ high.
+ These kinds of losses are not economically insignificant, and a study at
+ the Glen Agricultural Institute near Bloemfontein in the Free State, found
+ that black-backed jackal (
+\shape italic
+Canis mesomelas
+\shape default
+) and caracal (
+\shape italic
+Caracal caracal
+\shape default
+) depredation of the Merino and Dorper sheep made it ultimately unsustainable
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ In addition to direct losses, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Howery_n_DeLiberto_2004"
+
+\end_inset
+
+ make the point that behavioural changes in livestock because of predation
+ risk, can cause significant decreases in production and reproduction rates.
+ In the final instance, while everybody benefit from a functioning and biodivers
+e ecosystem, the cost of conserving large and sometimes dangerous animals
+ is often borne disproportionately by farmers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Predators fulfil an important role in functioning ecosystems, and their
+ extermination has many unintended consequences, including trophic cascades
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ripple_et_al_2014"
+
+\end_inset
+
+ and extinctions 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011,DeCesare_et_al_2010"
+
+\end_inset
+
+, meso-predator release 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, and savannah ecosystems becoming dominated by more thorny trees and shrubs
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ford_et_al_2014"
+
+\end_inset
+
+.
+ Ultimately, the persistence of ecosystem services 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Reiss_et_al_2009,CPW_2014,Grace_et_al_2016*"
+
+\end_inset
+
+ and the stability of ecosystems as such, are dependent on its biodiversity
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cadotte_et_al_2012,Hautier_et_al_2015"
+
+\end_inset
+
+, and there is good reason to believe that predators are a major driver
+ of high biodiversity 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Terborgh_2015"
+
+\end_inset
+
+.
+ E.g.
+ the leopard, an apex predator, has been considered as a reliable indicator
+ of a healthy ecosystem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pitman_2012"
+
+\end_inset
+
+.
+ Extensive livestock farming is ultimately dependent on sustainable ecosystem
+ services for its own survival as a viable economic activity 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bowe_2000"
+
+\end_inset
+
+.
+ For both the economic survival of livestock farmers and the persistence
+ of relatively species-rich ecosystems on livestock farms 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kinnaird_n_OBrien_2012"
+
+\end_inset
+
+, it is important that solutions to farmer-predator conflict be found.
+\end_layout
+
+\begin_layout Section
+\start_of_appendix
+Appendix name
+\end_layout
+
+\begin_layout Standard
+Appendix, only when needed.
+\end_layout
+
+\begin_layout Section*
+—————–
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+You can use either Bib\SpecialChar TeX
+:
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The following bibliography styles are allowed: 
+\family sans
+elsarticle-harv
+\family default
+, 
+\family sans
+elsarticle-num-names
+\family default
+, or 
+\family sans
+elsarticle-num
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/boer/doks/PhD/Literature/Ecology"
+options "bibtotoc,elsarticle-harv"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

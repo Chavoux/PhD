@@ -12,9 +12,10 @@
 % use this if you need line numbers
 %\usepackage{lineno}
 \end_preamble
+\options authoryear
 \use_default_options false
 \begin_modules
-fixltx2e
+theorems-std
 \end_modules
 \maintain_unincluded_children false
 \language british
@@ -34,7 +35,7 @@ fixltx2e
 \graphics default
 \default_output_format default
 \output_sync 0
-\bibtex_command default
+\bibtex_command bibtex
 \index_command default
 \paperfontsize default
 \spacing single
@@ -54,12 +55,12 @@ fixltx2e
 \cite_engine natbib
 \cite_engine_type authoryear
 \biblio_style plainnat
-\use_bibtopic true
+\use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
 \justification true
-\use_refstyle 1
+\use_refstyle 0
 \index Index
 \shortcut idx
 \color #008000
@@ -91,7 +92,7 @@ This is a template \SpecialChar LyX
  Elsevier publishing company.
  For general infos see 
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -149,6 +150,173 @@ Keep this empty!
 
 \begin_layout Title
 Human-Predator Conflict: The need for a new approach
+\begin_inset Flex Titlenotemark
+status collapsed
+
+\begin_layout Plain Layout
+t1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+tnoteref
+\series default
+\size normal
+ you refer to the title footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title footnote
+This research was funded by a NRF Innovation Doctoral Scholarship.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+t1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Title footnote
+The second title footnote which is a longer longer than the first one and
+ with an intention to fill in up more than one line while formatting.
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+t2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title footnote
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+There are two author styles possible:
+\end_layout
+
+\begin_layout Plain Layout
+1.
+ Authors side by side
+\begin_inset space \hfill{}
+\end_inset
+
+2.
+ Authors below each other
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+Address
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+Author
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Addresses
+\begin_inset space \hfill{}
+\end_inset
+
+Email
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+——-
+\begin_inset space \hfill{}
+\end_inset
+
+Address
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Author
@@ -169,7 +337,7 @@ fn1
 
 
 \begin_inset Flex CorAuthormark
-status open
+status collapsed
 
 \begin_layout Plain Layout
 cor1
@@ -179,7 +347,7 @@ cor1
 
 
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 rvt
@@ -211,7 +379,7 @@ A.J.
 
 Leslie
 \begin_inset Flex Authormark
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fn1
@@ -221,30 +389,10 @@ fn1
 
 
 \begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-rvt
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-\size normal
-With 
-\series bold
-\size default
-
-\backslash
-fnref
-\series default
-\size normal
- and you refer to the author footnotes.
+rvt
 \end_layout
 
 \end_inset
@@ -259,7 +407,7 @@ C.
 
 Hui
 \begin_inset Flex Authormark
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fn1
@@ -269,30 +417,10 @@ fn1
 
 
 \begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-rvt
-\end_layout
-
-\end_inset
-
-
-\begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-
-\size normal
-With 
-\series bold
-\size default
-
-\backslash
-fnref
-\series default
-\size normal
- and you refer to the author footnotes.
+rvt
 \end_layout
 
 \end_inset
@@ -307,7 +435,7 @@ L.M.
 
 Marker
 \begin_inset Flex Authormark
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fn2
@@ -317,7 +445,7 @@ fn2
 
 
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 focal
@@ -351,10 +479,10 @@ fnref
 \begin_layout Email
 http://www.cheetah.org
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
-URL
+url
 \end_layout
 
 \end_inset
@@ -365,7 +493,7 @@ URL
 \begin_layout Author footnote
 Stellenbosch University.
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fn1
@@ -379,7 +507,7 @@ fn1
 \begin_layout Author footnote
 Cheetah Conservation Fund.
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 fn2
@@ -393,7 +521,7 @@ fn2
 \begin_layout Corresponding author
 Corresponding author
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 cor1
@@ -404,10 +532,33 @@ cor1
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Corresponding author
+Principal corresponding author
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+cor2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Address
 Faculty of AgriSciences, Private Bag X1, 7602 Matieland, South Africa
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 rvt
@@ -422,7 +573,7 @@ rvt
 P.O.
  Box 1755, Otjiwarongo, Namibia
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 focal
@@ -2346,20 +2497,13 @@ key "Blackburn_et_al_2016"
  and other predators.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-To get another numbering scheme, you cannot use an option argument (a.k.a.
- short title) as described in the elsarticle manual.
- But you can use the following \SpecialChar TeX
--code command to achieve the same:
+\begin_layout Section
+\start_of_appendix
+Appendix name
 \end_layout
 
-\end_inset
-
-
+\begin_layout Standard
+Appendix, only when needed.
 \end_layout
 
 \begin_layout Section*
@@ -2367,8 +2511,14 @@ To get another numbering scheme, you cannot use an option argument (a.k.a.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
+You can use either Bib\SpecialChar TeX
+:
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 The following bibliography styles are allowed: 
@@ -2389,31 +2539,16 @@ elsarticle-num
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
-btprint "btPrintCited"
 bibfiles "/home/boer/doks/PhD/Literature/Ecology"
-options "/home/boer/texmf/bibtex/bst/stellenbosch/myplainnat"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-\begin_inset CommandInset include
-LatexCommand include
-filename "01Appendix.lyx"
-
-\end_inset
-
-
-\end_layout
+options "bibtotoc,elsarticle-harv"
 
 \end_inset
 
