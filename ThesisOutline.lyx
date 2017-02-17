@@ -1,7 +1,9 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass extreport
 \use_default_options true
 \maintain_unincluded_children false
@@ -9,16 +11,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family rmdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
-
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -29,15 +31,24 @@
 \use_hyperref false
 \papersize default
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 1
-\use_mathdots 1
-\cite_engine natbib_authoryear
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -76,7 +87,7 @@ Farming with predators
 \end_layout
 
 \begin_layout Title
-Human-predator conflict on Namibian farmlands: an ecosystem approach
+Human-predator conflict on Namibian farmlands: a new approach
 \end_layout
 
 \begin_layout Date
@@ -91,7 +102,7 @@ ral perspective or from a conservation perspective.
  there has been frustratingly little progress in preventing human-wildlife
  conflict.
  The "Farming with Predators" project aims to cross this divide by providing
- farmers and land managers with a Decision Support System (DDS) for reducing
+ farmers and land managers with a Decision Support System (DSS) for reducing
  human-wildlife conflict making use of both ecological and agricultural
  information.
  In Northern Namibia four predator species are widely considered as responsible
@@ -125,13 +136,15 @@ Panthera pardus
  to conflict with farmers is a priority, both for cheetah survival and farming
  in Namibia.
  The proposed DSS will make use a cost-benefit analysis of current anti-predatio
-n measures used by Namibian farmers (using data from both general surveys
- and detailed monthly data), ecological data on habitat preferences and
- spatial behaviour of the predators, predator prey preferences and predator
- ecological interactions.
- The practical implications of these data for sustainable farming and persistenc
-e of functioning ecosystems on farmlands will be discussed as well as its
- wider application for reducing human-wildlife conflict.
+n measures used by Namibian farmers (using survey data), ecological data
+ on habitat preferences and spatial behaviour of the predators, predator
+ prey preferences and predator ecological interactions using a Bayesian
+ Network approach.
+ As more farmers start using the program, the model will be updated with
+ new data in order to enable greater accuracy.
+ The practical implications of such models for sustainable farming and persisten
+ce of functioning ecosystems on farmlands will be discussed as well as a
+ possible wider application for reducing human-wildlife conflict.
 \end_layout
 
 \begin_layout Abstract
@@ -144,57 +157,12 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Chapter
-Chapter 1: General Intro
+Chapter 1: Background
 \end_layout
 
-\begin_layout Paragraph
-Human-wildlife conflict is an increasing and worldwide problem (
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Messmer_2000"
-
-\end_inset
-
-; 
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Treves_n_Karanth_2003"
-
-\end_inset
-
-), even though a variety of mitigating methods have been proposed (
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Nyhus_et_al_2003,Linnell_et_al_1996,Shivik_2004,Daly_et_al_2006,Shivik_2006"
-
-\end_inset
-
-).
- These include proactive methods to prevent the conflict (
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Daly_et_al_2006,Shivik_2006"
-
-\end_inset
-
-), methods that increase the value of the wildlife species to offset the
- costs of living with wildlife (e.g.
- regulated harvest of leopard in Uganda [
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "Treves_n_Karanth_2003"
-
-\end_inset
-
-], wildlife property rights on Namibian farmlands [
-\begin_inset CommandInset citation
-LatexCommand citealp
-key "McGranahan_2008"
-
-\end_inset
-
-], eco-tourism, etc.), and reactive methods including compensation and removal
- of problem animals after-the-fact.
+\begin_layout Section
+Why? The importance of natural habitat on farmlands for ecological sustainabilit
+y
 \end_layout
 
 \begin_layout Paragraph
@@ -302,10 +270,64 @@ key "Marker_et_al_2003a"
  conserved areas to ensure the long-term survival of these predator species.
 \end_layout
 
+\begin_layout Section
+Human-wildlife conflict: why another approach?
+\end_layout
+
 \begin_layout Paragraph
-One of the major reasons for farmer-predator conflict is that although everyone
- benefits from these ecosystem services, it is the farmers who have to bear
- the brunt of the costs.
+Human-wildlife conflict is an increasing and worldwide problem (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Messmer_2000"
+
+\end_inset
+
+; 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+), even though a variety of mitigating methods have been proposed (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Nyhus_et_al_2003,Linnell_et_al_1996,Shivik_2004,Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+).
+ These include proactive methods to prevent the conflict (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+), methods that increase the value of the wildlife species to offset the
+ costs of living with wildlife (e.g.
+ regulated harvest of leopard in Uganda [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+], wildlife property rights on Namibian farmlands [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McGranahan_2008"
+
+\end_inset
+
+], eco-tourism, etc.), and reactive methods including compensation and removal
+ of problem animals after-the-fact.
+\end_layout
+
+\begin_layout Paragraph
+One of the major reasons for farmer-predator conflict is that it is the
+ farmers who have to bear the brunt of the costs, although everyone benefits
+ from these ecosystem services.
  In a study done for the Red meat Producers Organisation the total annual
  costs of livestock depredation for small livestock farmers in South Africa
  was estimated as R 1 390 453 062 
@@ -360,10 +382,6 @@ key "Henschel_et_al_2008"
 \end_inset
 
 ) by the IUCN.
- Black-backed jackals in particular, is considered as a problem by some
- game farmers as well as communal farmers with large herds of goats and
- sheep (e.g.
- recent survey by CCF in four conservancies of the Greater Waterberg Complex).
  A better understanding of the ecological systems as it currently functions
  on Namibian farms, might be the key to better management and prevention
  of livestock losses.
@@ -371,7 +389,7 @@ key "Henschel_et_al_2008"
 \end_layout
 
 \begin_layout Paragraph
-A number of farmers have complained of a recent increase in leopard numbers
+[A number of farmers have complained of a recent increase in leopard numbers
  and a simultaneous decrease in cheetahs (pers.
  comm.
  Francois Kok, Rolf Ritter and others).
@@ -431,6 +449,168 @@ key "Beinart_1998,Daly_et_al_2006,Ritchie_and_Johnson_2009"
 
 , a better understanding of these interactions could lead to both better
  conservation and less human-wildlife conflict.
+ Unfortunately, neither farmers nor predators can wait until all these ecologica
+l research has been finished before they have to make management decisions
+ – which can have disastrous effects on both farmers and predators if wrong.]
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Leave out?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+Why have farmers generally not used the results of past research on human-wildli
+fe conflict? 
+\end_layout
+
+\begin_layout Section
+Using Probabilistic Graphical Models for decision-making
+\end_layout
+
+\begin_layout Description
+Advantages and disadvantages of the (different types of) models available...
+ or else just what a Decision Support System and/or Expert System is supposed
+ to be and how it can be useful.
+\end_layout
+
+\begin_layout Section
+Why Namibia?
+\end_layout
+
+\begin_layout Description
+Details of study site (everything relevant to all chapters: i.e.
+ North-Central Namibia) and introduction to the methods:
+\end_layout
+
+\begin_layout Itemize
+Literature review on human-wildlife conflict (Chapter 2); Literature review
+ on known behaviour of the four predator species as part of introduction
+ for each chapter / Or as part of background?
+\end_layout
+
+\begin_layout Itemize
+Farmer survey
+\end_layout
+
+\begin_layout Itemize
+Camera trap survey & possible leopard-cheetah interaction
+\end_layout
+
+\begin_layout Itemize
+Spatial behaviour & habitat preferences
+\end_layout
+
+\begin_layout Itemize
+Prey preferences & diet
+\end_layout
+
+\begin_layout Chapter
+Chapter 2: Human-wildlife conflict: Past approaches and the need for a better
+ alternative.
+\end_layout
+
+\begin_layout Section
+Past approaches classified and discussed 
+\end_layout
+
+\begin_layout Description
+Literature review on human-wildlife conflict worldwide, the different kinds
+ of mitigating methods, their use in Southern Africa and their advantages
+ and disadvantages in the Namibian context.
+ (Current - June 2016)
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+Web searches, library & papers
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Why have past attempts at reducing HWC so often failed? 
+\end_layout
+
+\begin_layout Description
+What common factors were important in failures and successes respectively?
+ Why what worked in one situation is unlikely to work in a different situation
+ (and why it sometimes can work).
+\end_layout
+
+\begin_layout Section
+How can we improve on the past? 
+\end_layout
+
+\begin_layout Description
+Reasons why a Decision Support System is a good approach to tackle the problem
+ of Human-Carnivore Conflict.
+\end_layout
+
+\begin_layout Chapter
+Chapter 3: A Probabilistic Graphical Model for Human-Wildife conflict
+\end_layout
+
+\begin_layout Section
+Why use Probabilistic Graphical Models (PGM)?
+\end_layout
+
+\begin_layout Description
+The different kinds of models available for our problem and their advantages
+ and disadvantages.
+ A conceptual model:
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\shape italic
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Conceptual PGM to determine success probability of farmer-predator conflict
+ resolution methods.
+ Grey nodes indicate data we need from the farmer, white nodes the pre-existing
+ model.
+ The final value is a probability that a specific method will be successful
+ for a specific farmer.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Toolz/tikz-bayesnet-master/FwP_Model.svg
+	lyxscale 80
+	width 80page%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+The model - What data do we need to make an informed and useful decision?
 \end_layout
 
 \begin_layout Paragraph
@@ -508,222 +688,125 @@ key "Beinart_1998"
  to prevent future livestock losses from too many meso-predators.
 \end_layout
 
-\begin_layout Description
-Details of study site (everything relevant to all chapters: i.e.
- North-Central Namibia) and introduction to the methods (August 2015):
-\end_layout
-
-\begin_layout Itemize
-Literature review on human-wildlife conflict (Chapter 2); Literature review
- on know behaviour of the four predator species as part of introduction
- for each chapter / Or as part of background?
-\end_layout
-
-\begin_layout Itemize
-Farmer survey
-\end_layout
-
-\begin_layout Itemize
-Camera trap survey & possible leopard-cheetah interaction
-\end_layout
-
-\begin_layout Itemize
-Spatial behaviour & habitat preferences
-\end_layout
-
-\begin_layout Itemize
-Prey preferences & diet
-\end_layout
-
-\begin_layout Itemize
-Should there be any new methods or just use already existing methods? (Don't
- need new methods)
-\end_layout
-
-\begin_layout Chapter
-Chapter 2: Literature review on HWC 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Better title
-\end_layout
-
-\end_inset
-
-
+\begin_layout Section
+Constraints and limitations
 \end_layout
 
 \begin_layout Description
-Literature review on human-wildlife conflict worldwide, the different kinds
- of mitigating methods, their use in Southern Africa and their advantages
- and disadvantages in the Namibian context.
- (Current - June 2014)
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Web searches, library & papers
+What kind of data (which would be really useful) is unavailable currently
+ and in the foreseeable future? What are the uncertainties? How can we work
+ around these uncertainties to still get useful answers? GIGO (Garbage in,
+ garbage out): How do we prevent "garbage data" from fouling our model?
+ How can we adapt our model to changing circumstances? How can we extrapolate
+ the model to other species and situations (e.g.
+ more predator species, communal farmers, other continents and biomes)?
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Chapter 3: Agricultural perspective: Farmer surveys
+\begin_layout Section
+Refining our model
 \end_layout
 
 \begin_layout Description
-Current situation...
- To be able to do a cost-benefit analysis of anti-predation methods.
-\end_layout
-
-\begin_layout Itemize
-General survey (as many farmers as possible) (Sent with April 2014 AgriForum.
- Replies until July?):
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-What methods do farmers use to protect livestock from predators? 
-\end_layout
-
-\begin_layout Itemize
-Any correlation between stocking densities and percentage livestock losses?
- 
-\end_layout
-
-\begin_layout Itemize
-Any correlation between farm size and percentage of livestock depredation
- losses? 
-\end_layout
-
-\begin_layout Itemize
-Any correlation between game numbers and percentage livestock losses? 
-\end_layout
-
-\begin_layout Itemize
-How big is the predation problem really (both from a documented and a perception
- point of view)? How many livestock lost annually (documented and estimated)?
- 
-\end_layout
-
-\begin_layout Itemize
-How are the livestock depredation issues distributed between districts?
- 
-\end_layout
-
-\begin_layout Itemize
-Any correlation between livestock depredation prevention measures and actual
- percentage of livestock lost? (How well do the methods work?) 
-\end_layout
-
-\begin_layout Itemize
-Any unexpected advantages or disadvantages of the actual methods used? (Why
- do you prefer these methods?) 
-\end_layout
-
-\begin_layout Itemize
-How good are farmers in recording livestock losses (and livestock numbers)?
- 
-\end_layout
-
-\begin_layout Itemize
-How willing are farmers to consider alternative methods? And why (not)?
- 
-\end_layout
-
-\begin_layout Itemize
-Do farmers know what the costs of their livestock protection methods are?
- 
-\end_layout
-
-\begin_layout Itemize
-Are there any changes in the numbers of predators as perceived by farmers?
- Can these changes be linked to any specific districts (and possible predator
- range increases/decreases)? 
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Clear time period
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Identify farmers with good book-keeping practices and interest for follow-up
- visits and more detailed data on the costs and effectiveness of the different
- methods used.
-\end_layout
-
-\begin_layout Itemize
-Compare stocking levels / losses (and game numbers) (vs.
- 1990's)
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Ministry of Agriculture?
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Monthly survey (from willing farmers with good record-keeping in focus area)
- (July 2014 - July 2015)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Costs of each method used
-\end_layout
-
-\begin_layout Itemize
-Livestock losses to predators
-\end_layout
-
-\begin_layout Itemize
-Livestock losses to other factors
-\end_layout
-
-\begin_layout Itemize
-Changes in livestock numbers (calves/lambs/kids) - used to determine calving
- and weaning %.
-\end_layout
-
-\begin_layout Itemize
-Predators killed
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Cost-benefit analysis of methods (+ other pros & cons)
+Using data from farmers using the online Decision Support System to update
+ our model automatically.
+ Providing an easy way to update our parameters as more research becomes
+ available.
+ Writing a transparent model and keeping it simple enough to understand
+ and update (the KISS principle).
+ Using alternative algorithms (e.g.
+ Dempster-Shafer to deal with uncertainty instead of pure Bayesian Networks).
+ Open Source.
 \end_layout
 
 \begin_layout Chapter
-Chapter 4: Camera Trap Study on Farm Woltemade, Namibia: Did the reported
- increase in leopard numbers coincide with a decrease in cheetah numbers?
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Perception vs Reality (2 points in time)
+Chapter 4: The Agricultural perspective: Farmer surveys
 \end_layout
 
-\end_inset
+\begin_layout Section
+How big is the problem of livestock depredation and predator conflict really
+ in Namibia?
+\end_layout
 
+\begin_layout Description
+How widespread is Human-Wildlife Conflict involving farmers and predators
+ really in Namibia? Any geographical hotspots? How big are farmers' losses?
+ And what is happening to the predator populations on farms (according to
+ the farmers)?
+\end_layout
 
+\begin_layout Section
+Baseline data to use for training the Probabilistic Graphical Model
+\end_layout
+
+\begin_layout Description
+Cost-benefit analysis of methods (+ other pros & cons) currently used by
+ Namibian farmers (will be very rough at this stage, but the best we have).
+ Compared with South African data where available.
+\end_layout
+
+\begin_layout Chapter
+Chapter 5: Spatial behaviour and habitat preferences
+\end_layout
+
+\begin_layout Section
+Comparing the spatial behaviour of 4 predator species
+\end_layout
+
+\begin_layout Itemize
+Tracking: July 2014 - March 2015
+\end_layout
+
+\begin_layout Itemize
+Literature for each species
+\end_layout
+
+\begin_layout Section
+Spoor tracking: The good, the bad and the ugly
+\end_layout
+
+\begin_layout Description
+Use similar method to that for unmarked species to estimate (relative) densities
+ of predators and prey.
+ Compare to camera trap estimates (and game count data from farmer).
+ Discuss advantages of spoor tracking compared to other methods (Non-invasive,
+ cheap, includes behavioural data, continuous, etc.).
+ Discuss disadvantages of spoor tracking (Good trackers becoming scarce
+ and few tracking schools to develop skills, seldom able to ID individuals
+ from tracks – and thus bad estimate of densities –, possible skew to roads,
+ the importance of substrate and vegetation in tracking, some species more
+ difficult to track than others, etc.).
+ 
+\end_layout
+
+\begin_layout Section
+How to improve tracking as a tool for science.
+\end_layout
+
+\begin_layout Description
+FIT (Footprint Identification Technology) being developed, my CyberTracker
+ track app, citizen science, creating tracking jobs and training schools,
+ using in combination with other methods (dogs, drones and/or camera traps).
+\end_layout
+
+\begin_layout Section
+How the spatial behaviour of the 4 predator species feeds into our PGM
+\end_layout
+
+\begin_layout Description
+The role of density, habitat preferences, intra- and inter-specific avoidance,
+ aggression and competition.
+ Alternative sources for the necessary data, seeing as how spoor tracking
+ largely failed.
+\end_layout
+
+\begin_layout Chapter
+Chapter 6: Estimating predator densities from camera traps using Spatially
+ Explicit Capture-Recapture models.
+ 
+\end_layout
+
+\begin_layout Section
+Introduction
 \end_layout
 
 \begin_layout Itemize
@@ -739,7 +822,7 @@ How many individual predators? Density estimates.
 \end_layout
 
 \begin_layout Itemize
-Leopard-Cheetah fluctuation: Perception (From Chapter 3?), Reality (Cam.
+Leopard-Cheetah fluctuation: Perception (from surveys?), Reality (Cam.
  trap data) and possible causes (Behavioural models).
 \end_layout
 
@@ -751,7 +834,59 @@ Historical data: What do we have? How many individuals? What areas? How
  Index)
 \end_layout
 
+\begin_layout Section
+SECR for spotted cats
+\end_layout
+
+\begin_layout Description
+Determine cheetah and leopard densities using SECR and compare with other
+ studies in Northern Namibia.
+\end_layout
+
+\begin_layout Section
+Determining densities for unmarked species
+\end_layout
+
+\begin_layout Description
+Try to determine jackal and caracal densities from the Camera Trap studies
+ using approximations when individuals cannot be identified.
+ Compare with published studies (for caracals in Namibia and outside Namibia
+ for jackals in comparable habitat).
+ Use the same method to estimate prey availability and density.
+\end_layout
+
+\begin_layout Section
+Predator density and prey requirements
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Maybe prey aspects rather in Diet chapter? Just Predator density for model
+ here?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+How predator density and prey requirements (including prey switching to
+ livestock at low wild prey densities - see 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Khorozyan_et_al_2015"
+
+\end_inset
+
+) influence the model (PGM) for our DSS (Decision Support System)
+\end_layout
+
 \begin_layout Standard
+\begin_inset Note Comment
+status collapsed
+
+\begin_layout Plain Layout
 \begin_inset CommandInset include
 LatexCommand include
 filename "CamTrap.lyx"
@@ -761,47 +896,22 @@ filename "CamTrap.lyx"
 
 \end_layout
 
-\begin_layout Chapter
-Chapter 5: Spatial behaviour and habitat preferences
-\end_layout
+\end_inset
 
-\begin_layout Itemize
-July 2014 - July 2015
-\end_layout
 
-\begin_layout Itemize
-Literature for each species
-\end_layout
-
-\begin_layout Itemize
-Spoor tracking (and possible GPS) -> Day-range data (habitat use)
-\end_layout
-
-\begin_layout Itemize
-GIS habitat models (Xi square analysis)
-\end_layout
-
-\begin_layout Itemize
-Dempster-Shafer predictive models (from literature)
-\end_layout
-
-\begin_layout Itemize
-Observed (Regression: P(Dempster-Shafer predicted) : Density observed /
- habitat use percentage)
 \end_layout
 
 \begin_layout Chapter
-Chapter 6: Prey preferences and diet
+Chapter 7: Prey preferences and diet
+\end_layout
+
+\begin_layout Section
+Introduction
 \end_layout
 
 \begin_layout Itemize
-July 2014 - July 2015 (Overlap with Chapter 5 and mostly use same method(s))
-\end_layout
-
-\begin_layout Itemize
-Two questions: 1.
- Species prey preference (mostly from literature) 2.
- Individual specialization.
+July 2014 - March 2015 (Spoor tracking) - did not tell us anything useful
+ about diet.
 \end_layout
 
 \begin_layout Itemize
@@ -813,7 +923,7 @@ key "Bothma_n_Le_Riche_1984"
 
 \end_inset
 
-
+ - it has been done elsewhere.
 \end_layout
 
 \begin_layout Itemize
@@ -837,14 +947,95 @@ Get available prey % from camera trap data and / or game count data.
  Jacobs index.
 \end_layout
 
-\begin_layout Chapter
-Chapter 7: Cost-benefit analysis and Decision Support System (DDS)
+\begin_layout Section
+Why are prey preferences and diet important for our model?
+\end_layout
+
+\begin_layout Itemize
+Two questions: 1.
+ Species prey preference (mostly from literature) 2.
+ Individual specialization.
+\end_layout
+
+\begin_layout Itemize
+How strong is prey preferences in each predator species? Generalist - Specialist
+ scale
+\end_layout
+
+\begin_layout Itemize
+Prey size, species, density and habitat: what determines preference?
+\end_layout
+
+\begin_layout Section
+How to improve our prey preference data?
+\end_layout
+
+\begin_layout Description
+Tracking when it can work.
+ Automated scat hair analysis? The importance of learning versus instinct
+ in hunting behaviour? Classifying species according to hunting behaviour.
+ 
 \end_layout
 
 \begin_layout Chapter
+Chapter 8: The final Decision Support System (DSS)
+\end_layout
+
+\begin_layout Section
+User Interface of the DSS (Web application)
+\end_layout
+
+\begin_layout Description
+The DSS user interface will be a web application written in Python.
+ It consists of 3 parts: Specific inputs from the farmer, stored data inputs
+ (the model) and the outputs (see Figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:DSS"
+
+\end_inset
+
+).
+ 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:DSS"
+
+\end_inset
+
+DSSThe Decision Support System
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Graphics
 	filename DSS1.pdf
+	lyxscale 80
+	width 80page%
 	rotateAngle 270
+	rotateOrigin centerTop
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -852,30 +1043,66 @@ Chapter 7: Cost-benefit analysis and Decision Support System (DDS)
 \end_layout
 
 \begin_layout Itemize
-July 2015 - December 2015 
-\end_layout
-
-\begin_layout Itemize
-Inputs:
+Inputs by farmers:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-From monthly farmer data (Chapter 3): Cost-benefit analysis.
+Online interface, similar to survey from chapter 4.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Model (cf.
+ chapter 3):
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Three parts with some overlap:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Sustainability: Use biodiversity and stocking rates (compared to district
+ rainfall/vegetation type) as proxies for sustainability (maybe include
+ little human disturbance also).
 \end_layout
 
 \begin_layout Itemize
-Include other methods identified in lit.
- review for discussion (pros and cons).
+Practical: Some methods can be excluded simply because they are impractical
+ in some situations; they are not simply too expensive or not effective;
+ they cannot be implemented at all for various reasons (e.g.
+ a stud farm cannot suddenly switch to another breed, or dogs with cattle,
+ or electrifying fences around large (20 000 ha +), mountainous farms, or
+ labour-intensive methods for part-time "weekend" farmers).
 \end_layout
 
 \begin_layout Itemize
-Commercial vs communal: The results might not be applicable in most of Africa.
+Cost-effectiveness: How many weaners/female survive using the method/cost
+ spent implementing (also include costs of changing current methods to start
+ implementing it).
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Include other methods from outside Namibia (identified in lit.
+ review) for discussion of pros and cons
 \end_layout
 
 \begin_layout Itemize
-How predators use their territories.
- Determining factors (Dempster-Shafer model?).
+Commercial vs communal: The results might not be applicable in most of Africa?
+ Communal excluded for now?
+\end_layout
+
+\begin_layout Itemize
+(How predators use their territories.
+ Determining factors (Dempster-Shafer model?).) Not practical for now?
+\end_layout
+
+\begin_layout Itemize
+Easy-to-use interface for non-programmers to change the model and update
+ data with new research
 \end_layout
 
 \end_deeper
@@ -885,18 +1112,73 @@ Outputs:
 
 \begin_deeper
 \begin_layout Itemize
+Decision support system for farmers.
+ With 3 top options and advantages and disadvantages of each.
+\end_layout
+
+\begin_layout Itemize
 Extrapolate: Where are predators most likely to be? Does that correlate
  to conservancies/communal land etc.
  ???
 \end_layout
 
-\begin_layout Itemize
-Decision support system for farmers.
+\end_deeper
+\begin_layout Section
+Technology used in the DSS
 \end_layout
 
-\end_deeper
+\begin_layout Description
+Short discussion of the technology that was used for creating the DSS, advantage
+s and disadvantages, and lessons learned.
+\end_layout
+
+\begin_layout Section
+Automatic update of DSS model
+\end_layout
+
+\begin_layout Description
+Using the input data from the farmers about their current methods, to update
+ the model over time.
+ How garbage data is to identified and filtered out.
+ Also the possible use of data from CyberTracker App to update the model.
+\end_layout
+
+\begin_layout Description
+Possibly include "feedback page" where farmers can explicitly share their
+ experiences.
+\end_layout
+
 \begin_layout Chapter
 Chapter 8: General discussion
+\end_layout
+
+\begin_layout Section
+Lessons learned
+\end_layout
+
+\begin_layout Description
+Mistakes made and possible improvements
+\end_layout
+
+\begin_layout Section
+Application
+\end_layout
+
+\begin_layout Description
+Applying the above lessons practically to human-wildlife conflict.
+ Possibility to extrapolate to other situations (specifically communal farmers),
+ other predators and even other wildlife conflict situations.
+ The role of human-wildlife conflict in sustainable ecosystems and for conservat
+ion in general.
+\end_layout
+
+\begin_layout Section
+Further research
+\end_layout
+
+\begin_layout Description
+Important gaps in our knowledge for which further research is needed with
+ regards to Human-Wildlife Conflict management.
 \end_layout
 
 \begin_layout Standard

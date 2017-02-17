@@ -1,0 +1,2415 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass elsarticle
+\begin_preamble
+% specify here the journal
+\journal{Journal for Nature Conservation}
+
+% use this if you need line numbers
+%\usepackage{lineno}
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language british
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 0
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This is a template \SpecialChar LyX
+ file for articles to be submitted to journals of the
+ Elsevier publishing company.
+ For general infos see 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://wiki.lyx.org/Examples/Elsevier
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The Journal is specified in the document preamble! For the right document
+ class options to get the page format for your journal, have a look at the
+ elsarticle documentation: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.ctan.org/get/macros/latex/contrib/elsarticle/elsdoc.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrontmatter
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keep this empty!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Human-Predator Conflict: A new approach needed
+\end_layout
+
+\begin_layout Author
+E.
+ du C.
+\begin_inset space ~
+\end_inset
+
+Luyt
+\begin_inset Flex Authormark
+status collapsed
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex CorAuthormark
+status open
+
+\begin_layout Plain Layout
+cor1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Email
+chavoux@gmail.com
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+At least one Email address is required.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+A.J.
+\begin_inset space ~
+\end_inset
+
+Leslie
+\begin_inset Flex Authormark
+status open
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+fnref
+\series default
+\size normal
+ and you refer to the author footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+C.
+\begin_inset space ~
+\end_inset
+
+Hui
+\begin_inset Flex Authormark
+status open
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+fnref
+\series default
+\size normal
+ and you refer to the author footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+L.M.
+\begin_inset space ~
+\end_inset
+
+Marker
+\begin_inset Flex Authormark
+status open
+
+\begin_layout Plain Layout
+fn2
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+focal
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\size normal
+With 
+\series bold
+\size default
+
+\backslash
+fnref
+\series default
+\size normal
+ and you refer to the author footnotes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Email
+http://www.cheetah.org
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+URL
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author footnote
+Stellenbosch University.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+fn1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author footnote
+Cheetah Conservation Fund.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+fn2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Corresponding author
+Corresponding author
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+cor1
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+Faculty of AgriSciences, Private Bag X1, 7602 Matieland, South Africa
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+rvt
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+P.O.
+ Box 1755, Otjiwarongo, Namibia
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+focal
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+This is an example of the second author style:
+\end_layout
+
+\begin_layout Author
+C.V.
+\begin_inset space ~
+\end_inset
+
+Radhakrishnan
+\end_layout
+
+\begin_layout Email
+cvr@river-valley.com
+\end_layout
+
+\begin_layout Address
+River Valley Technologies, SJP Building, Cotton Hills, Trivandrum, Kerala,
+ India 695014
+\end_layout
+
+\begin_layout Author
+K.
+\begin_inset space ~
+\end_inset
+
+Bazargan
+\end_layout
+
+\begin_layout Email
+http://www.elsevier.com
+\begin_inset Argument 2
+status collapsed
+
+\begin_layout Plain Layout
+url
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Address
+River Valley Technologies, 9, Browns Court, Kennford, Exeter, United Kingdom
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Although many methods has been suggested to mitigate human-predator conflict,
+ it is still a worldwide and increasingly important problem, both for predator
+ conservation and for livestock farming.
+ In the past most solutions to this conflict has been either from an agricultura
+l perspective or from a conservation perspective.
+ However, because the goals of these two perspectives are seldom the same,
+ there has been frustratingly little progress in preventing human-wildlife
+ conflict.
+ Here we review different published methods used worldwide to alleviate
+ human-wildlife conflict, specifically conflict between livestock farmers
+ and predators, the pros and cons of each method and the probable usefulness
+ of the different methods to livestock farmers in North Central Namibia.
+ We propose a more useful classification of methods than the usual lethal
+ non-lethal dichotomy, and compare the various methods in terms of their
+ success and cost-effectiveness.
+ We also investigate the possible reasons for both failures and successes
+ of the different methods.
+ Lastly we propose that a new approach is needed if we want practical and
+ sustainable solutions to our current human-wildlife conflicts.
+\end_layout
+
+\begin_layout Keywords
+Human-wildife conflict 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ HWC 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ farmer-predator conflict 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ mitigating methods 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ Namibia 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+sep
+\end_layout
+
+\end_inset
+
+ sustainability
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keywords must be separated by 
+\series bold
+
+\backslash
+sep
+\series default
+.
+ 
+\series bold
+
+\backslash
+PACS
+\series default
+ and 
+\series bold
+
+\backslash
+MSC
+\series default
+ are optional classifications.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout EndFrontmatter
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Keep this empty!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+Use here the command 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+linenumbers 
+\end_layout
+
+\end_inset
+
+ and enable the package 
+\series bold
+lineno
+\series default
+ in the preamble if you need line numbers.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Human-wildlife conflict is a growing global problem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Messmer_2000,Treves_n_Karanth_2003b,Nyhus_et_al_2005"
+
+\end_inset
+
+.
+ This has implications both for agriculture and for conservation.
+ Indeed, some authors have considered the conflict to be human-human conflict
+ between agriculturalists and conservation ecologists, rather than between
+ farmers and wildlife 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003,Conradie_n_Piesse_2013,Nattrass_n_Conradie_2013"
+
+\end_inset
+
+.
+ This imply that any solution to the conflict should address both the agricultur
+al perspective and the ecological perspective.
+ Although using the general term "human-wildlife conflict" (HWC), this article
+ really focus on carnivores and more specifically on predators.
+ So the terms "human-carnivore conflict" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Khorozyan_et_al_2015"
+
+\end_inset
+
+, "farmer-predator conflict" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Potgieter_et_al_2016"
+
+\end_inset
+
+ will be used interchangeably, with the understanding that "human-wildlife
+ conflict" as used here refers not only to carnivores in general (which
+ includes scavengers), but specifically to conflict arising from depredation
+ of livestock.
+ We will be focussing on commercial livestock farming in Namibia, while
+ keeping in mind that the same methods could work in other areas with similar
+ circumstances and predators.
+ The issue of game farming and conflict caused by depredation of valuable
+ game animals, is really a separate question and will not be considered
+ here.
+\end_layout
+
+\begin_layout Standard
+From an ecological perspective it is known that the greatest threat to large
+ mammalian carnivores and sharks is direct killing by humans 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Bruskotter_2014"
+
+\end_inset
+
+, an even greater immediate threat than habitat destruction, especially
+ in Africa 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ray_et_al_2005"
+
+\end_inset
+
+.
+ This includes killing of carnivores in retaliation for livestock depredation
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ogada_et_al_2003"
+
+\end_inset
+
+.
+ Large carnivores, often apex predators, need large home ranges or territories
+ to sustain themselves, making them more vulnerable to extinction 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cardillo_et_al_2004,Schipper_et_al_2008"
+
+\end_inset
+
+.
+ This is exemplified by the cheetah (
+\shape italic
+Acinonyx jubatus
+\shape default
+), classified as vulnerable in the IUCN Red List 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Durant_et_al_2015"
+
+\end_inset
+
+.
+ In Namibia, the country with the largest surviving population of cheetahs
+ in the world 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_1998,Marker_et_al_2003b,Durant_et_al_2015"
+
+\end_inset
+
+, an estimated 90% of cheetahs are found on commercial livestock farms (private
+ ranches) outside formally protective reserves 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_2000,Marker_et_al_2003a"
+
+\end_inset
+
+ with being shot on livestock farms the major cause of death 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2010"
+
+\end_inset
+
+.
+ In Southern Africa, most of the vulnerable 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stein_et_al_2016"
+
+\end_inset
+
+ leopard (
+\shape italic
+Panthera pardus
+\shape default
+) habitat is found outside protected areas and the major threat to leopard
+ survival is direct killing by people
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Swanepoel_et_al_2015"
+
+\end_inset
+
+.
+ The same high percentage of habitat outside conserved areas is true for
+ tigers, jaguars and snow leopards (Miquelle et al., 1999; Nowell & Jackson,
+ 1996; quoted in 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Dickman_et_al_2011"
+
+\end_inset
+
+).
+ With farmers as the custodians of the majority of land in most countries
+ of the world, the ultimate survival of many species are squarely in the
+ hands of farmers.
+\end_layout
+
+\begin_layout Standard
+A telephone survey by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Van_Niekerk_2010"
+
+\end_inset
+
+ showed that livestock farmers in South Africa claimed a total annual loss
+ of R 1 390 453 062 worth of livestock directly to predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ These losses were unequally distributed with some districts and some farmers
+ having much higher losses than the average (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+).
+ Similarly, data from the official government-sponsored hunting clubs for
+ the period 1979-1987 in the Ceres South district 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+and Cooper hunting club 1976-1981 outside Mossel Bay 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bailey_n_Conradie_2013"
+
+\end_inset
+
+ showed average losses of 1.48 livestock units per farm and 0.94 sheep per
+ farm per year, but with highs of up to 114 sheep lost in a single year
+ to predators on a single farm.
+ In the area around the Waterberg in North-Central Namibia, farmers lost
+ on average 3.8% of their calves to depredation annually (US$1370 per farm
+ per year according to 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stein_et_al_2010"
+
+\end_inset
+
+).
+ In a slightly wider area of North-Central Namibia, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Marker_et_al_2003b"
+
+\end_inset
+
+ found that farmers who claimed cheetah problems on average lost 16.7 (2%)
+ of their cattle and 18.0 (5.3%) of their small livestock per year for the
+ period 1991-1993 and those who claimed cheetahs as not problematic lost
+ on average 6.8 (1.3%) of their cattle and 11.5 (4.3%) of their small livestock
+ to predators.
+ In 1993-1999 the numbers changed to an average of 5.8 cattle lost per year
+ by farmers who claimed cheetahs as problematic and 1.2 by those who did
+ not consider cheetahs problematic, while they lost on average 8.5 and 12.1
+ small livestock respectively.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lindsey_et_al_2013c"
+
+\end_inset
+
+found the average annual livestock losses reported due to leopards over
+ most of Namibia's commercial farm areas to be US$2,644/farm to leopards,
+ almost double that reported by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stein_et_al_2010"
+
+\end_inset
+
+ earlier.
+ If we keep in mind that we might have a similar uneven distribution of
+ livestock depredation between farms as shown by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+ in the Ceres Karoo, the losses of some individual farmers could be very
+ high.
+ These kinds of losses are not economically insignificant, and a study at
+ the Glen Agricultural Institute near Bloemfontein in the Free State, found
+ that black-backed jackal (
+\shape italic
+Canis mesomelas
+\shape default
+) and caracal (
+\shape italic
+Caracal caracal
+\shape default
+) depredation of the Merino and Dorper sheep made it ultimately unsustainable
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ In addition to direct losses, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Howery_n_DeLiberto_2004"
+
+\end_inset
+
+ make the point that behavioural changes in livestock because of predation
+ risk, can cause significant decreases in production and reproduction rates.
+ In the final instance, while everybody benefit from a functioning and biodivers
+e ecosystem, the cost of conserving large and sometimes dangerous animals
+ is often borne disproportionately by farmers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Predators fulfil an important role in functioning ecosystems, and their
+ extermination has many unintended consequences, including trophic cascades
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ripple_et_al_2014"
+
+\end_inset
+
+ and extinctions 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011,DeCesare_et_al_2010"
+
+\end_inset
+
+, meso-predator release 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, and savannah ecosystems becoming dominated by more thorny trees and shrubs
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ford_et_al_2014"
+
+\end_inset
+
+.
+ Ultimately, the persistence of ecosystem services 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Reiss_et_al_2009,CPW_2014,Grace_et_al_2016*"
+
+\end_inset
+
+ and the stability of ecosystems as such, are dependent on its biodiversity
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cadotte_et_al_2012,Hautier_et_al_2015"
+
+\end_inset
+
+, and there is good reason to believe that predators are a major driver
+ of high biodiversity 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Terborgh_2015"
+
+\end_inset
+
+.
+ E.g.
+ the leopard, an apex predator, has been considered as a reliable indicator
+ of a healthy ecosystem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Pitman_2012"
+
+\end_inset
+
+.
+ Extensive livestock farming is ultimately dependent on sustainable ecosystem
+ services for its own survival as a viable economic activity 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bowe_2000"
+
+\end_inset
+
+.
+ For both the economic survival of livestock farmers and the persistence
+ of relatively species-rich ecosystems on livestock farms 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kinnaird_n_OBrien_2012"
+
+\end_inset
+
+, it is important that solutions to farmer-predator conflict be found.
+\end_layout
+
+\begin_layout Section
+Past approaches
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Past-approaches"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Many different methods have been proposed and implemented in the past to
+ mitigate human-wildlife conflict (HWC).
+ In general these methods varied in costs and effectiveness from doing nothing
+ (free-range, extensive farming, zero cost and zero effectiveness) to feeding
+ lots or barns (fed livestock, intensive farming, very high costs and almost
+ 100% effective against predators).
+ Methods for mitigating HWC have generally been classified as "lethal" or
+ "non-lethal" (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Daly_et_al_2006,Shivik_2004"
+
+\end_inset
+
+), the general implication being that "lethal" methods are not environmentally
+ friendly or ecologically sustainable and that "non-lethal" methods are
+ to be preferred.
+ However, this classification runs into problems when it is realized that
+ a generally accepted "non-lethal" method, like using livestock guarding
+ dogs, can be very lethal indeed, and might even be approved by farmers
+ because it is lethal to some predators (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Potgieter_et_al_2016,Potgieter_et_al_2013"
+
+\end_inset
+
+)! Additionally, a "non-lethal" method like relocation of problem predators,
+ sometimes not only fail to stop livestock depredation on the farm from
+ which the predator has been removed 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1997"
+
+\end_inset
+
+, but in the case of territorial animals like leopards, can result in the
+ death of either the newly introduced individual or it killing one of the
+ current residents to take over its territory.
+ This has a ripple effect in the receiving population with an increase in
+ sexually selected infanticide 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Keehner_et_al_2015,Balme_et_al_2009a"
+
+\end_inset
+
+, similar to typical effects of trophy hunting.
+ Moreover, because predators often travel for long distances, it can simply
+ relocate the problem of livestock depredation to another area when the
+ relocated predator leaves the conserved area to which it had been moved
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Fischer_n_Lindenmayer_2000,Weilenmann_et_al_2010,Weise_et_al_2015a,Weise_et_al_2015b"
+
+\end_inset
+
+.
+ In effect, a so-called "non-lethal" method still result in the death of
+ one one or more predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+ and some conservationists conclude that it is sometimes better to simply
+ kill problem individuals, rather than trying to relocate them 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_1990b,Ropiquet_et_al_2015"
+
+\end_inset
+
+.
+ Some researchers have questioned the very existence of such "problem animals"
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1999"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Alternative classifications for farmer-predator conflict mitigating techniques
+ have been proposed.
+ If the conflict is taken to its logical possible outcomes, there are only
+ 3 possible endpoints: 
+\end_layout
+
+\begin_layout Enumerate
+The conflict continues, farmers win and the predators are extirpated on
+ farmlands (the result reached in most of Europe and for top predators like
+ lions and spotted hyaenas on most Southern African farms), 
+\end_layout
+
+\begin_layout Enumerate
+The conflict continues, predators win and livestock farming becomes impossible
+ on the land, forcing a switch to other other agricultural activities like
+ tillage and crop production or non-agricultural land uses, 
+\end_layout
+
+\begin_layout Enumerate
+Farmers and predators make peace and somehow learn to co-exist.
+ This could be achieved through either lethal or non-lethal conflict mitigating
+ methods.
+ The aim is a win-win situation for both livestock and predators.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+ classified historic methods to reduce human carnivore conflict into three
+ basic strategies: 
+\end_layout
+
+\begin_layout Enumerate
+Eradication, where the predators are extirpated on farmlands.
+ This is the approach usually followed by governments in the past and advocated
+ by many agricultural organizations (see 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Bergman_et_al_2013,Rust_2016*"
+
+\end_inset
+
+).
+ This equates to the first end-point of the conflict mentioned above (farmers
+ win) if "successful".
+ If unsuccessful, it could lead to the "predators win" endpoint.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Regulated harvest, where predators are hunted or killed, but without the
+ aim to eradicate them from farmlands.
+ This is seldom effective 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+ and can even worsen the situation for both farmers and the ecosystem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013,Bailey_n_Conradie_2013,Bothma_2012,DeWet2002"
+
+\end_inset
+
+.
+ This could result in either the predators "winning" or accidental eradication
+ of predators (if unsuccessful) or co-existence (if successfully implemented).
+\end_layout
+
+\begin_layout Enumerate
+Preservation, where non-lethal methods are used, leading to coexistence
+ of farmers and predators on the land.
+ These methods are often expensive or difficult to implement 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+.
+ This would result in either the second endpoint (farming unsustainable)
+ if unsuccessful or the last endpoint (peaceful coexistence) if successful.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+ split these non-lethal methods into either methods that change predator
+ behaviour or methods that physically keep predators separate from livestock.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Shivik_2004"
+
+\end_inset
+
+ subdivided non-lethal methods into three, 1) altering human behaviour,
+ 2) altering husbandry or 3) altering predator behaviour.
+ In truth, since all of these methods will need to be implemented by humans,
+ most likely the land-owners or farmers, and are presumably not currently
+ being implemented, all of them depend on altering human behaviour.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ classified methods used to address human-wildlife conflict into 5 groups:
+ 1) physical/spatial (e.g.
+ fences); 2) economic (e.g.
+ incentive schemes); 3) technical (e.g.
+ husbandry or farming methods); 4) legal (e.g.
+ anti-poaching or quotas); 5) biological (e.g.
+ using wild prey or predator behaviour).
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+ suggested that zoning should be used to determine which methods to apply,
+ with 1) a conservation zone (preservation/ non-lethal methods only), 2)
+ a buffer zone (including regulated harvest) and 3) the outside area (eradicatio
+n/lethal methods only).
+ They make the point that the choice of method depends also on the conservation
+ status of the predators involved in the conflict, whether a "carnivore
+ species / population is abundant, with no danger of global or regional
+ extermination"; or a "carnivore species / population is rare with a risk
+ of regional and / or global extermination." They still use the familiar
+ division of methods into lethal and non-lethal, with lethal methods exclusively
+ used in the "outside area" zone and only non-lethal methods used in the
+ "conservation zone".
+ However, they were looking at HWC in a Norwegian or European context, which
+ differs substantially from the Southern African situation.
+ 
+\end_layout
+
+\begin_layout Standard
+Given that non-lethal methods are not always "non-lethal" and that "lethal"
+ methods can occasionally be better from both an ecological and an agricultural
+ point of view, it is proposed that a more useful view of methods when evaluatin
+g them for management decision-making might be a threefold classification:
+\end_layout
+
+\begin_layout Enumerate
+Preventative (pre-emptive) methods that attempt to prevent livestock depredation
+ by carnivores.
+ Both lethal (e.g.
+ eradication of predators) and non-lethal methods 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004,Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+ could be used.
+\end_layout
+
+\begin_layout Enumerate
+Incentive (compensation/offset) methods (e.g.
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stander_et_al_1997c,Mishra_et_al_2003"
+
+\end_inset
+
+).
+ Generally these methods do not prevent or decrease livestock depredation,
+ but in some way compensate farmers for the presence of predators on their
+ land, to the extent that they would conserve rather than exterminate predators
+ on their land.
+ Once again, both non-lethal methods (non-consumptive use) and lethal methods
+ (e.g.
+ trophy hunting of predators) could be used.
+\end_layout
+
+\begin_layout Enumerate
+Reactive methods that only react to livestock depredation, rather than trying
+ to prevent it.
+ Although many of these methods seem essentially the same as methods used
+ in the previous two groups (e.g.
+ hunting of predators), the fact that they are only used in reaction to
+ actual livestock losses, means that they differ both in costs and effectiveness.
+ They can be cheaper to implement (less often used) and have a smaller negative
+ effect on the range-land ecosystem on farms, while having a higher risk
+ of livestock losses.
+\end_layout
+
+\begin_layout Standard
+Using this classification, we can now examine the different methods used
+ in the past.
+ Frequently the "same method" can be used in more than one of these three
+ ways with different costs and effectiveness and should thus be considered
+ as different methods.
+ For evaluation purposes, the pros and cons as well as limitations of each
+ method are mentioned.
+ Pros (advantages) as used here, are positive aspects of the specific method
+ that can be put on a scale of 1 to 10 while cons (disadvantages) are negative
+ aspects of the method that can also be plotted on a scale of -1 to -10.
+ Limitations measures the practicality of a method with a binary value of
+ either true (practical in these circumstances) or false (impractical in
+ other circumstances).
+ 
+\end_layout
+
+\begin_layout Standard
+In parts of Namibia, because of grazing and drinking water limitations,
+ farms larger than 20 000 ha and with single camps of 5000 ha are not uncommon,
+ making some otherwise good methods simply impractical.
+ Farming enterprises are generally considered as intensive or extensive.
+ In general, a more intensive farming system attempt to maximize production
+ or profit per hectare or per livestock unit while an extensive farming
+ system attempt to minimize costs per hectare or livestock unit.
+ These are not clear-cut categories and most farms fall somewhere on a scale
+ between very intensive (e.g.
+ typical of a dairy farm with small pastures of cultivated grazing crops,
+ cows walking only very short distances per day, each cow handled twice
+ per day and receiving individualized feeding based on milk production,
+ expensive infrastructure and fairly labour-intensive or mechanized) to
+ very extensive (large herds of livestock basically free-ranging with few
+ water points available, having to walk long distances to get to grazing
+ and drinking water, gathered and handled only once every six months and
+ then moved to whatever part of the farm has received rain within the previous
+ year).
+ Even on the same farm, different livestock species or breeds can be managed
+ at different levels between intensive and extensive, with small livestock
+ for example, sleeping in a kraal every night and being counted daily, while
+ cattle are free-ranging in camps further away from the farm homestead and
+ only gathered once or twice a year.
+ Different limitations will determine how intensive the farming system can
+ be, including availability of drinking water points, rainfall and stocking
+ rates that can be sustained on the land, terrain and impassibility of roads,
+ current infrastructure on the farm, capital available to the farmer for
+ improvements, if the farmer is doing other work for an additional income
+ (so-called "weekend farmers"), etc.
+ After considering various measures of intensive 
+\shape italic
+versus 
+\shape default
+extensive farming, including stocking rates (livestock units per hectare
+ per year), economic carrying capacity, size of the farm, number of labourers,
+ infrastructure and mechanization, etc.
+ all of which can be relevant, it was decided to use a simplified classification
+ of farming systems by how often the farmer sees or handles all the livestock
+ on his farm.
+ For the sake of considering its importance as a limiting factor for methods
+ to decrease livestock depredation, intensive farming is considered as a
+ system where the livestock owner sees or handles all his livestock at least
+ once per day, a medium intensive system is where the livestock owner sees
+ all his livestock at least once per week, a medium extensive system is
+ where the farmer sees all his livestock at least once per month and extensive
+ farming is where the farmer sees or handles all his livestock less than
+ once per month.
+\end_layout
+
+\begin_layout Subsection
+Preventative methods
+\end_layout
+
+\begin_layout Subsection
+Compensatory methods
+\end_layout
+
+\begin_layout Subsection
+Reactive methods
+\end_layout
+
+\begin_layout Section
+Why have past attempts at reducing HWC so often failed?
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Why-have-past"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Despite the fact that various manuals with different possible solutions
+ to human-wildlife conflict are widely available (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Linnell_et_al_1996,Shivik_et_al_2003,Schumann_Ed_2004,Shivik_2004,Daly_et_al_2006,Shivik_2006,Smuts_2008,Stone_et_al_2008,Chardonnet_et_al_2010,Van_Bommel_2010,Begg_n_Kushnir_2013,Paige_2015"
+
+\end_inset
+
+), it is still a growing problem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Messmer_2000,Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Snow_2008"
+
+\end_inset
+
+ made the point that a full system-based approach is more likely to find
+ the links of cause and effect than considering HWC in isolation.
+ One very important insight, is the realization that the final managers
+ and implementers of any method used to reduce HWC are the farmers themselves
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Yoder_2000"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+ makes the important point that ranchers (livestock farmers) should be considere
+d as partners in conservation rather than opponents.
+ The current increase in cheetah numbers in Namibia 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2007,Purchase_et_al_2007"
+
+\end_inset
+
+ can be directly ascribed to an increase in tolerance of cheetahs by farmers
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003b"
+
+\end_inset
+
+.
+ And yet, conflict with farmers remain the main threat to the long-term
+ survival of Namibian cheetahs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Durant_et_al_2015"
+
+\end_inset
+
+.
+ Farmers are either not using the available methods, or the methods they
+ do use, are not working.
+ This can partly be explained by the fact that farmers experience intra-group
+ conflict 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ and are not a homogeneous group, with a significant minority of Namibian
+ farmers still preferring lethal methods to non-lethal alternatives 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_2016*"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "McManus_et_al_2014"
+
+\end_inset
+
+ demonstrated that at least some non-lethal methods are more cost-effective
+ than the lethal methods on Eastern Cape farms, and yet, 64% of the participatin
+g farmers resumed using lethal methods after the research period (although
+ most combined it with the non-lethal methods).
+\end_layout
+
+\begin_layout Standard
+A number of different surveys have shown that greater perceived depredation
+ livestock losses correlates with more predators being killed and more negative
+ attitudes towards predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ogada_et_al_2003,Marker_et_al_2003b,Shivik_et_al_2003,Lindsey_et_al_2013c,Rust_n_Marker_2013a,Dickman_et_al_2014"
+
+\end_inset
+
+.
+ However, this was not the only or even the most important predictor of
+ farmer tolerance of predators.
+ What is often not kept in mind, is that the risk of depredation losses
+ can influence the attitude of a livestock owner just as much or even more
+ than actual losses.
+ Paradoxically, other studies have shown that in some cases the actual number
+ of livestock losses to predators have little influence on farmer attitudes
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Babrgir_et_al_2015*,Thorn_et_al_2012,Thorn_et_al_2015"
+
+\end_inset
+
+ and compensation for losses do little to change livestock owners' attitudes
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003,Naughton-Treves_et_al_2003,Madden_n_McQuinn_2014"
+
+\end_inset
+
+.
+ But why?
+\end_layout
+
+\begin_layout Standard
+A number of researchers have made the point that a lot of the conflict is
+ really between different groups of people rather than between people and
+ wildlife 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003,Treves_n_Karanth_2003,Conradie_n_Piesse_2013,Madden_n_McQuinn_2014"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nattrass_n_Conradie_2013"
+
+\end_inset
+
+ showed that livestock farmers and conservationists approach the problem
+ of farmer-jackal conflict from two opposite starting points (narratives).
+ Livestock farmers generally want to maximize production or profits per
+ hectare of land and minimize their risk.
+ Environmentalists generally want to maximize biodiversity.
+ However, both groups share the following aims: 1) minimize conflict, 2)
+ minimize cost, and 3) maximize sustainability.
+ Since greater biodiversity also leads to greater sustainability 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Cadotte_et_al_2012"
+
+\end_inset
+
+ this means that farmers and conservationists share all their aims, except
+ for the two agricultural aims (maximizing production and minimizing livelihood
+ risk).
+ One would therefore expect the two groups to be natural allies, but that
+ does not always happen.
+ One reason for the lack of cooperation might be because farmers do not
+ often have an ecosystem-wide view of their farms and thus do not realize
+ the importance of biodiversity for the sustainability of their farming
+ enterprises.
+ On the other hand, conservationists also often focus on one or a few carnivore
+ species when communicating with farmers, and therefore share part of the
+ blame for this blinkered view of the issues.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bowen_1999"
+
+\end_inset
+
+ makes the important point that our aim should be to conserve 
+\shape italic
+functioning 
+\shape default
+ecosystems (the processes of life), rather than simply genes, species or
+ even ecosystems.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ showed that material, visible manifestations of human-wildlife conflict
+ are often rooted in less visible, more complex social conflicts between
+ people and groups.
+ This also explains why cultural and social aspects often have a greater
+ influence on farmer attitude towards predators than actual livestock losses
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Thorn_et_al_2012,Thorn_et_al_2015"
+
+\end_inset
+
+.
+ They describe the use of conflict transformation tools to help solve these
+ underlying, complex social conflicts
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+.
+ In this model, conflict can be seen as being at three levels of depth with
+ three different approaches needed to transform the situation from an "us
+ 
+\shape italic
+versus
+\shape default
+ them" situation to one of a genuine "we", working together in order to
+ reach our aims of biodiversity, sustainability and livelihood production
+ with minimum conflict, risks or costs (Figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:The-conflict-triangle"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+The most superficial level of conflict and the one addressed by all these
+ methods discussed in the previous section 
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "sec:Past-approaches"
+
+\end_inset
+
+ to prevent, compensate or react to human-wildlife conflict, is known as
+ a dispute.
+ It is typified by the interaction between two strangers with no previous
+ history, becoming involved in conflict that is fairly easily resolved by
+ an agreed settlement on how the dispute should be resolved (i.e.
+ an implementation of one or more of the HWC mitigation methods discussed
+ in our context acceptable to both sides).
+\end_layout
+
+\begin_layout Itemize
+When the two parties have a history of past unresolved disputes, this is
+ typical of some underlying conflict.
+ Because farmers often do not distinguish between different conservation
+ NGOs and the government's Ministry of Environment and Tourism, simply grouping
+ them all together as conservationists, negative previous experiences with
+ any of these groups can cause underlying conflict that will not be solved
+ by "quick answer" methods for resolving human-wildlife conflict.
+ E.g.
+ a promise by nature conservation personnel that they will translocate any
+ captured leopards from farmlands to a national park, followed by promises,
+ but no actions after repeated telephone calls from a farmer who had to
+ feed the captured leopard for more than a week, led not only to the leopard
+ being shot, but to farmers in the whole district distrusting any promises
+ or information from anybody involved with nature conservation about predators
+ (personal observation).
+ Trust has been broken, and any conflict resolution approach that do not
+ first rebuild the trust, will never work.
+ Similarly, all farmers are not the same, nor share the same basic views
+ on predators and the desirability of coexistence on farmlands 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_2016*"
+
+\end_inset
+
+, but past experiences with some farmers is one reason why many conservationists
+ do not consider livestock farmers as their natural allies in conserving
+ biodiversity.
+ At this level of conflict, not only the specific instance of farmer-predator
+ conflict (the current dispute) needs to be resolved, but all those past
+ unresolved disputes also need to be addressed before a true resolution
+ of the underlying conflict can result.
+ If conservationists (and farmers associations) are not aware of these kind
+ of past histories, it can cause lots of frustrations when superficial settlemen
+ts do not result in the expected cooperation.
+ 
+\end_layout
+
+\begin_layout Itemize
+Identity conflict is the third and deepest level of conflict and involves
+ values, beliefs, or social-psychological needs that are central to the
+ identity of at least one of the parties involved in the conflict.
+ One very important motivating reason for any young man to choose farming
+ as career, is that you work for yourself.
+ Few (if any) farmers choose it as a career primarily for economic reasons.
+ Thus independence from undue outside influence is an important motivating
+ factor for farmers, and they can experience any efforts by conservationists
+ to protect predators on farmlands as an attack not only on their livelihoods,
+ but also on their identity as independent farmers.
+ On the other hand, for conservationists whose identity focus on the conservatio
+n of wildlife, any action that threaten to extirpate a species may be considered
+ as a profound moral violation.
+ Typical of this level is a strong "us 
+\shape italic
+versus
+\shape default
+ them" view of human-carnivore conflict.
+ Communication between the groups become minimal and the little communication
+ there is, is often misunderstood or interpreted in a prejudicial way.
+ Reconciliation only becomes possible once both sides make a definite decision
+ that they need each other as partners to find practical solutions to a
+ common problem.
+ Building trust in small steps through being transparent and honest about
+ your own viewpoint as well as fair and truly sympathetic to the other viewpoint
+, is important for reconciliation.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ mentions that 1) process, 2) relationships and 3) substance are the three
+ aspects that needs to be addressed in order to make peace.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /home/boer/doks/PhD/Tesis/Images/ConflictLevels.svg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:The-conflict-triangle"
+
+\end_inset
+
+The conflict triangle from 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ showing different levels of conflict and the response needed to truly "make
+ peace".
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Process factors relate to decision-making design, equity and authority,
+ and how (and by whom) these are exercised (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stone_et_al_2008"
+
+\end_inset
+
+).
+ For example, just the size of Namibian farms makes any method that depends
+ on legal threat or compliance checking impractical, if it is not supported
+ by the farmer who owns and manages the land.
+ Where farmers feel excluded from the decision-making process about predators
+ that will ultimately influence their livelihoods, the situation often deteriora
+tes into one where farmers "shoot, shovel and shut up" (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+; various Namibian farmers, personal communication).
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Montag_2003"
+
+\end_inset
+
+ mentions that "much of the conflict is around the control of landowner
+ land, government intervention, and private land rights", also hinted at
+ by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rust_et_al_2016"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rust_2016*"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ mentions that conservationists and governments often resist giving up decision-
+making control, because they already have the law on their side or they
+ may fear what will happen when stakeholders who seem less committed, or
+ even antagonistic to conservation objectives, are given a legitimate voice
+ in decision-making.
+ However, in practice, working together is much more likely to result in
+ win-win solutions (sustainable coexistence).
+ It is thus interesting that almost all compensation schemes that had some
+ level of success, were those in which the livestock owners participated
+ actively in the decision-making process 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_et_al_1997c,Lukarevsky_2003,Mishra_et_al_2003"
+
+\end_inset
+
+ and thus shared ownership of the final solutions.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rust_et_al_2016"
+
+\end_inset
+
+ make the point that farmer-predator conflict in Namibia also has politico-socia
+l and personal relationship aspects, so that something that appears to have
+ little connection to human-wildlife conflict, namely the labour relations
+ between farmers and their workers, can have an effect on farmer-predator
+ conflict.
+ Building relationships through transparency and trust, is the second aspect
+ of reconciliation needed for conflict resolution mentioned by 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+.
+ They show the importance of such relationship building by the example of
+ conservationists finding a solution to human-elephant conflict through
+ asking questions and consulting with a local community, resulting in a
+ decision to use various kinds of fences.
+ However, when they later tried to apply the same method in other communities
+ without a similar period of consultation and trust relationship building,
+ those same methods did not succeed, with community members failing to implement
+ or maintain chilly peppers and breaking down fences.
+ 
+\end_layout
+
+\begin_layout Standard
+The final and perhaps most obvious part of resolving deep-rooted identity
+ conflict, involves the actual substance of practical and cost-effective
+ methods to mitigate farmer-predator conflict.
+ Here the suitability of a certain method to conditions on a certain farm
+ has often not been considered sufficiently.
+ A number of researchers have mentioned that predation losses does not seem
+ to be uniformly distributed, even within the same district 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+, and some farmers might have extremely high depredation losses, while the
+ majority have relatively few losses 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Van_Niekerk_2010"
+
+\end_inset
+
+.
+ This appears to be an international feature of farmer-predator conflict,
+ with similar reports for example, from Slovakia 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rigg_et_al_2011"
+
+\end_inset
+
+ and the USA 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shelton_2004"
+
+\end_inset
+
+.
+ But different levels of depredation also imply that different management
+ decisions and different anti-predation methods are required.
+\end_layout
+
+\begin_layout Standard
+To summarize some of the main reasons why past human-carnivore conflict
+ mitigation approaches still fail to reduce the conflict:
+\end_layout
+
+\begin_layout Enumerate
+They often approach the conflict from either an ecological, conservationist
+ viewpoint only or from an agricultural, short-term economic viewpoint only.
+ Conservationists therefore frequently advise farmers to use eco-friendly
+ methods that are impractical or not economically viable.
+ Agriculturalists, on the other hand, often advise methods that appear to
+ give short-term results, but are not sustainable in the long run and might
+ actually aggravate the situation.
+\end_layout
+
+\begin_layout Enumerate
+They usually only directly address the human-predator conflict itself and
+ only recently started taking into account the social aspects of human-human
+ conflict.
+ But even so, the focus is often on social aspects of the conflict that
+ might at best be a contributing factor (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Rust_et_al_2016"
+
+\end_inset
+
+) while ignoring the deeper levels of conflict 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Madden_n_McQuinn_2014"
+
+\end_inset
+
+ between the ecological and the agricultural basic starting points 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nattrass_n_Conradie_2013"
+
+\end_inset
+
+ that might be the most important reason why farmers are unwilling to risk
+ or trust in "new" methods.
+ Farmers themselves often feel left out and not well represented as partners
+ in predator management decisions and advice (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Bergman_et_al_2013"
+
+\end_inset
+
+ when commenting on 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Daly_et_al_2006"
+
+\end_inset
+
+).
+ The importance of farmers as full partners in predator conservation on
+ farmlands, and the final implementers of any HWC mitigating methods, as
+ well as having to personally bear the brunt of all costs and risks, is
+ seldom explicitly recognized.
+ Farmers associations and agricultural unions are seldom put in the situation
+ where they can share ownership of ecologically sound solutions to human-wildlif
+e conflict (
+\shape italic
+cf
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lukarevsky_2003"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Enumerate
+Past approaches very seldom (if ever) take cognisance of the differences
+ between individual farms and farmers with regards to both ecological and
+ agricultural aspects of the situation.
+ The approach is often that of "one size fits all".
+\end_layout
+
+\begin_layout Enumerate
+Conservationists in particular are often guilty of not spelling out the
+ known drawbacks and limitations of proposed solutions to livestock depredation
+ and HWC, thereby creating unrealistic expectations (see for example 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Smuts_2008,Daly_et_al_2006"
+
+\end_inset
+
+).
+ When farmers run into these, often unexpected, issues, they can become
+ discouraged and return to their known and trusted (even if not very effective)
+ "traditional" and unsustainable management practices.
+ Not only do they personally abandon any of the possibly more effective
+ methods, but typically they also spread the word that a certain method
+ "did not work for me", discouraging other farmers from attempting it as
+ well 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_et_al_2003"
+
+\end_inset
+
+.
+ Not only the ignorance of limitations, but also the incorrect implementation
+ of methods can end in failure, with the same negative end result.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rust_2016*"
+
+\end_inset
+
+ found that the single most popular method for mitigating HWC was conservation
+ education and husbandry training to reduce livestock depredation.
+ It is often amazing how little farmers know about the general behaviour
+ of the predators found on their land.
+ Not only farmers, but even behavioural ecologists, still have great gaps
+ in our knowledge of predator behaviour outside protected areas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Balme_et_al_2014"
+
+\end_inset
+
+.
+ As farms have become larger in order to remain economically viable and
+ farming methods are often more extensive than they used to be 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nattrass_n_Conradie_2013"
+
+\end_inset
+
+, farmers often also know surprisingly little about the behaviour of their
+ own livestock (especially their anti-predator behaviour).
+ This lack of knowledge can result in basic mistakes being made (like de-horning
+ of all cattle), leading to unnecessary livestock losses.
+ The lack of significant effect by any other method except the numbers of
+ wildlife on farms in Namibia found by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Marker_et_al_1996"
+
+\end_inset
+
+, might be confirmation of the need for knowledge, showing that how well
+ protection measures are implemented is possibly more important than which
+ method is used.
+\end_layout
+
+\begin_layout Enumerate
+While often making the mistake of offering a "one size fits all" solution
+ to farmers for their livestock depredation problems, the opposite mistake
+ is made as well when scientists simply suggest a whole range of possible
+ (usually non-lethal) methods for farmers to use 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004,Daly_et_al_2006,Shivik_2006,Smuts_2008,Stone_et_al_2008,Chardonnet_et_al_2010"
+
+\end_inset
+
+, without giving them any comparative guidance on the effectiveness, costs
+ and limitations of the different methods.
+ This makes it just as difficult, if not impossible, for a farmer to choose
+ the most appropriate method(s) for his particular farm and circumstances.
+\end_layout
+
+\begin_layout Enumerate
+Because farming is inherently risky, farmers tend to be risk-averse and
+ to keep to what they know.
+ The problem with this approach is that circumstances have changed and keep
+ on changing.
+ Methods that were affordable and effective in the past, are so no longer
+ because of changes in costs, legislation, ecological changes, etc.
+\end_layout
+
+\begin_layout Section
+How to improve on past failures to resolve human-wildlife conflict?
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Shivik_2006"
+
+\end_inset
+
+ opined that future methods "need to emerge from a mix of biology, sociology,
+ and technology".
+ It is well known that there is no silver bullet for human-wildlife conflict
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ What works well against some predators and in some circumstances, will
+ fail in different situations.
+ And, except for permanently keeping all livestock in a barn and feeding
+ them, no method is 100% effective in preventing livestock depredation losses.
+ The aim should be to find the most cost-effective and sustainable method
+ or combination of methods that fit the situation on a specific farm.
+ For this reason, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Shivik_2004"
+
+\end_inset
+
+ proposed that livestock depredation control should be approached similarly
+ to Integrated Pest Management (IPM).
+ But it is not enough to know what method is most likely to succeed, unless
+ farmers are empowered to make the decision for themselves using relevant
+ knowledge, the uptake of better methods for preventing farmer-predator
+ conflict will probably remain low because of the various social issues
+ mentioned above.
+ It is important that the advantages, disadvantages and limitations of the
+ various methods available to a farmer should be known up-front before he
+ commits himself to implementing it on his farm.
+ The process by which any specific method is chosen and recommended should
+ also be clear and transparent to the farmer in order to avoid any unexpected
+ nasty surprises during implementation.
+\end_layout
+
+\begin_layout Standard
+So what should we do differently from what has already been tried? It should
+ be clear by now the the primary decision-maker and ultimate implementer
+ of any methods to decrease conflict with predators and livestock losses,
+ should be the livestock farmer himself, since he will ultimately have to
+ bear the costs of any method that he decide on as well as having to deal
+ with the consequences, whether good or bad 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Yoder_2000"
+
+\end_inset
+
+.
+ It seems clear that conservation of larger predators is not possible without
+ including livestock farmers in the process.
+ But the common request for conservation education and husbandry training
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_2016*"
+
+\end_inset
+
+ show that farmers need the right information in their hands on both the
+ agricultural cost-effectiveness of different methods and its ecological
+ sustainability.
+ One of the most important aspects of applying any predation-prevention
+ method, is the good record keeping of the current situation on the farm
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+ Knowing how much livestock is lost to predators, where most depredation
+ happens in the farm and which predators are responsible is basic knowledge
+ that is required in order to make good management decisions.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+ actually consider it as a preventative method by itself.
+ It should be pointed out that good record-keeping is not necessarily correlated
+ to how intensive the farming system is.
+ Even when livestock is only seen once every six months, through the use
+ of individual ear tags, together with a weighing scale, the history of
+ every cow can be recorded and used in breeding and other management decisions.
+ Computer expert systems that capture expert human knowledge and use it
+ in various applications, have existed since the 1970s and became relatively
+ popular in the 1980s.
+ A decision support system (DSS) is a specific type of expert systems where
+ the aim is not so much automation or artificial intelligence, but to provide
+ human decision makers with the relevant information needed to make an informed
+ decision 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Keen_1980,Sprague_1980"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Using a DSS avoids a number of the possible reasons for the past failure
+ of mitigating methods to reduce HWC.
+ Because it is not a person "telling the farmer what to do on his own farm",
+ at least part of the common underlying distrust of conservation scientists
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nattrass_n_Conradie_2013"
+
+\end_inset
+
+ or past bad experiences with specific conservationists, is avoided (Axel
+ Rothauge 2014, personal communication).
+ If the DSS is written in order to be transparent with regards to the algorithms
+ and data it uses, not only does it make it easier to trust it, but if written
+ as open source software, it can be updated and improved as new knowledge
+ and research becomes available.
+ Ultimately it would use feedback from farmers themselves who are using
+ various methods, to re-evaluate or update the basic data used (e.g.
+ as costs change or if more limitations of a specific method is found).
+ A feedback loop is thus built into the DSS allowing it to adapt to changing
+ circumstances (e.g.
+ changes in costs of different methods).
+ The algorithm used will include both the short-term agricultural economic
+ cost-effectiveness of the various methods and the long-term ecological
+ sustainability in order to choose the most appropriate method for the specific
+ situation on a farm as entered by the farmer.
+ This is in effect using an ecologically holistic view of the farming system,
+ looking at the whole ecosystem and not considering livestock depredation
+ as an isolated problem 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bingham_1997"
+
+\end_inset
+
+.
+ By presenting only the top three methods with their limitations, pros and
+ cons, the farmer will have the required information available to make informed
+ decisions on what to do to decrease livestock losses, without being overwhelmed
+ with irrelevant data.
+ 
+\end_layout
+
+\begin_layout Section
+Conclusions
+\end_layout
+
+\begin_layout Standard
+Many different approaches to human-wildlife conflict have been used in the
+ past, with partial success.
+ Many farmers still prefer to kill predators on their land or to engage
+ in unsustainable farming practices, without the issue being resolved.
+ Human-wildlife conflict still remain the major cause of death for many
+ predators, but ultimately farmers remain the custodians of predators on
+ their land and need to be empowered to do a better job of managing their
+ land, including both agricultural aspects and ecological aspects of farmer-pred
+ator conflict.
+ An online decision support system can put the relevant knowledge into the
+ hands of farmers who are struggling with livestock depredation on their
+ land.
+ It can also be updated periodically, making sure that it remains current.
+ In time, the model can be expanded or adapted to include communal farming
+ systems 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Blackburn_et_al_2016"
+
+\end_inset
+
+ and other predators.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+To get another numbering scheme, you cannot use an option argument (a.k.a.
+ short title) as described in the elsarticle manual.
+ But you can use the following \SpecialChar TeX
+-code command to achieve the same:
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+—————–
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+The following bibliography styles are allowed: 
+\family sans
+elsarticle-harv
+\family default
+, 
+\family sans
+elsarticle-num-names
+\family default
+, or 
+\family sans
+elsarticle-num
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "/home/boer/doks/PhD/Literature/Ecology"
+options "elsarticle-harv"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "01Appendix.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

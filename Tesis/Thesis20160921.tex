@@ -1,0 +1,246 @@
+%% LyX 2.2.2 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[oneside,american,british]{PhDThesisLyX}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{geometry}
+\geometry{verbose,tmargin=1cm,bmargin=1.3cm,lmargin=1.3cm,rmargin=1.3cm}
+\setcounter{secnumdepth}{0}
+\usepackage{babel}
+\usepackage{verbatim}
+\usepackage{varioref}
+\usepackage{textcomp}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage[authoryear]{natbib}
+\usepackage[dot]{bibtopic}
+\begin{document}
+
+\title{``Farming with predators''}
+
+\title{Human-predator conflict on Namibian farmlands: a new approach}
+
+\author{Chavoux Luyt}
+\maketitle
+\begin{abstract}
+Human-wildlife conflict is a worldwide and increasingly important
+problem. In the past most \textquotedbl{}solutions\textquotedbl{}
+to this conflict has been either from an agricultural perspective
+or from a conservation perspective. However, because the goals of
+these two perspectives are seldom the same, there has been frustratingly
+little progress in preventing human-wildlife conflict. The \textquotedbl{}Farming
+with Predators\textquotedbl{} project aims to cross this divide by
+providing farmers and land managers with a Decision Support System
+(DSS) for reducing human-wildlife conflict making use of both ecological
+and agricultural information. In Northern Namibia four predator species
+are widely considered as responsible for most livestock losses, leopards
+(\textit{Panthera pardus}), cheetahs (\textit{Acinonyx jubatus}),
+caracals (\textit{Felis caracal}) and blackjacked jackals (\textit{Canis
+mesomelas)}. Two of these predator species are classified as vulnerable
+(\textit{Acinonyx jubatus}) and near-threatened (\textit{Panthera
+pardus}) in the IUCN Red List of threatened species. Since about 90\%
+of Namibia's cheetahs occur on farmlands, finding solutions to conflict
+with farmers is a priority, both for cheetah survival and farming
+in Namibia. The proposed DSS will make use a cost-benefit analysis
+of current anti-predation measures used by Namibian farmers (using
+survey data), ecological data on habitat preferences and spatial behaviour
+of the predators, predator prey preferences and predator ecological
+interactions using a Bayesian Network approach. As more farmers start
+using the program, the model will be updated with new data in order
+to enable greater accuracy. The practical implications of such models
+for sustainable farming and persistence of functioning ecosystems
+on farmlands will be discussed as well as a possible wider application
+for reducing human-wildlife conflict.
+\end{abstract}
+\tableofcontents{}
+
+\chapter{Human-wildlife conflict: Past approaches and the need for a better
+alternative. }
+
+\include{Chapters/02HWC}%
+\begin{comment}
+\end{comment}
+
+
+\chapter{A Probabilistic Graphical Model for Human-Wildife conflict}
+
+\include{Chapters/03PGM_for_HWC}%
+\begin{comment}
+\begin{description}
+\item 
+\end{description}
+\end{comment}
+
+
+\chapter{The Agricultural perspective: Farmer surveys}
+
+\section{How big is the problem of livestock depredation and predator conflict
+really in Namibia?}
+\begin{description}
+\item [{How}] widespread is Human-Wildlife Conflict involving farmers and
+predators really in Namibia? Any geographical hotspots? How big are
+farmers' losses? And what is happening to the predator populations
+on farms (according to the farmers)?
+\end{description}
+
+\section{Baseline data to use for training the Probabilistic Graphical Model}
+\begin{description}
+\item [{Cost-benefit}] analysis of methods (+ other pros \& cons) currently
+used by Namibian farmers (will be very rough at this stage, but the
+best we have). Compared with South African data where available.
+\end{description}
+
+\chapter{Spatial behaviour and habitat preferences}
+
+\section{Comparing the spatial behaviour of 4 predator species}
+\begin{itemize}
+\item Tracking: July 2014 - March 2015 - Good method \citep{Stander_et_al_1997b}
+\item Literature for each species
+\end{itemize}
+
+\section{Spoor tracking: The good, the bad and the ugly}
+\begin{description}
+\item [{Use}] similar method to that for unmarked species to estimate (relative)
+densities of predators and prey. Compare to camera trap estimates
+(and game count data from farmer). Discuss advantages of spoor tracking
+compared to other methods (Non-invasive, cheap, includes behavioural
+data, continuous, etc.). Discuss disadvantages of spoor tracking (Good
+trackers becoming scarce and few tracking schools to develop skills,
+seldom able to ID individuals from tracks \textendash{} and thus bad
+estimate of densities \textendash , possible skew to roads, the importance
+of substrate and vegetation in tracking, some species more difficult
+to track than others, etc.). 
+\end{description}
+
+\section{How to improve tracking as a tool for science.}
+\begin{description}
+\item [{FIT}] (Footprint Identification Technology) being developed, my
+CyberTracker track app, citizen science, creating tracking jobs and
+training schools, using in combination with other methods (dogs, drones
+and/or camera traps).
+\end{description}
+
+\section{How the spatial behaviour of the 4 predator species feeds into our
+PGM}
+\begin{description}
+\item [{The}] role of density, habitat preferences, intra- and inter-specific
+avoidance, aggression and competition. Alternative sources for the
+necessary data, seeing as how spoor tracking largely failed.
+\end{description}
+
+\chapter{Estimating predator densities from camera traps using Spatially Explicit
+Capture-Recapture models. }
+
+\section{Introduction}
+\begin{itemize}
+\item March - June 2014
+\item Which predator species in area?
+\item How many individual predators? Density estimates.
+\item Leopard-Cheetah fluctuation: Perception (from surveys?), Reality (Cam.
+trap data) and possible causes (Behavioural models).
+\item Historical data: What do we have? How many individuals? What areas?
+How long per individual? Data point frequency? What species? Did the
+tagging periods (and place) overlap with the previous camera trap
+surveys? What data has already been published and what can still be
+used? (Relative Abundance Index)
+\end{itemize}
+
+\section{SECR for spotted cats}
+\begin{description}
+\item [{Determine}] cheetah and leopard densities using SECR and compare
+with other studies in Northern Namibia.
+\end{description}
+
+\section{Determining densities for unmarked species}
+\begin{description}
+\item [{Try}] to determine jackal and caracal densities from the Camera
+Trap studies using approximations when individuals cannot be identified.
+Compare with published studies (for caracals in Namibia and outside
+Namibia for jackals in comparable habitat). Use the same method to
+estimate prey availability and density.
+\end{description}
+
+\section{Predator density and prey requirements}
+\begin{description}
+\item [{How}] predator density and prey requirements (including prey switching
+to livestock at low wild prey densities - see \citet{Khorozyan_et_al_2015})
+influence the model (PGM) for our DSS (Decision Support System)
+\end{description}
+\begin{comment}
+For Testing how to include separate chapters:...\include{CamTrap}
+\end{comment}
+
+
+\chapter{The final Decision Support System (DSS)}
+
+\section{User Interface of the DSS (Web application)}
+\begin{description}
+\item [{The}] DSS user interface will be a web application written in Python.
+It consists of 3 parts: Specific inputs from the farmer, stored data
+inputs (the model) and the outputs (see Figure \vref{fig:DSS}). 
+\begin{figure}
+
+\caption{\label{fig:DSS}\textit{The Decision Support System}}
+
+\includegraphics[angle=270,origin=ct,width=0.8\paperwidth]{Images/DSS1}
+\end{figure}
+\end{description}
+\begin{itemize}
+\item Inputs by farmers:
+\begin{itemize}
+\item Online interface, similar to survey from chapter 4.
+\end{itemize}
+\item Model (cf. chapter 3):
+\begin{itemize}
+\item Three parts with some overlap:
+\begin{itemize}
+\item Sustainability: Use biodiversity and stocking rates (compared to district
+rainfall/vegetation type) as proxies for sustainability (maybe include
+little human disturbance also).
+\item Practical: Some methods can be excluded simply because they are impractical
+in some situations; they are not simply too expensive or not effective;
+they cannot be implemented at all for various reasons (e.g. a stud
+farm cannot suddenly switch to another breed, or dogs with cattle,
+or electrifying fences around large (20 000 ha +), mountainous farms,
+or labour-intensive methods for part-time \textquotedbl{}weekend\textquotedbl{}
+farmers).
+\item Cost-effectiveness: How many weaners/female survive using the method/cost
+spent implementing (also include costs of changing current methods
+to start implementing it).
+\end{itemize}
+\item Include other methods from outside Namibia (identified in lit. review)
+for discussion of pros and cons
+\item Commercial vs communal: The results might not be applicable in most
+of Africa? Communal excluded for now?
+\item (How predators use their territories. Determining factors (Dempster-Shafer
+model?).) Not practical for now?
+\item Easy-to-use interface for non-programmers to change the model and
+update data with new research
+\end{itemize}
+\item Outputs:
+\begin{itemize}
+\item Decision support system for farmers. With 3 top options and advantages
+and disadvantages of each.
+\item Extrapolate: Where are predators most likely to be? Does that correlate
+to conservancies/communal land etc. ???
+\end{itemize}
+\end{itemize}
+
+\section{Technology used in the DSS}
+\begin{description}
+\item [{Short}] discussion of the technology that was used for creating
+the DSS, advantages and disadvantages, and lessons learned.
+\end{description}
+
+\section{Automatic update of DSS model}
+\begin{description}
+\item [{Using}] the input data from the farmers about their current methods,
+to update the model over time. How garbage data is to identified and
+filtered out. Also the possible use of data from CyberTracker App
+to update the model.
+\item [{Possibly}] include \textquotedbl{}feedback page\textquotedbl{}
+where farmers can explicitly share their experiences.
+\end{description}
+
+\end{document}

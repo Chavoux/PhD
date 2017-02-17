@@ -1,0 +1,482 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth -1
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+
+\lang british
+Why? The importance of natural habitat on farmlands for ecological sustainabilit
+y
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+Predators form an important part of any ecosystem and it has been suggested
+ that most ecosystems are actually top-down controlled 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Estes_et_al._2011"
+
+\end_inset
+
+ and therefore susceptible to trophic cascades when top-level predators
+ are removed.
+ The removal of top predators can cause meso-predator release (e.g.
+ the removal of leopards in some areas, may lead to an increase in the number
+ of caracals and black-backed jackals).
+ Similar increase in meso-predator numbers has been shown in America for
+ coyotes as a result of the loss of wolves, cougars or grizzly bears (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Estes_et_al._2011"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+).
+ It follows that an ecosystem without its full complement of predators might
+ not be able to deliver ecosystem services sustainably, in addition to the
+ wider loss in biodiversity.
+ Livestock and game farming in Namibia and the drier areas of Southern Africa
+ are dependent on these ecosystem services for their continued sustainability,
+ since irrigation and artificially "improved" grazing are seldom viable
+ alternatives.
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+Globally, the greatest threat to mammal biodiversity is habitat destruction
+ or degradation
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schipper_et_al_2008"
+
+\end_inset
+
+.
+ However, for cheetahs in Namibia, direct killing by humans and the resulting
+ change in population demographics, have been identified as the greatest
+ contributors to their mortality rates 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003a"
+
+\end_inset
+
+.
+ Current conserved areas are insufficient to ensure the long-term survival
+ of large, wide-ranging predators like cheetahs, both because of intra-guild
+ hostility by larger, social predators like lions and spotted hyenas inside
+ conserved areas (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Durant_1998,Durant_2000"
+
+\end_inset
+
+), and because of the minimum required number of individuals needed in a
+ population to ensure genetic survival (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stuart_1981"
+
+\end_inset
+
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Lande_1995"
+
+\end_inset
+
+) combined with the home range size requirements of these species.
+ Thus it is not strange that the majority (90% - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_et_al_2003a"
+
+\end_inset
+
+) of surviving cheetahs in Namibia are found on farmlands outside formally
+ conserved areas.
+ It is therefore imperative to get buy-in from landowners outside formally
+ conserved areas to ensure the long-term survival of these predator species.
+\end_layout
+
+\begin_layout Section
+
+\lang british
+Human-wildlife conflict: why another approach?
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+Human-wildlife conflict is an increasing and worldwide problem (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Messmer_2000"
+
+\end_inset
+
+; 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+), even though a variety of mitigating methods have been proposed (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Nyhus_et_al_2003,Linnell_et_al_1996,Shivik_2004,Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+).
+ These include proactive methods to prevent the conflict (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Daly_et_al_2006,Shivik_2006"
+
+\end_inset
+
+), methods that increase the value of the wildlife species to offset the
+ costs of living with wildlife (e.g.
+ regulated harvest of leopard in Uganda [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+], wildlife property rights on Namibian farmlands [
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McGranahan_2008"
+
+\end_inset
+
+], eco-tourism, etc.), and reactive methods including compensation and removal
+ of problem animals after-the-fact.
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+One of the major reasons for farmer-predator conflict is that farmers have
+ to bear the brunt of the costs, although everyone benefits from these ecosystem
+ services.
+ In a study done for the Red meat Producers Organisation the total annual
+ costs of livestock depredation for small livestock farmers in South Africa
+ was estimated as R 1 390 453 062 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Van_Niekerk_2010"
+
+\end_inset
+
+.
+ For this reason, it can be assumed that the methods most likely to decrease
+ conflict between farmers and predators, are those that will maximise the
+ benefits and minimise the costs of predators on their land.
+ The major predators perceived as a threat to their livelihoods by farmers
+ in Northern Namibia, are leopards (
+\shape italic
+Panthera pardus
+\shape default
+), cheetahs (
+\shape italic
+Acinonyx jubatus
+\shape default
+), caracals (
+\shape italic
+Felis caracal
+\shape default
+) and black-backed jackals (
+\shape italic
+Canis mesomelas
+\shape default
+).
+ Two of these predator species, are classified as vulnerable (
+\shape italic
+Acinonyx jubatus
+\shape default
+, 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Durant_et_al_2008"
+
+\end_inset
+
+) and near-threatened (
+\shape italic
+Panthera pardus,
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Henschel_et_al_2008"
+
+\end_inset
+
+) by the IUCN.
+ A better understanding of the ecological systems as it currently functions
+ on Namibian farms, might be the key to better management and prevention
+ of livestock losses.
+ 
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+[A number of farmers have complained of a recent increase in leopard numbers
+ and a simultaneous decrease in cheetahs (pers.
+ comm.
+ Francois Kok, Rolf Ritter and others).
+ This shift in species composition could be the result of direct lethal
+ confrontation between leopards and cheetahs, "fear and loathing" (
+\shape italic
+sensu
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+) resulting in cheetahs avoiding areas with high leopard density, habitat
+ changes caused by bush encroachment, a change in available prey species,
+ a disproportionate number of cheetahs killed by humans compared to leopards,
+ or other currently unknown reasons.
+ While the spatial ecology of Namibian cheetahs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2008"
+
+\end_inset
+
+, leopards 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_n_Dickman_2005,Stein_et_al_2011"
+
+\end_inset
+
+ and caracals 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_n_Dickman_2005a"
+
+\end_inset
+
+ have been studied, the extend and importance of the spatial interaction
+ between these predator species is still relatively unknown.
+ Since intra-guild interactions can have a huge impact on ecosystems 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Sinclair_et_al_2003,Estes_et_al._2011"
+
+\end_inset
+
+, and the current human-predator conflict might largely be the result of
+ changes in the predator species composition on farmland ecosystems 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Daly_et_al_2006,Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, a better understanding of these interactions could lead to both better
+ conservation and less human-wildlife conflict.
+ Unfortunately, neither farmers nor predators can wait until all these ecologica
+l research has been finished before they have to make management decisions
+ – which can have disastrous effects on both farmers and predators if wrong.]
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang british
+Leave out?
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+
+\lang british
+Why have farmers generally not used the results of past research on human-wildli
+fe conflict? 
+\end_layout
+
+\begin_layout Section
+
+\lang british
+Using Probabilistic Graphical Models for decision-making
+\end_layout
+
+\begin_layout Description
+
+\lang british
+Advantages and disadvantages of the (different types of) models available...
+ or else just what a Decision Support System and/or Expert System is supposed
+ to be and how it can be useful.
+\end_layout
+
+\begin_layout Section
+
+\lang british
+Why Namibia?
+\end_layout
+
+\begin_layout Description
+
+\lang british
+Details of study site (everything relevant to all chapters: i.e.
+ North-Central Namibia) and introduction to the methods:
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stein_2008"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Literature review on human-wildlife conflict (Chapter 2); Literature review
+ on known behaviour of the four predator species as part of introduction
+ for each chapter / Or as part of background?
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Farmer survey
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Camera trap survey & possible leopard-cheetah interaction
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Spatial behaviour & habitat preferences
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Prey preferences & diet
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "/home/boer/doks/PhD/Literature/Ecology"
+options "/home/boer/TeX/bibtex/bst/stellenbosch/myplainnat"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

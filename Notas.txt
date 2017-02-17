@@ -8,9 +8,104 @@ egter individuele voorkeure... lyk of daar "probleem"-individue kan wees.
 5. Metodes keuse redes: High conflict zones more important; where they work, livestock guarding animals work well; kraaling works against most predators; training helps people to find their own solutions; environmental shepherds should be more trustworthy than most herders; photo tourism puts value on predators; a price premium will convince many farmers to change their management; insurance is a good way for compensation with less likelihood for fraud than other compensation schemes.
 6. Hereroland: Jakkals grootste probleem. Prioriteit! Jagluiperds mag moontlik Jakkalse in bedwang hou (meso-predator vrylating), maar luiperds is meer waarskynlik om hierdie rol te vervul. Maar dan moet dit verseker wees dat luiperds geen negatiewe effek op jagluiperds het nie. Jagluiperds kan moontlik luiperds uitkompeteer (beter jag-sukses), maar luiperds maak soms jagluiperds dood. Onseker watter van jakkals en rooikat dominante kompeteerder. Moontlik habitat-verwant? Selfde vir luiperds en jagluiperds? 
 7. Om die besluitnemingstelsel (DSS) vir boere te skryf is daar 2 hoof punte: 1. Beste metode uit landbou-oogpunt (koste-voordeel en verwante effekte) en 2. Ekologiese langtermyn faktore: Daar is 3 ekologiese faktore wat 'n boer se bestuur kan beïnvloed (waaraan ek kan dink): 1. Dieet-voorkeure: 1.1. Is daar spesie-voorkeure? Dit sal beïnvloed watter wildspesies op die veld veeverliese (en moontlik hoë waarde wild-verliese) kan verminder. 1.2. Is daar individuele voorkeure? Is daar iets soos "probleem individue"? Vir alle roofdier spesies? Dit sal beïnvloed of dit die moeite werd is om individue te verwyder. 2. Habitat-voorkeure: 2.1. Is daar spesifieke habitatte wat elke roofdier-spesie verkies (om in te jag)? Dit is die habitatte waaruit kwesbare wild en vee gehou moet word. (Kan deur Xi² bepaal word). 2.2. Waarom verkies die betrokke roofdier-spesie die betrokke habitat? (Kan deur Dempster-Shafer modelle vasgestel word). Is daar bv. areas wat vir jag en/of "dens" verkies word? Is daar verskille tussen 
-residensiële en nomadiese indiviue (dit is belangrik vir bv. Bontebokke)? 3: Roofdier-interaksie: Sal rooikatte bv. jakkalse weg hou uit sekere areas? Luiperds jagluiperds? Luiperds jakkalse en rooikatte? Afhangende van my veetipe kan dit bepaal waar ek sekere veetipes in sekere seisoene kan plaas (of selfs met watter veetipe ek kan boer). Kan met GPS halsbande, moontlik kameras en spore en Dempster-Shafer model bepaal word.
+residensiële en nomadiese indiviue (dit is belangrik vir bv. Bontebokke)? 3: Roofdier-interaksie: Sal rooikatte bv. jakkalse weg hou uit sekere areas? Luiperds jagluiperds? Luiperds jakkalse en rooikatte? Afhangende van my veetipe kan dit bepaal waar ek sekere veetipes in sekere seisoene kan plaas (of selfs met watter veetipe ek kan boer). Kan met GPS halsbande, moontlik kameras en spore en Dempster-Shafer model bepaal word. Kombineer d.m.v. Dempster-Shafer?
 8. One main question per chapter...
 9. Gebruik SurveyFacedoc as basiese vraelys. AgriForum kan dit verander en aanpas?
+10. Probeer algemene ekologiese "wette" ook inkorporeer in DSS, nie net hierdie spesifieke spesies nie... van algemeen na spesifiek, eerder as om te ekstrapoleer. (Moontlike hoofstuk oor dra-krag, stochastisiteit vs stabiliteit, bioties beheer vs abioties, bo-na-onder vs onder-na-bo? ... toepassing op Namibiese plase)... wat kan "ge-ekstrapoleer" word (m.a.w. wat is waarneming van algemene ekologie "wette")?
+11. Bv. Is Nam Noorde Top-down en Suide bottom-up? N het ekstra tropiese vlak, is meer bio-divers en meer stabiel. Veroorsaak biodiversiteit stabiliteit, of veroorsaak stabiliteit biodiversiteit (Cadotte et al 2012?)? Kan N en S as toets hiervoor gebruik word? Of as toepassing?
+12. In addition to my current classification of HWC resolution/mitigation methods (proactive/preventative, off-set, reactive), it can also be classified according to aim (long-term outcome) 1. Conflict continues, humans win: predators extirpated/extinct; 2. Conflict continues, predators win: Humans cannot continue agricultural activity and switch to something else (Tourism, other type of farming?, stop agriculture); 3. Peace: Both humans and predator co-exist in long term: predator numbers stable (ecologically possible?) and human agriculture profitable (and sustainable).
+13. Mentis 1988 - Nut van induktiewe metodes (en terugvoer lus?) (feedback loop).
+14. Combining contrary trends? Armstrong & Collopy 1993
+15. Standaard klassifikasie van biodiversiteit bedreigings... Salafsky et al 2008
+*16. Extrapolation methods (chapter in book) no references...Armstrong?
+17. Shapley & Roth 2012: Gail-Shapley algoritme om "beste pare" bymekaar te sit. (Date site)
+18. Gaan een keer per week oor geskrewe werk m.b.v. Sand-Jensen 2007. Inleiding moet deur boere gelees en verstaan kan word!
+19. "Carrying capacity" for large predators: Heyward et al 2007? Digthede?
+20. Prey density at which switching happens? Khorozyn? Vgl. Brown 2016: verklaar deur spel teorie (game theory)?
+21. Prey selection shift effect on herbivores: Owen-Smith & Mills
+22. Prevention is the cure: Daly et al 2016 - Werkswinkel... proaktief, i.p.v. reaktief of kompenserend (is ook reaktief?).
+23. Vergelyking van AI metodes wat onsekerheid moet hanteer: Bayesiese netwerke, Dempster-Shafer, "Fuzzy logic" (Gebruik 3 verskillende modelle? Programmeer al drie?)
+24. "Human-Wildlife Conflict (HWC) between farmers and predators", "Human-Predator Conflict", "Farmer-Predator Conflict", "Human -Carnivore Conflict", and "Farmer-Carnivore Conflict": Gebruik afwisselend, maar definieer in die begin en maak duidelik dat Roofdier en Karnivoor nie dieselfde is nie, maar in die konteks van die tesis wel albei geld.
+25. Gullison et al. Financial incentives can be found to conserve a species threatened by trade.
+26: Groot roofdiere veroorsaak minder doringrige bos in savannas (Ford et al. 2014)! (En meer diversiteit in plante?)
+27. 3 Strategiee: Eradication, Regulated harvest, Preservation (Treves & Karanth 2003) Kombineer met Linnell 1996 4 strategieë.
+28. Verskeie studies wys dat houdings jeens roofdiere nie korreleer met vee-verliese nie. Wat dit nie in gedagte hou nie, is die belangrikheid van risiko!
+29. Landbouweekblad Vrydag 2 Mei 2014: Veewagters raak digitaal
+30. " The average carnivore in Africa is prone to predation and ecological influence from 15 other types of carnivore at some stage of its life." Bothma 2012
+31. Kostes vir al die metodes in nie beskikbaar nie; maar kan waarskynlik sorteer in volgorde: Hoogste koste > medium koste > laagste koste ! Kostes is iig skattings en tyd- en plek-gebonde: dus moeilik/onmoontlik om te vergelyk.
+32. Stone et al. 2008, fladry saam met eletriese heining werk goed. 
+33. Kostes opbreek in Implementerings-koste en onderhoudskoste!
+34. Kontak almal op die webblad: (/home/boer/doks/WebPages/Predation management experts _ equipment - Predation Management Forum.html) (http://www.pmfsa.co.za/home/contact-us/predation-management-experts-equipment) om nuutste pryse en kostes te kry.
+35, Skryf artikel vir Carnivore Damage Prevention News (http://www.ipra-landry.com/references-liens/carnivore-damage-prevention-news).
+36. Ogada et al en Shivik et al albei se data wys dat meer veeverliese lei tot meer konflik. Ook Rust & Marker 2013 
+37. Limitations:
+- Predator species (+ effectivity?)
+- Livestock type (+ effectivity)
+- Max ha covered per costing unit
+- Max no of livestock protected (effectively) /costing unit
+- Lead time / Time to implement
+- Incompatible with which other methods?
+- Terrain,  Habitat & Climate
+- Other limitations
+Extensive/intensive:
+- Labour? Minimum number of labourers needed. Time per month/week (Maintenance & ímplenentation?)
+- How often every livestock unit must be seen. 
+- Time spent per livestock animal (by farmer?)
+- Minimum total costs: Implementation & Maintenance
+- Cost per head of livestock? pro/con? 
+- Cost per hectare? pro/con? (+ stocking rate... -> cost per head of livestock)
+38. "Shoot, shovel and shut up" (Hoogensteijn & Hoogensteijn 2010) Ook: rekordhouding as metode teen roofdierverliese!?
+39. Definisie van intensief/ekstensief: Hoe gereeld alle vee gesien en hanteer word. (Geen amptelike definisie nie)
+40. Verband tussen Dempster-Shafer (DST) en Bayesiese stats: Bayes = DS waar net "singletons" waarskynlikhede toegeken word. Sien Beynon et al 2000.
+41. Gebruik ook Analytical Hierarchy Process? (Beynon et al...)
+42. Publish Carrying capacity chapter: Drinking water becomes limiting factor in arid climates... no real "grazing capacity"
+43. More HWC: Teichman_et_al_2016, Carvalho_et_al_2015, Droge_at_al_2016
+
+Ch1.
+Literature review ‘Human-Predator Conflict’, 20-30 pages, to Koedoe? (Afr Protected Area Conservation - AOSIS style) or Journal for Nature Conservation (gebruik APA style) - nie seker of dit lit review gaan neem nie?  - Tesis abstrak oplaai na Koedoe? 
+Ch2.
+Farmer Surveys based on questionnaires, 20 pages, to Human Dimensions of Wildlife (http://www.tandfonline.com/action/authorSubmission?journalCode=uhdw20&page=instructions - APA Word .doc)
+Ch3.
+Density estimation based on camera traps, 20-30 pages, to African Journal of Wildlife Research
+Ch4. 
+Behaviour and habitat preference based on tracking, 20 pages, to African Journal of Ecology
+Ch5.
+PGM (a practical protocol to mitigate HPC), 30 pages, to Rangeland Ecology and Management
+Ch6.
+Conclusions (opinions on questionnaire survey, camera trapping, tracking, missing data for PGM, etc.), 5 pages, reflecting on this and future projects
+
+
+Lauriemarker@ccfnamibia.org cheetah@iway.na
+
+Deduksie: Algemene waarheid (aannames) na spesifieke geval (gevolgtrekking)
+Induksie: Van spesifieke waarnemings (observasies) na algemene reël (hipotese). 
+Abduksie: Gebruik aanname met onsekerheid (hipoteses) om gevolgtrekking te maak (met selfde waarskynlikheid as kombinasie van hipoteses)
+
+
+Modelling
+~~~~~~~~~
+
+Keuse van watter tipe Metodes (vookomend, kompenseerend, reaktief) eers om metodes wat gekies word te beperk.
+Kombineer soveel metodes moontlik saam as een nuwe metode: in tabel. (Alle metodes wat mekaar beter sal laat werk, saam).
+
+What is a model?
+
+Gebruik Markov netwerk vir Dempster-Shafer alternatiewe model. Nee (Daar DS tipe grafiese modelle, maar moet iig na BN'e omgesit word vir besluitneming).
+
+Algoritme: 
+ -Intensief / Ekstensief (Arbeid, drakrag, grootte, topografie)
+ - Kostedoeltreffend
+ - Volhoubaar
+ - Vee gedrag (aangeleer ook)
+ - Skaal (scalability)
+ -* R900.00/ha vir draadwerk elke 12-13 jaar (Corrie van der Westhuizen pers comm March 2016)
+ - Kwotasie vir 
+ - Metodes (gedrag) wat wild gebruik teen roofdiere?
+Web hosting geboekmerk in Pale Moon browser: (https://linuxone20.cloud.marist.edu/cloud/#/login en https://developer.ibm.com/linuxone/resources/)
+Chavoux@gmail.com -> +DieH3reismyHerder
+FarmingWithPredators.pem (ca:15:95:99:db:b4:25:ed:fd:07:27:25:6d:ec:aa:1a)
+Mendeley: XuovahC
+Briesies: 082 718 3517 : R280-00
 
 Survey:
 +Breeds for other livestock
@@ -19,6 +114,47 @@ Online html survey?
 10.1: die -> the
 Topography of farm (influence method)?
 
+Toepassings:
+Lyx
+KBibTeX
+GeoGebra->kTikz (Graphviz?) | kTikz -> pdf -> Inkscape ->.svg
+Python
+R?
+qGIS?
+Django?
+
+Red Meat Research And Development SA Project Committee
+
+
+Ekologie as Sending! Nie net dissipelskap nie! Skole... Landsdiens? 
+
+Farming with Predators en New Development:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Biodiversiteit is belangrik vir Christene (Gen.1 & 2 is nooit opgehef nie): Dissipelskap.
+2. Al gaan hierdie wêreld venietig word en al is ekologiese rampe deel van God se oordele oor die aarde (Openbaring), moet ons as dissipels van Jesus gehoorsaam bly aan ons skeppingsdoel. Net soos ons bly evangeliseer, selfs al reageer die meerderheid mense nie positief nie. Ons moet as sout en lig dien, nie deur die samelewing te dwing om goed te wees nie, maar deur die goeie te demonstreer en só die samelewing, selfs ongelowiges, te beïnvloed, ook deur ons woorde wat God se etiese waardes neerlê. Ons gaan eendag oor die nuwe aarde heers saam met die koning Christus, en het die oefening nodig ("oor min was jy getrou...").
+3. Deur (openlik) Christelike bewaringsorganisasies kan ons mense nooi om deel te word van God se plan en werk in die wêreld. Deur hulle aan die skepping bloot te stel, kan ons hulle nooi om die Skepper te leer ken. M.a.w., behalwe vir dissipelskap (om te leef as Christene), kan en moet natuur-bewaring ook belangrike rol in evangelisasie speel.
+4. Bemarking vir werf van fondse sal belangrik bly (alternatiewe "groen inkomste" nie genoeg nie - Smith et al 2011).
+5. Jongmense is die ideale teikengroep om Bybelse wêreld-beeld te skep (en ook hulle ouers te beïnvloed), denke te verander (Rom.12:1-2), en toekomstige leiers op te lei. Bemarking as vertroue en toewyding. Dit is veral belangrik in terme van die volhoubaarheid van beide natuur-bewaring en die kerk van Jesus. 'n Organisasie soos Landsdiens? Dit is ook díe manier om tradisionele kennis en vaardighede oor te dra. 
+6. Groen tegnologie en biomimetiek, is ideaal om besigheid te beïnvloed, werk te skep vir armes, gemeenskappe te bevoordeel en industrialisasie te "leapfrog". Groen vaardighede kan in 'n kennis-ekonomie as uitvoer-produk funksioneer. Dit is ook alternatiewe bron van inkomste vir biodiversiteit-bewaring. Landbou-ekologie (konsultasie) kan ook belangrike bydrae hier lewer.
+7. Verkieslik moet die jeugorganisasie as vleuel van die kerk dien (en grootste deel van sy inkomste via Christene verkry) en nie regeringsgesteun wees nie. 
+8. Besigheidsvleuel (groen tegnologie) kan uiteindelik meerderheid van (of al) die inkomste van die organisasie verskaf en die ekstra geld kan weggegee word vir ander bewaringsprojekte of organisasies en sendingaksies om dit 'n nie-winsgewende organisasie te hou. Die voordeel van ekstra geld is dat die organisasie onafhanklik van donaeteurs kan optree (bv. minder "sexy" projekte ondersteun).
+9. Fokus op Landbou-ekologie en Groen Tegnologie.
+Vrae:
+1. Hoeveel organisasie/maatskappy vs werk van die Heilige Gees/beweging?
+2. Een organisasies (New Development) of Twee (Een nie-winsgewend: "Farming with Predators") en ander besigheid ("New Development").
+3. Israel as biodiversiteit "hotspot"?
+4. Mariska?
+5. Volgende stappie?
+Mission: The Kingdom of God through Biblical disciplemaking (“Why do you exist?”)
+“What is your core business?” Agricultural ecology and Green Technology
+GPL-tipe lisensie moontlik vir patente?
+ND en FwP webblad herskryf as 
+- Visie en Missie
+- Motivering vir bg. (Insluitend Biodiversiteit.html herskryf)
+- Projekte
+
+
+Nooit gestuur nie?:
 Hi Anne
 First, I want repeat that using GPS collars is a fall-back method in case I cannot get enough data from spoor tracking. It is also stated as such in my project proposal. However, I will need to have the permits etc. already in place beforehand. For the permit I need a letter from a vet (which does not need to be the CCF vet), with veterinary board registration number and drug protocol that is going to be used for the immobilization.
 
@@ -48,3 +184,443 @@ Regards
 
 Thanks
 Chavoux
+
+Waarskynlikheid
+~~~~~~~~~~~~~~~
+Uit Bullinaria 2005:
+Bayes
+-----
+Produkreël: p(A, B) = p( A & B) = p(A ^ B) = p(A).p(B) as A _|_ B onafhanklik is!
+p(A) = prior probability (= unconditional probability) (Frekwentisties bepaal óf deur alle moontlikhede te tel. bv. p(dubbelses) = 1/(6*6) = 1/36
+Elke verandelike X het 'n domein van moontlike waardes wat dit kan hê... Dx = {X1...xn} Indien kontinu veranderlike: waarskynlikheidsverspreiding (probability distribution)
+Meer info oor domein: Voorwaardelike (conditional) of posterior waarskynlikheid
+p(A|B) gekombineer met vooraf waarskynlikheid: p(A^B) = p(A|B).p(B) via produkreël -> joint probability (gesamentlike waarskynlikheid?)
+Dus p(A|B) = p(A ^ B) / p(B) (= (p(A).p(B) net as A _|_ B onafhanklik is) -> N??)
+p(A of B) = p( A v B) = p(A)+p(B) - p(A^B)
+Indien A _|_ B onafhanklik: p(A|B) = p(A) en p(A ^ B)=p(A).p(B)
+A ^ B = B ^ A
+dus p(A^B) = p(A|B).p(B) = p(B|A).p(A)
+
+-> Bayes se reël: p(A|B) = (p(B|A).p(A))/p(B) NB!!
+p(A|B) = p(A ^ B) / p(B) NB!!!!
+
+Relatiewe waarskynlikheid
+p( M | S )/p( W | S) = p( S | M ). p( M ) /  p( S | W ). p(W ) (gegee S hoef nie p(S) te weet nie)
+
+Voorwaardelike onafhanklikheid: As p(A|x,y) = p(A|x) dan is A voorwaardelike onafhanklik van y
+
+Bayesiese netwerk rigting asiklisiese grafiek? (Directional acyclical graph) wat oorsaaklike verwantskappe aandui: direkte skakels tussen nodusse dui op direkte oorsaak-gevolg invloed. Elke nodus het onvoorwaardelike (prior) waarskynlikheid, of waarskynlikheidstabel wat effek van ouer-nodus kwantifiseer.
+
+Dempster-Shafer 
+--------------- hanteer die verskil tussen onsekerheid en onkunde... daarom i.p.v. waarskynlikheid van proposisie, waarskynlikheid dat getuienis proposisie ondersteun. 
+
+Shady bet? Dempster-Shafer theory tells you that since there is no evidence either way, you should have Bel(Heads) = 0 and Bel(¬Heads) = 0. But if an expert says she is 90% certain that the coin is fair, your beliefs are different with Bel(Heads) = 0.9 × 0.5 = 0.45 and also Bel(¬Heads) = 0.9 × 0.5 = 0.45.  The expert evidence has reduced the probability interval for Heads from [0, 1] to [0.45, 0.55]. Bel(Heads) = 0.45, maar Plausibility(Heads) = 0.55 = 1-Bel(¬Heads) (= 1 - Bel(Tails) in hierdie geval.
+
+We need to start with a full list of mutually exclusive hypotheses. This hypothesis space is called the frame of discernment, denoted by Θ. Selfde getuienis kan meer as een hipotese ondersteun. Omdat hipoteses eksklusief is, kan getuienis vir een hipotese ook getuienis vir ander hipoteses beïnvloed. Bel(X) = Theta het n elemente, Theta^n deelversamelings. Elke deelversameling m(X) = Basic probability assignment (of bba = Basic belief assignment: Josang et al 2010)
+
+m(Z) = Sigma(X^Y=Z) m(X).m(Y) / 1 - Sigma(X^Y=0) m(X).m(Y) Dempster kombinasie reël
+= (m1(+)m2)(Z) = 1/1-K.Sigma(X^Y=Z!=0) m1(X).m2(Y) 
+Where K = Sigma(X^Y=0) m1(X).m2(Y)
+K is konflik tussen 2 massas getuienis 
+Konjunktiewe reël is bg. sonder om te deel deur (1-K): Die leë versameling het dan wel 'n waarde > 0 en dus dui dit op konflik (of onbekende hipotese/moontlikheid)
+
+Bayes dan wanneer jy 100% seker is van waarskynlikhede (en waarkynlikhede net vir elke opsie en nie vir kombinasies nie: DS, wel vir elke kombinasie ook).
+
+Josang et al 2010 (Josang & Pope 2012): 
+Kumulatiewe reël van geloof-fusie (swakste skakel).
+Gemiddelde reël van geloof-fusie (gemiddeld van getuienis)
+En-kombinasie (konjunksie) van  geloof-fusie: Dempster reël van kombinasie (Metode om geloof beperkings te kombineer) (Belief contraints) (Stochastiese beperkings)
+Josang & Pope 2012 voorbeelde van wanneer wat gebruik moet word. 
+
+Fuzzy logic
+-----------
+f(¬X) = 1 – f(X)  [Soos gewone logika]
+f(A ∧ B) = min( f(A), f(B) )
+f(A ∨ B) = max( f(A), f(B) )
+f(A ⇒ B) = min( 1, 1 – f(A) + f(B) )
+
+f(A ∨ ¬ A) ≠ f(True) (≠ !=)
+
+Koller & Friedman:
+PGM (Waarkynlikheidsgrafikamodelle)
+-----------------------------------
+Representasie (modellering / voorstelling) (Representation)
+Inferensie (Afleidings) (Inference)
+Leer (Learning)
+Hoostukke opsommend: p.10 vir wat ek moet lees... gemerk met *
+I Voorstelling:
+* 1-3 Basies met vaste versameling X ewekansige veranderlikes -> Bayesiese Netwerk (Hfst.3) Enkodeer waarkynlikheidsverspreiding en onafhanklikheid.
+* 4 Markov netwerke: Onafhnaklikhede en geïnduseerde faktorisering van verspreiding
+* 5 Voorstelling (Representation) van parameters in waarkynlikheidsmodelle
+6 Uitbreiding: Temporaal -> Dinamiese Bayesiese Netwerk
+7 Kontinue veranderlikes: Multivariate Gaussian (normaal verspreiding).
+8 Eksponensiële familie
+II Afleidings:
+* 9 Eksakte afleiding in PGMs. 2 basiese algoritmes: veranderlike uitsnyding (eliminering) en "conditioning" (voorwaardelikheid?) Wanneer is eksakte afleiding haalbaar?
+* 10 Alternatiewe algoritme vir eksakte afleiding (basis van skatting/min-of-meer) (Aproximation) "Graph-based message-passing"
+* 11 Ongeveer (aproximate inference algorithms) met grafiekbaseerde boodskap-aanstuur algoritme
+* 12 Partikel-gebaseerde metodes: Markov-ketting Monte Carlo metodes
+13  MAP query (also called most probable explanation (MPE)), whose aim is to find the MAP assignment — the most likely assignment to all of the (non-evidence) variables.
+* 14 Inferensie in kontinue en hibriede (kontinue/diskrete) netwerke
+15 Inferensie in temporale netwerke (sien 6)
+III Leer waarskynlikheidsmodelle uit data
+16. Verskillende algoritmes tussen Bayesiese en Markov netwerke. 
+17. "Learning parameters for a Bayesian network with a given structure, from fully observable data".
+18. Leer beide parameters en struktuur uit die data, met volledig waargeneemde data
+19. Leer beide parameters en struktuur uit die data, met onvolledig waargeneemde data (Bayesiese filters?)
+20. Leer van Markov netwerke: heelwat moeiliker as Bayes
+IV Aksies en besluite (gebruik vand die raamwerk vir ander tipe redenering) (Deel van II)
+* 21 Oorsaaklike model (Nie net "as X wat leer ek oor Y" nie, maar "as ek X manipuleer wat gaan met Y gebeur"?) Besluitneming onder onsekerheid...
+* 22 Gebruiksfunksies (Utility functions)... komplekse situasies met veelvuldige veranderlikes
+* 23 Invloed diagramme (Influence diagrams) Bayesiese netwerke met aksies en "utilities" 
+* 24 Hoëvlak sintesis van die boek
+
+Definisies (Hfst.2):
+Gebeurtenis uitkoms spasie (Event outcome space): p.15-16 (3 basiese eienskappe)
+Meetbare gebeurtenis (measurable event): p16
+Waarskynlikheidsverspreiding (Probability distribution): p.16 (3 eienskappe) p:16
+Som Reël?: Uit Waarskynlikheidsverspreiding (p16): P(a v b) = P(a || b) = P(a) + P(b) - P(a ^ b) (SOM reël) As hulle onafhanklik is (a ^ b = 0): P(a U b) = P(a) + P(b)
+Voorwaardelike waarskynlikheid (Conditional Probability): p.18
+Kettingreël (p18): P(A^B) = P(A).P(B|A) ... P(a1 ^ ... ^ ak) = P(a1).P(a1|a2)...P(ak|a1 ^ ... ^ak-1)
+Bayes se Reël (p18): P(a|b) = (p(b|a).p(a))/p(b)
+Ewekansige verandelike (random variable): pp.20-21
+Marginale verspreiding oor veranderlike [P(X)]: p.21 Fig.2.1, p.22
+Gesamentlike verspreiding (Joint distribution): p.21 Fig.2.1, p.22
+Kanonieke uitkoms spasie (Canonical outcome space): p.22
+Atomiese uitkoms (Atomic outcome) een veranderlike se uitkoms: p.22
+Voorwaardelike verspreiding: p.22
+Onafhanklikheid: p.23 (_|_)
+Voorwaardelike onafhanklikheid: p.24 (Van gebeurtenisse en van veranderlikes) (A _|_ B | C)
+Waargenome veranderlike: p.24
+Marginale onafhanklikheid: p.24
+Symmetry: p.24
+Decomposition: p.25
+Weak union: p.25
+Contraction: p.25
+Positive distribution: p.25
+Intersection of positive distributions: p.25
+Waarskynlikheidsnavraag (Probability query): p.26
+Getuienis (evidence): p.26 (E=e)
+Navraag veranderlikes (Query variables): p.26 (Y)
+Posterior waarskynlikheidsverspreiding (Posterior probability distribution) : p.26
+Most probable explanation (MPE) = MAP query: p.26 ...met die doel om 
+MAP assignment te vind: MAP(W|e) = arg max P(w|e): p.26
+Marginal MAP: p.27
+Probability density function (PDF): pp.27-28
+Cumulative distribution: p.28
+Uniform distribution (eenvoudigste PDF): p.28
+Gaussian distribution (Normaal verspreiding): p.28
+Standaard Gauss verspreiding (gemiddeld=0; variansie=1): p.28
+Joint density funtion: p.29
+Conditional density function: pp.30-31
+Conditional independence (vgl.p24): p.31
+Expectatioin (Verwagting) Ep[X] = Sigma(x.p(x) / S x.p(x)dx : p.31 = Die rekenkundige gemiddeld (mean) van X! (p.33)
+Indicator function: p.32
+Linearity of expectation E[X+Y] = E[X] + E[Y] : p.32
+  Ook: as X _|_ Y onafhanklik is, dan E[X.Y] = E[X].E[Y]
+Conditional Expectation (Voorwaardelike verwagting): p.32
+Variansie: p.33 Var[X] = E[X²]-E[X]² As X en Y onfhanklik: Var[X+Y] = Var[X]+Var[Y]
+Standaard afwyking (Standard deviation) sx= (Var[X])¹/² (vierkantswortel variansie)
+Chebyshev's inequality: pp.33-34
+Gerigte skakel (directed edge): p.34
+Ongerigte skakel (undirected edge): p.34
+Nodus: p.34
+Gerigte grafiek (G), ongerigte grafiek (H), kind, voorsaat(direkte voorsaat), buurman, grens, graad (nodus&grafiek), "indegree" (aantal gerigte skakels):p.34
+Geïnduseerde subgrafiek (Induced subgraph): p.35
+Volledige subgrafiek (Complete subgraph): p.35
+Kliek (Clique): p.35
+Opwaartse afsluiting (upward closure): pp.35-36
+Path, Trail, gekonnekteerde grafiek, voorsate, nasate, toplogiese ordening: p.36
+Cycle, acyclic, DAG, PDAG (Partially Directed Acyclical Graph) = chain graph, Chain component: p.37
+Loop (Lus; soos siklus, maar ongerig, trail i.p.v. path), singly connected, leaf, polytree, forest, tree: p.38
+Chordal graph =? Triangulated graph: p.38
+Independent Random vairables: p.45
+Parameters: p.46
+Independent Parameters: p.46
+Conditional parameterization: Prior distribution + CPD (Conditional Probability Distribution): p.47
+
+ 
+2 Interpretasies van waarskynlikheid (p16-17):
+1. Frekwentisties
+2. Subjektiewe graad van geloof dat iets sal gebeur (spesifieke uitkoms vir 'n gebeurtenis).
+Onafhanklikheid is simetries (p24)
+Ons taak: 
+1. P(Y|E=e) p.26 (Posterior waarskynlikheidsverspreiding)
+2. MAP(W|e) = arg max P(w|e) p.26 (MAP assignment) 
+3. MAP(Y | e) = arg max Sigma P (Y , Z | e). (Z = X - Y - E) p.27 (Marginal MAP query)
+
+Om model te bou: NB!! pp.64-67
+
+
+Coursera:
+PGM: Bayesiese Netwerk: Elke nodus => veranderlike. Aantal veranderlikes n en aantal moontlike waardes e van elke veranderlike, bepaal totale moontlike gesamentlike (joint) distribusie: e^n (Produkreël?)
+Onafhanklike veranderlikes: (e^n)-1 VERKEERD!! Moet wees: e⁽n-1)*(e-1) (Want waarskynlikhede saam tel op na 1; dus sodra 1 minder as totaal bekend is, is laaste outomaties) (bv. p(I, D, G)) 
+
+Conditioning: Voorwaardelikheid (conditioning): As een waarneming (waarde van veranderlike) klomp moontlikhede van Gesamentlike Verspreiding uitsny (reduce) en minder kombinasies dus oorbly (elk met selfde waarskynlikheid):  
+=> Renormalization: moet gehernormaliseer word om weer te som na 1. (bv. p(I, D, g1) elke waarkynlikheid / nuwe Som van waarskynlikhede = nuwe waarskynlikheid.
+
+Marginalisering (Marginalization): [p(I, D, G) -> (marginaliseer G)] p( I, D) -> p(I) = p(i0, d0)+(pi0, d1) en p(i1, d0)+p(i1, d1) (marginaliseer D) (Som reël?)
+
+Faktore: Bloot funksie op "scope" van veranderlikes... m.a.w. Joint distribution is een tipe faktor. So ook Voorwaardelike.
+
+Conditional Probability Distribution (CPD) Voorwaardelike waarkynlikheidsverspreiding bv. p(G | I,D) Faktore nie altyd waarskynlikhede nie! p(G) som na 1 vir elke p(I, D)
+
+Faktor produk (vermenigvuldiging): Scope verander: f(A, B) X f (B, C) = f(A, B, C)
+Faktor Marginalisering: Soos Marginalisering van waarkynlikhede (Som reël) p( I, D) -> p(I) = p(i0, d0)+(pi0, d1) en p(i1, d0)+p(i1, d1) (marginaliseer D)
+Faktor Reduksie: Soos voorwaardelikheid (conditioning) by waarskynlikhede.
+
+Grafiek na waarskynlikheidsverspreiding: CPD vir elke nodus
+
+Kettingreël vir BNe: vermenigvuldiging Voorwaardelike waarskynlikheidsverspreidings (CPDs) saam: bv. p(D, I, G, S, L) = p(D).p(I).p(G|D,I).p(S|I).p(L|G) 
+=> Faktor produk (Faktorisering)
+
+'n Bayesiese Netwerk (BN) is DAG (Directed Acyclical Graph) G waarvan 
+ - die nodusse die ewekansige veranderlikes (X1..Xn) voorstel en 
+ - vir elke nodus Xi 'n CPD (Voorwaardelike waarskynlikheidsverspreiding) p(Xi|OuersG(Xi))
+Die BN stel gesamentlike verspreiding (joint ditribution) via die Kettingreël vir BNs p(X1,..,Xn) = Produk.i p(Xi|OuersG(Xi))
+BN is wettige verspreiding as P>= 0 (m.a.w. CPDs nie negatief nie) en Sigma (Som) P = 1  (Want elke ry in elke CPD = 1 -> dus * 1)
+
+Definisie:
+Laat G grafiek wees oor X1,..,Xn. P faktoriseer oor G as P(Xi,..Xn) = Produk.i p(Xi|OuersG(Xi))
+M.a.w. P faktoriseer oor G as ek dit met Kettingreël kan voorstel.
+
+Oorsaaklike Redenering (Causal reasoning): van bo na onder
+Getuienisbasseerde redenasie (Evidential reasoning): van onder na bo
+Intercausal reasoning: Beide: Bo na onder een kant na bo ander kant
+
+Wanneer kan X Y beïnvloed?:
+X -> Y
+X <- Y
+X -> W -> Y
+X <- W <- Y
+X <- W -> Y
+Maar nie X -> W <- Y nie!
+
+Active trails: (Aktiewe spoor?): as daar lyne van een veranderlike na die ander in die grafiek is, sonder enige V struktuur tussen hulle 
+(V struktuur: Xi-1 -> Xi <- Xi+1).
+
+Wanneer kan X Y beïnvloed gegee gegewe getuienis versameling Z?:
+W nie in Z:
+soos bg.
+X -> Y
+X <- Y
+X -> W -> Y
+X <- W <- Y
+X <- W -> Y
+Maar nie X -> W <- Y nie, tensy een van W se nakomelinge in Z is!
+W in Z (waargeneem):
+X -> Y
+X <- Y
+Nie X -> W -> Y nie (Y net van W afhanklik)
+Nie X <- W <- Y nie (Y weer net getuienis vir W, nie vir X nie)
+Nie X <- W -> Y nie (X en Y net van W afhanklik)
+X -> W <- Y (Wel invloed)
+Aktiewe spoor tussen X1 en Xk is aktief gegewe Z as:
+ - vir enige V-struktuur Xi-1 -> Xi <- Xi+1 Xi of een van sy nakomelinge in Z is (bekend is) en
+ - geen ander Xi in Z is nie
+
+Independencies: Onafhanklikhede in waarkynlikheidsverspreiding
+P voldoen aan (satisfy) A _|_ B as:
+ - p(A, B) = p(A).p(B) [en nie p(A|B).p(B) = p(B|A).p(A) nie]
+ - p(A|B) = p(A) [en nie (p(B|A).p(A))/p(B) nie]
+ - p(B|A) = p(B) [en nie p(A|B).p(B)/p(A) nie]
+Vir gebeure (events) en veranderlikes
+Voorwaardelike onafhanklikheid:
+P voldoen aan (A _|_ B | Z) as:
+ - p(A,B|Z) = p(A|Z).p(B|Z)
+ - p(A|B,Z) = p(A|Z)
+ - p(B|A,Z) = p(B|Z)
+ - p(A,B,Z) direk eweredig aan phi1(A,Z).phi2(B.Z) ??
+Voorwaardelikheid kan dus onafhanklikheid veroorsaak, maar dit kan ook onafhanklikheid wegneem.
+
+Invloedvloei en d-skeiding 
+Definisie: X en Y is d-geskei in G gegewe Z as daar geen aktiewe spoor (trail) in G is tussen X en Y gegewe Z nie:
+d-sepG(X,Y|Z) (Teenoorgestelde van invloed en aktiewe spoor): Stem ooreen met voorwaardelike onafhanklikheid.
+Enige nodus is onafhanklik van sy nie-nakomelinge gegewe sy ouers (voorouers wat nie direkte ouers is nie is ook nie-nakomelinge!)
+m.a.w. 'n veranderlike (nodus) is net van sy direkte ouers afhanklik.
+
+Definisie: I-Maps 
+I(G) = {(X _|_ Y|Z) : d-sep(X,Y|Z)}
+As P voldoen aan I(G), dan is G 'n I-map van P (P is waarskynlikheidsverspreiding) m.a.w. G karteer alle onafhanklikhede wat geld in P: Eintlik: Alle onafhanklikhede wat in G is, kan in P gevind word.
+
+As P faktoriseer oor G, dan is G 'n I-map van P. (Ek kan uit G die onafhanklikhede wat in P geld, lees, maak nie saak wat die parameters is nie).
+
+Naïewe Bayesiese modelle
+Maak aanname dat al die waarnemings voorwaardelik onafhanklik is, gegewe die klas (wat ons uit die waarnemings wil vasstel?) M.a.w. as ons eers die klas weet, is geeneen van die kinders van die klas van mekaar afhanklik nie.
+Bv. Bernoulli Naïewe Bayes (om dokument klas uit woorde vas te stel). Bernoulli, want binêre waardes in elke veranderlike (bv. vir elke woord in dokument klas). Naïef, want woordorde of ander woorde in dokument het geen effek op woord nie (as die klas bekend is). Alle woorde in woordeboek, met waarskynlikheid van elke woord dat dit in 'n klas voorkom.
+Bv. Multinomiale Naïewe Bayes vir teks klassifikasie. Elke posisie in die dokument is veranderlike met die woord self die waarde. Vereenvoudig deur aan te neem dat die waarkynlikheidsverspreiding van elke posisie dieselfde is. Multinomiaal, want waarkynlikhede van alle woorde som na 1. Naïef, want woordposisie word geïgnoreer.
+- Eenvoudig: Doeltreffende berekening (computationally efficient) en maklik om te konstrueer (construct)
+- Verbasend effektief in domeine met vele swak relevante faktore
+- Sterk onafhanklikheidsaannames gee swakker werkverrigting as baie faktore sterk gekorreleer is.
+
+Template models (Sjabloon modelle? Profielvorm modelle)
+Veelvuldige veranderlikes geïndekseer
+Dinamiese Bayesiese netwerke (vir temporale netwerke) (DBNs)
+Object-relational models
+ - Gerigte (plate models) 
+ - Ongerigte
+
+Temporal models (DBNs)
+Verspreidings oor "trajectories" ->
+  - Kies tyd granulêriteit (Delta)
+  - X(t)
+  - X⁽t:t'⁾ = {X⁽t⁾,...,X⁽t'⁾} waar t < t' (Versameling veranderlikes vanaf tyd t tot tyd t')
+Markov aanname: (X⁽t+1⁾ _|_ X⁽0:t-1⁾ | X⁽t⁾ ) (Volgende stap nie afhanklik van geskiedenis nie, gegewe huidige punt in tyd)
+Tyd onveranderlikheid aanname (Time invariance): P(X⁽t+1⁾ | X⁽t⁾) = P(X'|X): Dieselfde model vir elke tyd stappie
+Template transition model
+2-time-slice Bayesian Network (2TBN)
+DBN oor X1,...,Xn ->
+ - 2TBN BN oor X1,...,Xn
+ - BN⁽⁰⁾ oor X1⁽⁰⁾,...,Xn⁽⁰⁾
+Grond netwerk (unrolled network)
+
+Hidden Markov Models
+Deelversameling van DBN...
+Veral vir spraakherkenning gebruik... (Ook robotte, biologiese sekwensie analise, teks annotasie)
+
+Plate Models (Bord stapel modelle)
+ - Geneste borde
+ - Oorvleuelende borde
+Plate dependency models: 
+  - For a template variable A(U0,..,Uk) (indexed by U)
+  - Template parents B1(U1),...,Bm(Um)
+  - CPD P(A | B1,...,Bm)
+
+Gestruktureerde CPDs (Voorwaardelike waarskynlikheidsverspreidings)
+k direkte voorsate: O(2^k) rye in waarskynlikheidstabel (CPD tabel)
+Tabel dus nie altyd beste voorstelling as daar baie direkte voorsate is nie (ander alternatiewe):
+ - Deterministies CPDs
+ - Boom-gestruktureerde CPSs
+ - Logistiese CPDs & veralgemenings (bv. Log-Liniëre funksies)
+ - "Noisy" OF/EN
+ - Liniëre Gaussiese & veralgemenings
+Konteks-spesifieke onfahnklikheid P |= (X _|_ Y | Z, x) onafhanklik net vir spesifieke waarde(s) c van C versameling 
+bv. Deterministiese OF CPD
+
+Boom-gestruktureerde CPDs (vir Farming with Predators?)!!
+Tipe Konteks-spesifieke onfahnklikheid 
+Multiplekser CPD (keuse bepaal konteks) P( X | A, Z1, ... Zk) = 1 as X=Za en 0 andersins (A is selekteerder)
+Gebruik in:
+ - Hardeware foutopsporing (konfigurasie)
+ - Mediese omgewings
+ - Afhanklik van agent se aksie (boer se besluit, bv.?)
+ - Perseptuele dubbelsinnigheid (onseker waarnemings?)
+
+Onafhanklikheid van oorsaaklike invloed (causal influence)
+Noisy OR CPD (Ekstra veranderlike vir elke oorsaak wat voorstel dat die oorsaak op sy eie die gevolg veroorsaak) As raserige/steuringsfilter
+Sigmoid CPD
+
+Kontinuveranderlikes
+Liniëre Gaussiese Model
+Voorwaardelike Liniëre Gaussiese Model
+
+Paargewyse Markov Modelle
+Markov ewekansige veld (Markov Netwerk) (MRF = Markov Random Field)
+Ongerigte skakels = affiniteit (affinity)/ compatibility / soft constraints (/potential?)
+~P(A,B,C,D) = phi(A,B) * phi(B,C) * phi(C,D) * phi(D,A)
+P(A,B,C,D) = 1/Z * ~P(A,B,C,D)  (Z = Partition function)
+Definisie: 'n Paarsgewyse Markov Netwerk (Pairwise Markov Network) is 'n ongerigte grafiek waarvan die nodusse X1,..,Xn (ewekansige veranderlikes) is en elke skakel Xi - Xj geassosieer is met 'n faktor (potensiaal) phi ij (Xi,Xj).
+
+Algemene Gibbs Verspreiding
+Elke nodus aan elke ander nodus verbind met ongerigte skakel = Gibbs verspreiding. O(d^n) {Paargewyse: O(n²d²)} d waardes; n nodusse
+Kan nie faktorisering vanaf die grafiek lees nie!
+Active Trails (Aktiewe spore) as daar geen geobserweerde nodus op pad tussen 2 nodusse is nie.
+
+Voorwaardelike Ewekansige Velde (Conditional Random Fields) CRFs
+Vir taak-spesifieke voorspelling, bv. beeld-segmentasie / teksverwerking
+Toevoer-veranderlike -> teiken-veranderlike
+Instede van P(X,Y) (soos Naïewe Bayesiese model?) wil ons P(Y|X) hê.
+CRFs ignoreer afhanklikheid tussen waarnemings (X) en neem nie aan dat dit onafhanklik is nie.
+Soos 'n algemene Gibbs verspreiding, maar anders genormaliseer (lei tot Logistiese regressie modelle).
+
+Onafhanklikhede in Markov netwerke
+Vir 'n _positiewe_ verspreiding P (net positiewe waardes), as H 'n I-map vir P is ('n grafiek wat al die onafhanklikhede in P aandui), dan faktoriseer P oor H.
+As P faktoriseer oor 'n grafiek H, kan ons vanaf die grafiek all die onafhanklikhede lees wat geld in P ('n I-map/ Independencies Map).
+
+I-Maps (Onafhanklikheidsafbeeldings) en perfekte afbeeldings
+I(P) = {(X _|_ Y | Z) : P |= (X _|_ Y | Z)} Alle onafhanklikhede wat geld in P
+As P faktoriseer oor G, dan is G 'n I-map van P. m.a.w. alle onafhanklikhede wat in G is, kan in P gevind word.
+Perfekte afbeelding: I(G) = I(P)... m.a.w. bg. en omgekeerd.
+Definisie: I-equivalents (Onafhanklikheidsekwivalente): 2 grafieke G1 en G2 oor X1,...,Xk is I-ekwivalente as I(G1)=I(G2)
+
+Log-lineêre modelle
+In ongerigte modelle gebruik.
+"Feature based models"
+Metrieke eienskap (feature) in 'n MRF ?? :
+ - Waar alle Xi waardes uit selfde ruimte V neem
+ - Afstandsfunksie (vir geskakelde nodusse) [Refleksief, Simmetries, driehoeksongelykheid]
+
+Gedeelde eienskappe in Log-lineêre modelle
+
+Maksimum Verwagte Bruikbaarheid (Ook vir Farming with Predators)!? (Maximum Expected Utility MEU)
+Lank voor PGMs reeds.
+Probleem situasie D:
+ - Versameling A can moontlike aksies Val(A) = {a1,...,ak}
+ - Versameling toestande/statusse (gevolge?) X = {X1,...Xn}
+ - 'n Verspreiding P(X|A)
+ - 'n Utility function (bruikbaarheidsfunksie) U(X, A)
+Verwagte Bruikbaarheid (Expected Utility) van 'n aksie EU[D[a]] = Som van vir x (P(x|a)U(x,a) = Sigmax[P(x|a)U(x,a)]
+a* = argmaxa EU[D[a]]
+Invloed Diagram = Uitbreiding op Bayesiese Netwerk met 2 adisionele tipes nodusse (eienskappe)
+ - Ovaal Nodusse = ewekansige veranderlikes (deel van status/toestand X)
+ - Reghoekige nodusse = Aksie veranderlikes
+ - Geruite nodusse = Bruikbaarheid (Utility)
+ Kan meer as een uitkoms (bruikbaarheidsfunksie) hê wat bloot saam gesom word.
+ 'n Besluitreël (delta) in skakel wat na Aksie verandelike gaan (soos CPD) waarskynlikheid dat besluit geneem sal word gegee spesifieke voorsaat.
+ 
+Utility Functions (Bruikbaarheidsfunksies)
+Utility != payoff (m.a.w. meestal nie risiko-neutraal nie)
+Meeste mense S kurwe met "risk-averse" vir kleiner bedrae wen en risk-taking vir kleiner bedrae verloor (vs. groter vedrae).
+= Tipiese utiliteitskurwe
+Multi-attribuut (eienskap, kenmerk, attribuut) bruikbaarheid (Tyd, geld, plesier, ens... moet alles ingelsuit word by bruikbaarheidsfunksie)
+
+Waarde van perfekte (volledige) kennis
+Watter vrae moet ek vra? 
+Definisie: Waarde van perfekte kennis: VPI(A|X) waarde daarvan om X te weet voor aksie A te neem.
+VPI(A|X) := MEU(D X->A) - MEU(D) : [D X->A = D met nuwe skakel X->A bygevoeg]
+Perfekte/meer inligting is slegs nuttig as dit minstens een van my besluite sou verander.
+
+Kennis ingenieurswese (Knowledge engineering)
+Drie belangrike ontwerp keuses:
+ - Sjabloon gebasseerd vs spesifiek ? Hibried vir FwP?
+ - Gerig (directed) vs ongerig        Gerig (enige-iets ongerig?)
+ - "Generative" (voortbrengend) vs onderskeidend (discriminative) Generatief?
+ - Hibried?
+Sjabloon gebasseerd: 
+  - gewoonlik relatief min veranderlike tipes.
+  - Moet uitwerk watter eieskappe (veranderlike tipe) is mees beskrywend.
+  vs
+Spesifiek:
+  - Baie veranderlikes met eie CPDs en afhanklikhede
+Diskriminatief:
+  - Spesifieke voorspelling taak
+  - Ryk "expressive features"
+  - Vermy nodigheid om korrelasies te hanteer => Hoë werkverrigting
+Generatief:
+  - Die taak skuif (verskillende toevoere en afvoere) vir verskillende individue
+  - Kan makliker leer in sekere omstandighede
+Veranderlike tipies:
+ - Teiken
+ - Waargeneem (ingesluit komplekse gekonstrukteerde eienskappe)
+ - Latent (hidden) 
+    - vereenvoudig struktuur
+Struktuur
+ - Oorsaaklik vs nie-oorsaaklik 
+ (Oorsaaklik gewoonlik eenvoudiger, meer verstaanbaar, makliker om te parameteriseer)
+ Werk terugwaarts
+ Wat maak saak vir parameters:
+  - Zero's (Slegs vir onmoontlike situasie!)
+  - Mag (order of magnitude)
+  - Relatiewe waardes
+Gestruktureerde CPDs
+Tabel CPDs is die uitsondering
+Iteratiewe verfyning
+Sensitiewiteit analises
+Fout analise:
+  - voeg features (nodusse) by
+  - voeg afhanklikhede by
+
+
+
+    
+ 

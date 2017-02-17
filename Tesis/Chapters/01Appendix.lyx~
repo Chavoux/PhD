@@ -1,0 +1,4999 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass elsarticle
+\begin_preamble
+% specify here the journal
+\journal{Journal for Nature Conservation}
+
+% use this if you need line numbers
+%\usepackage{lineno}
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 0
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic true
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\lang british
+Appendix to: Human-Predator Conflict: A new approach needed
+\end_layout
+
+\begin_layout Section
+\start_of_appendix
+
+\lang british
+Details of different HWC mitigating methods
+\end_layout
+
+\begin_layout Subsection
+
+\lang british
+Preventative methods
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Active hunting of predators has been one of the first methods used in the
+ Cape of Good Hope by Dutch farmers.
+ It appears seemingly obvious that getting rid of the predators will prevent
+ carnivores from killing livestock, which is one reason why this method
+ is still favoured by some farmers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_2016*"
+
+\end_inset
+
+.
+ Killing predators can be done with a number of different objectives, however
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+: 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+causing local extermination of a carnivore species (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+), 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+reducing the carnivore population to a lower level, 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+preventing carnivores from colonising areas with high conflict potential,
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+selectively removing individual carnivores.
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Of these different aims, the selective removing of individual predators
+ is not pre-emptive, since the predator must first kill livestock (repeatedly)
+ before it can be identified as a "problem individual".
+ Historically a number of methods have been used to exterminate predators
+ from farmlands 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Bergman_et_al_2013,Nattrass_n_Conradie_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Hunting to exterminate predators
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Active hunting of predators resulted in the extermination of most of the
+ larger predators like lions from farmlands 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+.
+ However, it was not successful against jackals and caracals on its own
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "DeWet2002,DeWet_2006"
+
+\end_inset
+
+, illustrating that different predators are often differently impacted by
+ hunting 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Kissui_2008"
+
+\end_inset
+
+.
+ Instead, the numbers of jackals and caracals actually increased as the
+ larger predators were removed from the land because of meso-predator release
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+.
+ From the the time of Van Riebeeck (1650's) until the 1950's when it was
+ finally replaced by hunting clubs, a bounty system was commonly used as
+ added incentive to kill predators.
+ As could be expected, this system was abused in various ways 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Nattrass_n_Conradie_2013"
+
+\end_inset
+
+.
+ In recent decades, techniques have changed to include hunting by night
+ using sound recordings (of prey or other predators) and spotlights to "call"
+ predators, or shooting from the air using helicopters.
+ Often semi-professional hunters are paid to "get rid" of the predators
+ on a farm.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Once a predator species has been locally extirpated in a whole
+ district or larger ecosystem, it is relatively cheap to maintain.
+ Among other things, it means that livestock can freely range on the land
+ without the need for kraaling or herding, leading to longer grazing times,
+ better veld utilization and higher productivity if used together with camps
+ and rotational grazing.
+ It is also relatively simple to implement, with little need for specialized
+ knowledge or equipment.
+ In highly transformed landscapes, with little or no natural prey available
+ to predators (and livestock being their only possible source of food),
+ it is often the only realistic short-term option.
+ It can also be combined with other methods to eradicate and then exclude
+ predators from specific parts of a farm.
+ According to 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Shwiff_n_Bodenchuk_2004"
+
+\end_inset
+
+, in addition to the livestock saved, it can also have secondary tangible
+ advantages (e.g.
+ more game because of predator control) and intangible advantages (like
+ farmers being more positive towards conservation because they are allowed
+ to kill predators).
+ However, they also make the very questionable statement that "it is desirable
+ but not necessary to achieve economic efficiency in predation management
+ programs".
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Since hunting is relatively labour intensive, it is also
+ expensive in terms of time and money initially.
+ It can be very expensive, especially when professional hunters and helicopters
+ are used.
+ It is very unlikely to succeed, except for conspicuous, large predators
+ that are easy to find and kill 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Kissui_2008"
+
+\end_inset
+
+.
+ Killing these top predators have other unwanted results, like an explosion
+ in numbers of medium-sized predators (meso-predator release) and often
+ do not solve the actual problem of livestock depredation (and as shown
+ by 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+, might actually increase livestock losses).
+ Using a 60 year data set, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Berger_2006"
+
+\end_inset
+
+ showed that although US government-subsidised predator control was very
+ effective in killing predators, specifically coyotes, it had no effect
+ on sheep production.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Unless there are official government support, with all farmers
+ and land-owners in a district working together, it is very unlikely to
+ succeed.
+ It is thus not practical for a single farmer to implement without the support
+ of all his neighbours.
+ Moreover, it is really only suitable to transformed landscapes (e.g.
+ cultivated pastures) where no natural habitat or prey survive for predators
+ (e.g.
+ parts of Europe) and not well suited for most of Africa 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ Factors like rainfall, topography and soil fertility also limits the practicali
+ty of deliberately transforming the vegetation.
+ Where the predator species are endangered or otherwise important for a
+ functioning and sustainable ecosystem, this method is not an option.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Hunting with dogs for eradication
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Dogs are often used together with hunting for exterminating predators.
+ Therefore it shares the same advantages and disadvantages as hunting for
+ eradication, while adding a few extras.
+ Already in the early 1800 Lord Charles Somerset introduced the English
+ sport of fox hunting to the Cape for hunting jackals.
+ By this time most larger predators had already been extirpated and jackals
+ were the major remaining cause of livestock depredation for sheep farmers.
+ Since 1962 breeding centres for hunting hounds were established in a number
+ of places in the old Cape Province, and even later Oranjejag, in the Free
+ State province, used dogs for hunting 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Daly_et_al_2006,Bergman_et_al_2013"
+
+\end_inset
+
+.
+ This method has also recently been used in Namibia with "great success",
+ if success is measured as numbers of carnivores killed (Rothauge 2014,
+ personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Using smell, dogs can be much more effective in finding predators
+ than human trackers alone.
+ However, a group of well-trained dogs are probably still cheaper than using
+ helicopters or professional hunters.
+ This method is therefore more likely to succeed against smaller predators
+ like jackals and caracals than hunting without dogs for the extermination
+ of predators.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The greatest disadvantage of using dogs have been the indiscrimin
+ate nature of their hunting behaviour.
+ Even well-trained dogs that can distinguish between prey animals (which
+ should not be killed for various reasons) and carnivores, do not generally
+ differentiate between damage-causing predator species and other carnivores,
+ with the result that many non-target carnivores like bat-eared foxes, Cape
+ foxes, aardwolves, servals, and African Wild Cats are killed as well 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bothma_2012"
+
+\end_inset
+
+.
+ More-over, even among the target species the individuals are killed indiscrimin
+ately.
+ For eradication hunting with dogs has been a dismal failure, resulting
+ in many predators killed, but with little long-term decrease in predator
+ numbers or livestock depredation 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Daly_et_al_2006"
+
+\end_inset
+
+.
+ Additionally, dogs can have a devastating effect on the natural prey of
+ predators and on innocent carnivores and if not well-trained, can even
+ kill livestock.
+ If outside dog packs are rented to kill predators, some dog handlers only
+ use male dogs in their hunting pack, knowing full well that male dogs often
+ will not kill female jackals, thus ensuring that they will have work in
+ the following years when the female had bred again.
+ Needless to say, eradication will never happen.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Good hunting dogs require good training.
+ This is both time-consuming and not always effective when considering the
+ number of non-target animals typically killed.
+ It has similar constraints than hunting to eradicate predators, with the
+ need for at least district-wide collaboration, government support to make
+ it affordable, and transformed landscapes with compromised ecosystems and
+ very little natural habitat or prey to have any real chance of decreasing
+ livestock losses.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\lang british
+Poison bait to exterminate predators
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Poison were being used in the Cape for eradicating problem predators from
+ the 1880's 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998,Bergman_et_al_2013"
+
+\end_inset
+
+.
+ Different poisons have been used, including Strychnine, Compound 1080 (Sodium
+ monofluoroacetate), Sodium Cyanide, and Thallium Sulphate 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ The use of poisons were largely discontinued and replaced with jackal-proof
+ fencing and hunting clubs in the early 1900, mostly because of the ineffectiven
+ess of poison, in addition to the negative ecological side-effects 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+.
+ Poison can applied in different ways, including poisoning carcasses, bait,
+ coyote getters, and poisoned collars.
+ Because poison collars normally include the death of the livestock animal
+ that are killed by the predator, it is considered a reactive method and
+ not discussed here.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: The only real advantage that poisons have, is that it is easy
+ to use and some poisons are easy to acquire.
+ But is this truly an advantage? 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: It is almost impossible to use poison to selectively kill
+ predators.
+ Historically it has been more successful in killing scavengers than predators
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+.
+ Moreover, while killing many non-target carnivores, poison has not been
+ able to exterminate jackals or decrease livestock losses.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Poison is an indiscriminate killer and not really effective
+ for reducing livestock depredation.
+ Historically it was discontinued in the early 1900's already, mostly because
+ it was found to be ineffective 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+.
+ It also has far-reaching negative ecological effects.
+ Overall, it has a lot of disadvantages, targeting scavengers, rather than
+ predators, being indiscriminate and largely ineffective, it has almost
+ nothing in its favour except ease of use.
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Some methods are used, not to exterminate all predators from farmlands,
+ but simply to decrease their numbers.
+ However, such attempts are unlikely to work, unless predator numbers are
+ either close to the maximum equilibrium density (K) of the predators or
+ close to total extermination of the predators (see Figure 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "fig:The-typical-S-shaped"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\lang british
+\begin_inset Graphics
+	filename /home/boer/doks/PhD/Tesis/Images/Logistic.svg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\lang british
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\lang british
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:The-typical-S-shaped"
+
+\end_inset
+
+The typical S-shaped logistic growth curve.
+ By pushing predator numbers down from the equilibrium density (K), the
+ growth rate (i.e.
+ recruitment of new young predators) will increase.
+ This is often not what farmers expect.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Hunting to reduce carnivore numbers
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Many farmers realize that it is impractical to attempt eradication of all
+ predators.
+ And most farmers prefer not to kill predators at all, if it did not threaten
+ their livelihood 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_n_Marker_2013a,Rust_2016*"
+
+\end_inset
+
+.
+ Instead of trying to eradicate all predators, some farmers still shoot
+ predators on sight, just to "keep their numbers down".
+ In contrast to the attempts to eradicate predators, usually little extra
+ effort or money is spend to actively hunt predators.
+ Instead, the farmer simply keeps his rifle with him when driving through
+ his farm and shoot any potential predators of livestock that chance to
+ cross his path during the day (Francois Kok, 2015, personal communication).
+ Many attempts that start off with the aim of eradication, end up as an
+ attempt to simply keep predator number down.
+ Other methods have also been used to try and reduce predator numbers, like
+ denning (killing predator pups with fumigating poisons within their dens)
+ or contraception, but these methods are impractical or ineffective for
+ most farmers.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This is one of the cheapest methods available to a farmer, on
+ average the cost of a single bullet for every predator killed.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: It is very seldom that an experienced livestock-killer will
+ be killed by this method.
+ It is usually young, sub-adult predators who have not yet learned that
+ people can be dangerous, who are most likely to be seen and killed.
+ Like other lethal methods, it can have the opposite result with an increase
+ in livestock predation, instead 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bailey_n_Conradie_2013,Conradie_n_Piesse_2013"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method has very few constraints and can be applied on
+ almost any farm.
+ There are evidence that at least for some predator species, it can be counter-p
+roductive and increase livestock depredation, however.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Trapping
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Whether with the aim of extermination of predators or just reducing predator
+ numbers, the costs and effectiveness of trapping is more-or-less the same.
+ Different kinds of traps are commonly used, including snares, leg-hold
+ traps (gin traps), killer traps (quick kill traps / 
+\lang american
+cony
+\lang british
+ bear traps) and cage traps.
+ Traps are often used together with fences to catch animals as they move
+ through holes in the fence.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Some traps, including most cage traps and some kinds of leg-hold
+ traps (soft traps) and even some kind of leg-hold snare traps, can be quite
+ selective: while not selective in which animals they catch, when causing
+ no permanent injury to the animal caught, a beneficial or non-target species
+ can simply be released back into the wild.
+ If a specific individual problem predator is responsible for all or most
+ livestock depredation, such selection can even be at the individual level.
+ The equipment is also fairly inexpensive and normally easy to use.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Most traps by themselves are fairly unselective.
+ They need to be checked at least once per day in order to prevent the death
+ or injury of non-target species.
+ Some kinds of traps, like most snares, all killer traps and most gin traps,
+ often cause so much injury to the caught animals, that even non-target
+ species have to be put down after having been caught.
+ These kinds of traps, even if checked regularly, are still unselective.
+ Cage traps are totally ineffective against jackals, meaning that their
+ use will result in more felid predators being killed, causing a change
+ in the ecological equilibrium (balance) that has been formed with a resultant
+ increase in both jackals and livestock depredation by jackals.
+ Moreover, some species like leopards, react very aggressively to being
+ caught in a cage trap and in the process often injure teeth or claws 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Frank_et_al_2003"
+
+\end_inset
+
+.
+ This decrease their hunting ability, sometimes forcing them to start killing
+ livestock (or even humans - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Athreya_et_al_2010"
+
+\end_inset
+
+) to survive if they are released again (see section on translocation 
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "subsec:Translocation"
+
+\end_inset
+
+).
+ Like other lethal methods aimed at either the extermination of predators
+ or just a decrease in their numbers, the evidence suggest that trapping
+ has little long-term effect on livestock depredation levels 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Berger_2006"
+
+\end_inset
+
+ and might even be counter-productive 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+.
+ Setting and checking traps is also relatively labour intensive (
+\shape italic
+cf
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McManus_et_al_2014"
+
+\end_inset
+
+) and many farms using this method need at least one labourer permanently
+ employed for this purpose (Corrie van der Westhuizen 2016, personal communicati
+on).
+ If traps are not checked regularly, it leads to the cruel deaths of many
+ innocent or beneficial wild animals (up to 80% of the animals caught according
+ to a Cape Leopard Trust survey in Namaqualand; Ben-Jon Dreyer 2012, personal
+ communication).
+ If, as is usual, the trap is set at a hole underneath the fence, once an
+ animals has been caught in the trap, predators can move freely through
+ that hole (and even scavenge on the animals already caught in the trap),
+ making the fence useless for keeping predators away from livestock.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: If the farm is very big, or the workforce on the farm very
+ small, it might be impossible to check the traps regularly and their use
+ becomes unethical.
+ Setting traps to catch animals of the right size and without injury, require
+ some specialist knowledge.
+ For trapping to be really effective in either exterminating predators or
+ decreasing livestock depredation, it really needs to be used district-wide
+ (with other lethal methods) and are most likely to be effective in transformed
+ landscapes with little natural habitat or prey for predators.
+ As mentioned, some trapping methods work better against some predators
+ while not working against other predator species at all.
+ Black-backed jackals specifically, are notorious for being very difficult
+ to catch, and avoiding both poison and cage traps.
+ Even using leg-hold traps for catching jackals can be a challenge.
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+By not trying to manipulate predator numbers and allowing them to stabilize
+ at equilibrium densities, many preventative methods can be considered as
+ more sustainable in the long term.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Herding
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Even before hunting (used since the Dutch came to the Cape), most of the
+ indigenous livestock-keeping peoples used herding and kraaling to protect
+ their livestock from depredation 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ogada_et_al_2003"
+
+\end_inset
+
+.
+ World-wide, herding has traditionally and almost universally included the
+ following aspects 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+: By day the animals were allowed to graze as a herd, under the care of
+ a herder.
+ Livestock were prevented from spreading out, either by the herder or a
+ herding dog.
+ The herder directed their movement and selected the areas to be grazed
+ during the day time.
+ At night the flock was rounded up and either herded into a fenced area
+ (kraal/corral/boma) or bedded under supervision in an open area where a
+ shepherd slept near the flock.
+ In most European and middle-Eastern regions large guarding dogs were also
+ kept with the flocks by both day and night.
+ Overgrazing was avoided by keeping the flocks on the move.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Herding with kraaling, and herding and/or guarding dogs, is
+ still one of the most effective methods to prevent livestock depredation.
+ Herding dogs can really make life easier for the herder.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: With settled farms instead of the nomadic lifestyle of the
+ past, the greatest disadvantage of herding when it is combined with kraaling
+ (as it almost always is), is the resulting trampling of the veld around
+ the kraal.
+ Another common objection is that, especially in hot climates, the livestock
+ are not able to graze at night.
+ Free-ranging livestock will take advantage of the cooler nights, especially
+ on moonlit nights, to graze during the night and rest during the heat of
+ the day in summer.
+ This becomes impossible when herding and kraaling, resulting in an appreciably
+ lower meat production (kg/ha), similar to that mentioned by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hansen_2005"
+
+\end_inset
+
+.
+ Training of both herders and herding dogs: if using herding dogs, a lot
+ of training is needed and it also takes time for a good herder to get to
+ know the veld, good grazing areas, predation danger spots and his livestock
+ (and dogs) well.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: The greatest limitation on using herders, is the difficulty
+ of finding reliable herders.
+ In Southern Africa, it has traditionally been the job of children, resulting
+ in it being a low-paying and low-status job on most farms.
+ In an experiment by Conservation South Africa and Cape Leopard Trust in
+ Namaqualand with "ecorangers" (specially trained herders who used mobile
+ GPS devices with a CyberTracker application to record data on livestock
+ movements, depredation losses, predator tracks etc.), out of a group of
+ 16 who went through a process of selection, interviews and training, at
+ the end of the research period only 8 were found to be reliable and doing
+ a good job caring for the livestock, and only 5 said that they would consider
+ a permanent career as ecoranger in future.
+ It was found that one of the best incentives for a herder was owning some
+ of the livestock (Corrie van der Westhuizen, Brenda Snyman, 2016 personal
+ communication), something that few farmers might be willing to do 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_et_al_2016"
+
+\end_inset
+
+.
+ Alternatively, costs for herders can be sponsored from outside (e.g.
+ the ecoranger project was sponsored in part by the government or the Wildlife
+ Guardian program of Defenders of Wildlife mentioned by 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Shivik_2004"
+
+\end_inset
+
+), but this is unlikely to be sustainable.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Patrolling to scare away predators
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+"Range riders" is a method introduced by Defenders of Wildlife in the USA,
+ but based on much older principles 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+ Basically it involves using horses to ride through areas where the livestock
+ are grazing, seeing what their health and condition are like, and using
+ the human activity to scare predators away from the livestock.
+ In the USA it is used for extensive farming on open range.
+ A similar approach has been used in extensive systems in Norway using a
+ range inspector patrolling with a livestock guarding dog (LGD)
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hansen_2005"
+
+\end_inset
+
+.
+ Because of the resistance by some farmers against kraaling their livestock
+ at night, the research project in Namaqualand by the Cape Leopard Trust
+ (CLT) and Conservation South Africa (CSA) also used some of their ecorangers
+ in the same way to patrol the camp where the livestock were with the dog
+ to scare away predators through their presence.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This method is well suited to more extensive farming systems,
+ where daily kraaling is not practical.
+ In these kind of systems the livestock is seen more frequently and any
+ non-predator related problems and general veld condition are also picked
+ up earlier than would be otherwise the case.
+ Spoor tracking also gives an idea about where the predators spend most
+ of their time and from where livestock should be moved for their own safety.
+ Where the livestock breeds do not have a strong natural herding instinct
+ or are forced to scatter to find enough grazing, this is one of the few
+ methods that can still reduce livestock depredation.
+ If horses are not used, the costs of this method is about the same as that
+ of a herder (and dog), but has the advantage that the dog does not have
+ to first bond with the livestock and that the livestock can graze at night
+ and thus grow and reproduce better.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Because most predators hunt at night when human presence
+ are less likely to have an effect, this method is not very effective.
+ Even 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stone_et_al_2008"
+
+\end_inset
+
+ had to admit that there was no direct proof yet "that range riders actually
+ prevented livestock losses from predators".
+ Labour is a fast growing cost; rangers that can ride horses plus the necessary
+ horse-riding equipment (saddles, bridles etc.) can be quite expensive.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is more likely to work in flat open areas and not
+ a good fit for thick bush or rough, mountainous farms.
+ It is only likely to be worth the expense if livestock losses are relatively
+ high, unless the farmer already have horses, riding gear, and labourers
+ that can ride.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Kraaling at night
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Kraaling involves the practice of having livestock sleep in an enclosure
+ (called a kraal, corral, pen, or boma, depending on geographical part of
+ the world) at night, when most predators are active.
+ These enclosures are usually made predator-proof in some way 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ogada_et_al_2003,Woodroffe_et_al_2007"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Begg_n_Kushnir_2013"
+
+\end_inset
+
+ list a number of different kraal types that will protect against lions,
+ including traditional Acacia thorn kraals, stone kraals, chain linked fence
+ kraals, "living wall bomas" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lichtenfeld_et_al_2015"
+
+\end_inset
+
+, mobile kraals and small log pens for kids or lambs.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Kraaling, combined with herding or guard animals, are often
+ the only option where there are high numbers of predators.
+ Kraaling can be used on its own with the kraal built around water troughs
+ and kept closed while the livestock are out grazing, only opened when they
+ are let into the kraal at nightfall.
+ When combined with guarding dogs sleeping inside the kraal, it is one of
+ the most effective ways for keeping depredation low at night.
+ Costs for building kraals can vary between only labour and time for traditional
+ thorn bush (high maintenance) and stone kraals (almost no maintenance)
+ to US$200.00 - US$900.00 for a chain link fence, an average of US$ 500.00
+ for the living wall bomas (almost no maintenance) and about US$2000.00 for
+ a mobile kraal 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Begg_n_Kushnir_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The greatest single objection to kraaling, is the trampling
+ of the veld that usually happens around the kraal.
+ If there are water available in pans or wetlands during the rainy seasons,
+ some livestock might also not come to drink water at the kraal and thus
+ sleep outside and remain vulnerable to depredation, when kraaling is not
+ combined with herding.
+ Another important draw-back is the built-up of parasites and outbreaks
+ of disease, which are much more likely to happen in the crowded situation
+ and repeated use of the same area, typical of kraaling.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Different levels of predator proofing are effective against
+ different predators.
+ Jackal-proof fences are easy for caracals and leopards to climb and might
+ cause very high surplus killing if one of these species get inside the
+ kraal.
+ Moreover, the kraal obviously has to be strong enough to keep the livestock
+ inside as well (e.g.
+ fighting bulls or frightened cattle might break out of an enclosure that
+ is not strong enough).
+ While some of the veld trampling can be avoided by using mobile kraals
+ that are moved every now and then, these mobile kraals are often insufficient
+ to keep predators out.
+ Additionally, with many different flocks in different camps, this method
+ can be quite labour-intensive and impractical on large, extensive or mountainou
+s farms where reaching the furthest camps can take many hours.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Carnivore-proof fencing for eradication of predators
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+In Southern Africa, jackal-proof fencing was first introduced in the early
+ 1900's and became compulsory in the sheep-producing areas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ By government subsidising jackal-proof fencing, combined with setting up
+ various hunting clubs, the attempt at eradication of black-backed jackals
+ finally succeeded in some districts 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Beinart_1998"
+
+\end_inset
+
+ to the extent that by 1967 the government felt that predators were relatively
+ under control and no longer needed direct government involvement 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bergman_et_al_2013"
+
+\end_inset
+
+.
+ A totally predator-proof fence is possible, but very expensive, and only
+ really economically viable for small breeding camps of high-value game
+ species, like sable and roan (W.P.
+ Barnard 2015, personal communication).
+ Predators are not killed by the fence itself, but by constricting the movement
+ of predators within the camp and clearing the camps from predators one
+ by one using other methods, it can result in an almost total eradication
+ of the predators in a whole district.
+ As the other side of eradicating predators on farmlands, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Packer_et_al_2013"
+
+\end_inset
+
+ proposed the use of carnivore-proof fencing to keep large predators within
+ protected areas, as the most cost-effective method of protecting predators,
+ lions in particular 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Packer_et_al_2013b"
+
+\end_inset
+
+.
+ This is basically an application of the zoning approach proposed by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For almost total eradication of predators, this is one of the
+ only methods that have proved to be successful against black-backed jackal
+ in some areas.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Putting up predator-proof fencing, especially without any
+ government subsidies, is very expensive.
+ Predator-proof fencing do not only stop predators, but also most other
+ wildlife from freely moving around.
+ This has a negative effect on the overall biodiversity of the veld and
+ its long-term sustainability.
+ Because digging animals like warthogs and aardvarks often dig underneath
+ fences, it is important to regularly patrol and maintain all fences, if
+ the fences are to be effective at all.
+ This can be quite expensive and labour-intensive and with the typical increase
+ in labour costs, no government subsidising and low profit margins of livestock
+ farming, makes it more expensive and less effective than alternatives.
+ Once the predator is inside the camp it can kill prey (including livestock)
+ easier by cornering them against the fence, often leading to surplus killing.
+ This is a disadvantage of all kinds of fences, including kraals.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Truly predator-proof fencing is not possible in some kinds
+ of terrain, like very mountainous habitats.
+ Jackal-proof fencing, while relatively effective against jackals, are not
+ effective at all against caracals and leopards, so only really effective
+ when jackals are the only significant predator species.
+ The high costs of proper predator-proof fencing, the age and state of disrepair
+ of current fences, the lack of government subsidies, and the lack of district-w
+ide cooperation makes it increasingly impractical for your typical livestock
+ farmer.
+ The increase in "week-end" farmers with less time to spend on maintenance,
+ makes any district-wide attempts at predator eradication impractical.
+ The fall in profitability of farms per hectares, resulting in fewer farmers
+ and larger farms to remain economically viable 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nattrass_n_Conradie_2013"
+
+\end_inset
+
+, also makes maintenance of fences more difficult.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+ concluded that fencing is only really practical to keep predators out of
+ specific, relatively small, grazing pastures (discussed further below 
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "subsec:Calving-or-lambing"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Electric fencing
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Electric fencing can be used either as a kind of predator-proof fencing
+ or as mobile, temporary fencing, primarily for livestock (usually as part
+ of holistic short-duration high-intensity grazing systems).
+ For mobile electronic fences, a single strand is often used to keep the
+ livestock together and while it might not keep the predators out, by keeping
+ the livestock together, it effectively causes the livestock to use other
+ methods against predators (like cattle protecting small livestock and keeping
+ livestock bunched together for protection).
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stone_et_al_2008"
+
+\end_inset
+
+ showed that combining electric fencing with fladry (a series of red or
+ orange cloth flags hung at 45 cm intervals along a thin rope) can have
+ better results than either on its own.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Paige_2015"
+
+\end_inset
+
+ describe how to install various kinds of electric fencing in more detail.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Electric fences can keep out predators like caracals and leopards
+ as well as jackals, if high enough and properly done.
+ It can also prevent digging animals like aardvark or warthogs from making
+ openings below the fences that predators can use to move through.
+ Mobile electric fencing can be used as a management tool for short-duration,
+ high-intensity grazing systems ("holistic grazing") without being nearly
+ as labour-intensive as normal herding.
+ It can be a very effective method to keep predators away from a relatively
+ small area.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Electric fencing is quite a bit more expensive than other
+ fencing and requires a lot more maintenance as well.
+ Additionally, it does not work in all kinds of terrain, especially not
+ in high or bushy vegetation.
+ It also has a negative effect on ecology, biodiversity and sustainability
+ by stopping the movement of all wildlife and often killing innocent or
+ beneficial animals 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Macaskill_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Because it is so expensive, electric fencing is not an option
+ for fencing whole districts.
+ Even just a whole farm will be too expensive for a typical livestock farmer
+ to afford, especially in areas with low economic or ecological 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Caughley_1976"
+
+\end_inset
+
+ carrying capacity.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Static visual and acoustic predator repellents
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+These kinds of repellents are normally used for relatively small areas in
+ the farm, e.g.
+ calving or lambing camps, with especially vulnerable livestock.
+ According to 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hunt_1984"
+
+\end_inset
+
+, deterrents are meant to discourage the presence of a predator in a certain
+ area before conflict occur, repellents are meant to discourage specific
+ behaviour of a predator in certain area and are usually human-triggered,
+ while aversive conditioning is meant to modify previously undesirable behaviour.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Shivik_et_al_2003"
+
+\end_inset
+
+ differentiated between primary repellents that depend on novelty (neophobia),
+ irritation or pain to stop a predator from some behaviour and secondary
+ repellents that depend on previously learned predator behaviour to prevent
+ some behaviour.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+ discuss some of the visual and acoustic repellent as well as their effectivenes
+s for keeping coyotes away from sheep.
+ It included a gas "exploder" used at night and 3 different strobe light
+ and siren devices.
+ Known as RAG (radio activated guard) devices in the USA, some units only
+ activate when collared predators come near to them 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+ These units cost about US$ 3000 per unit 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2006"
+
+\end_inset
+
+.
+ In Southern Africa the "Jakkalsjaer" is the most commonly available model
+ (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.pmfsa.co.za/home/contact-us/predation-management-experts-equipment
+\end_layout
+
+\end_inset
+
+, last accessed 15 February 2017) which also include the sound of a radio
+ station in addition to sirens and lights.
+ The costs (in 2008) were between N$ 1550.00 and N$ 1950.00 per unit.
+ A variation on this method has been used recently around Cape Town to keep
+ baboons away from residential areas and prevent conflict with people.
+ A simple timed propane cannon has been used in Namaqualand, Northern Cape,
+ South Africa to scare baboons away from a kraal with young goat kids (personal
+ observation).
+ In the USA fladry, in which flags hang from ropes stretched a short distance
+ above the ground and costing about US$ 781.00 per km 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2006"
+
+\end_inset
+
+, is frequently used as a mobile repellent against wolves 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Paige_2015"
+
+\end_inset
+
+.
+ Combined with an electrical line (turbofladry), it costs about US$ 1328
+ per km 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2006"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: These repellents are usually easy to set up, not labour intensive
+ and relatively cheap to maintain 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+ While seldom 100% effective for long, it has been reported to cause a 60%
+ reduction in livestock losses over one season 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ "Lion lights" in Kenya has had a 100% effectiveness in keeping lions from
+ killing cattle in an enclosure at night 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Howley_2013"
+
+\end_inset
+
+ (so far) by mimicking people walking around with flash-lights at night.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stone_et_al_2008"
+
+\end_inset
+
+ mentioned that when fladry is combined with (temporary) electric fencing
+ it worked well, repelling wolves even when the fence was temporarily not
+ electrified.
+ This combination, known as turbofladry, might work well for other predators
+ as well, by combining a very visual signal with a real painful stimulus,
+ and work better than either the electric fence or the fladry on its own.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The greatest disadvantage is that like most repellents, predators
+ can get used to them making them ineffectual, so it is almost always a
+ temporary solution.
+ In the cases mentioned by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+, they succeeded in keeping coyotes away for between 1 and 180 days.
+ They conclude that these methods are not really effective for longer periods
+ of time.
+ The explosive repellents have been found to be effective against coyotes
+ for an average of 31 days 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ Fladry also worked only for up to 60 days against wolves 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Musiani_et_al_2003"
+
+\end_inset
+
+.
+ Fladry, while cheaper than the other options, is also maintenance-intensive.
+ The Jakkalsjaer repellents also only have a limited range (about 150 ha
+ per unit) and while livestock in a camp that is close to it might be save,
+ others that are further away in a camp, might still be vulnerable (or multiple
+ devices per camp might be needed).
+ Moreover, sometimes the lights and sounds attract thieves who steal not
+ only the livestock, but also the expensive equipment 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Macaskill_2013"
+
+\end_inset
+
+.
+ Most predators are territorial.
+ If there are repellents in all of its territory, hunger will force the
+ predator to habituate to the repellents eventually.
+ Therefore it is important that the predators have "sanctuaries" without
+ any livestock and where they can survive on wild prey, for this method
+ to be effective.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: These kinds of methods are really only useful for keeping predators
+ away from small pasture camps or kraals.
+ So far, fladry is not known to work against any other mammals except wolves
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Musiani_et_al_2003"
+
+\end_inset
+
+.
+ It appears to work for longer when the repellent mimics a real danger (e.g.
+ people walking with flash-lights at night).
+ Because predators get used to the unusual lights or sounds, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+ recommend that it only be used for relatively short periods when livestock
+ are especially vulnerable.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Predator repellent collars on livestock
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+These kind of repellents are usually affixed to the livestock with a collar.
+ They vary in kind from age-old low-tech bell collars to modern high-tech
+ E-shepherd collars (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://eshepherd.biz/faq.html
+\end_layout
+
+\end_inset
+
+, last accessed 15 February 2017).
+ They vary greatly in price and effectiveness, but they all contribute to
+ the ability of predators to distinguish between natural prey and livestock
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1999"
+
+\end_inset
+
+.
+ The e-shepherd is a system where the collar gives an ultrasound alarm and
+ shine LED lights as soon as the sheep starts running (being chased by a
+ predators) or leave a certain area.
+ Another high-tech type collar is the GSM based "Veldwagter" system 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lotter_2006"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For the high-tech versions which only gives an alarm when the
+ livestock are being attacked, it takes longer for the predators to get
+ used to them.
+ Preliminary testing of the E-Shepherd collars have shown them to be effective
+ for at least a year.
+ This implies that while predators might eventually get used to them, they
+ are effective for longer periods than the static repellents.
+ They can also be used together with other methods (e.g.
+ livestock guarding dogs with bell collars) to warn predators away.
+ The "Veldwagter" system has also helped to prevent stock theft 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smuts_2008"
+
+\end_inset
+
+, another major source of livestock losses in parts of Southern Africa.
+ In the best case so far, it has reduced livestock losses from 320 sheep
+ per year down to 12 sheep per year.
+ It appears to be a good choice for farms close to towns where cell phone
+ coverage is better and the more likely causes of livestock loss are theft
+ and domestic feral dogs.
+ Bell collars work well together with herders and LEDs, both in warning
+ the predator that livestock are not natural prey, and in helping the herder
+ to locate and keep the herd together 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Begg_n_Kushnir_2013"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantage: Once predators have habituated to the repellent, it can have
+ exactly the opposite effect of calling the predator to dinner, rather than
+ warning the predator off.
+ And predators learn from each other, so this behaviour might spread quite
+ quickly within the predator population once a single predator has figured
+ out that the collars are actually harmless.
+ The high-tech versions of the collars are quite expensive.
+ The E-shepherd collars costing about the same as a fully-grown sheep (N$
+ 1200.00 in the beginning of 2016 - E-Shepherd, personal communication).
+ It is recommended that at least one collar per every 10 sheep be used,
+ meaning that depredation losses must be very high before it begins to make
+ economic sense.
+ The "Veldwagter"system 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smuts_2008"
+
+\end_inset
+
+ uses the cell phone network to warn the farmer of any unusual movement
+ of sheep.
+ It costs almost N$ 5000.00 per collar (in 2008) and therefore only one collar
+ per herd is recommended, meaning that if the herd breaks up into smaller
+ groups (like Dorper sheep and many European breeds), it might no longer
+ be effective.
+ Like any other collaring system, this method is quite labour-intensive,
+ especially when collars are using on growing lambs or kids (the most vulnerable
+ individuals), since the collars have to be checked and adjusted every couple
+ of weeks.
+ In extensive farming systems where livestock are not seen regularly, the
+ collar might start to strangle growing sub-adults (Charles Schreuder 2011,
+ personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: All these methods will only be effective in the long run if
+ there is enough wild prey available to the predators as an alternative
+ food source (or the neighbour's livestock when he is doing less to protect
+ his livestock).
+ If there is no other option, hunger will force the predator to attack livestock
+ in spite of the repellent collars.
+ The high cost versions are only an option in cases of very high livestock
+ depredation rates, while the low cost versions are only effective (if at
+ all) in combination with other methods.
+ It is also not a good option for extensive farming systems which aim to
+ be less labour intensive.
+ Some systems (e.g.
+ the Veldwagter collars) require cell phone coverage to work, making it
+ impractical for large parts of Namibia.
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Collars that give wolves an electric shock when coming close to a homestead
+ have also been tested in the past (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stone_et_al_2008"
+
+\end_inset
+
+).
+ Unlike conditioned taste aversion (CTA, see page 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "subsec:Food-aversion-conditioning"
+
+\end_inset
+
+) the behaviour change did not last long.
+ A number of factors make this method impractical...
+ Unless a single animal is causing all the damage and it is being used as
+ reactive method, this method cannot be used.
+ It can help to keep the predator away from a certain area, but will not
+ prevent the predator from killing livestock elsewhere.
+ All vulnerable livestock therefore need to be kept inside the "protected"
+ area that will cause the collar to shock the predator.
+ The period of effectiveness will be restricted pretty much to the shock
+ collar's battery life.
+ The difficulty in capturing the right individual causing the livestock
+ depredation plus the collaring cost, limits it usefulness further.
+ It will thus not be discussed further here.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Protective livestock collars
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+In contrast to poison collars (a reactive measure) where the livestock animal
+ with the collar is sacrificed in the process, these collars attempt to
+ prevent the predator from killing livestock.
+ It also differs from the repellent types of collars by not primarily trying
+ to change the predator behaviour, but to make actual attacks less effective,
+ instead.
+ Most predators attack the neck or throat to kill livestock.
+ These kind of collars thus aim to prevent a predator attack from succeeding
+ in killing the livestock animal, but also hope to change predator behaviour
+ to avoid livestock and revert to natural prey instead.
+ The most commonly available versions in Southern Africa, are the KingCollar
+ (a broad, 1 mm thick, semi-rigid, high-density polyethylene collar that
+ are attached to the entire flock of livestock) and the Dead Stop Collars
+ (consisting of a broad metal mesh, which is epoxy-coated), both described
+ in 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Smuts_2008"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: In a cost-benefit study in the Eastern Cape Karoo, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "McManus_et_al_2014"
+
+\end_inset
+
+ showed that Dead Stop Collars decreased costs and livestock losses significantl
+y compared to trapping and hunting and did not differ significantly from
+ the use of livestock guarding animals (dogs and alpacas).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Like all collars, the use of the Dead Stop Collars 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smuts_2008"
+
+\end_inset
+
+ (cost: just over N$20.00/collar in 2008) or KingCollars 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "King_2006"
+
+\end_inset
+
+ (cost: N$ 5.00-6.00 depending on size in 2008) can kill livestock by strangulatio
+n if not checked and adjusted regularly on growing livestock (Charles Schreuder
+ 2011, personal communication).
+ It is thus fairly labour intensive.
+ To be truly effective, every single vulnerable livestock animals needs
+ to be collared, since the aim of this method is not primarily to change
+ predator behaviour.
+ However, it can have a negative backlash when some predators (especially
+ jackals) start to attack livestock from behind by ripping them apart and
+ avoiding the neck or throat when attacking.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: The greatest limitation of these collars are that applying
+ them can be fairly labour-intensive.
+ In general, they are more effective against felid predators than against
+ canids or hyaenas.
+ There need to be enough alternative prey for predators, otherwise they
+ can change their attack method to avoid the neck and throat of livestock
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Smuts_2008"
+
+\end_inset
+
+.
+ This might be the explanation for the fact that in the 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "McManus_et_al_2014"
+
+\end_inset
+
+ study, the only two farmers who had a slight (though not statistically
+ significant) increase in depredation in the second year of using non-lethal
+ methods, were those who only used protective livestock collars.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Carcass disposal
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+By preventing carnivores from eating livestock carcasses, it decreases the
+ probability of the them learning to consider livestock as a food source
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ellins_1985"
+
+\end_inset
+
+.
+ It can also help to prevent predator numbers from growing, by not providing
+ them with extra free food 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ Most predators will scavenge when the opportunity presents itself, although
+ some species, like cheetahs, almost never scavenge and will often not even
+ return to the remains of their own kills.
+ Lamb tails when they are removed, or even the afterbirth of livestock,
+ should be removed from the veld and burnt, for the same reasons 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Daly_et_al_2006"
+
+\end_inset
+
+.
+ It is a good idea to have a predator-proof fenced carcass pit where any
+ livestock carcasses or remains are burnt 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: While very unlikely to have a large effect on livestock losses
+ due to depredation, this method is easy to use together with most other
+ methods.
+ It is aimed at changing predator behaviour (or rather to prevent certain
+ learned predator behaviour), rather than directly preventing livestock
+ depredation.
+ Because it encourages natural predator behaviour by teaching predators
+ not to consider livestock as natural prey, it is ecologically sustainable.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: On its own, this method has almost no effect on livestock
+ depredation.
+ If the carcasses of livestock that died from natural causes are the only
+ food available, getting rid of it might encourage predators to kill livestock
+ instead for food.
+ Finding and getting rid of all livestock carcasses on a large farm might
+ be almost impossible and even on smaller farms with many areas impassable
+ by vehicles, it might be very difficult to find all livestock carcasses
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method does not work at all for those predators (like
+ cheetahs) that do not scavenge.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Food aversion conditioning of predators
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Food-aversion-conditioning"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Conditioned taste aversion (CTA) was already discovered as a unique kind
+ of learning by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Garcia_et_al_1955"
+
+\end_inset
+
+ and first demonstrated as a possible method to decrease livestock depredation
+ by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Gustavson_et_al_1974"
+
+\end_inset
+
+.
+ Like the static or mobile repellent methods, the aim is to change predator
+ behaviour 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996,Treves_n_Karanth_2003,Shivik_2004"
+
+\end_inset
+
+.
+ The most common chemical used for this purpose is lithium chloride (LiCl)
+ (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Gustavson_et_al_1974"
+
+\end_inset
+
+) but other emetic compounds used include cupric sulphate (CuSO4), emetine
+ hydrochloride (EHCl), alpha-naphthyl-thiourea (ANTU) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+, anthelmintic thiabendazole (TBZ) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Dingfelder_2010"
+
+\end_inset
+
+, and Ziram 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Baker_et_al_2007"
+
+\end_inset
+
+.
+ CTA is based on the same principle exploited by organisms using Batesian
+ mimicry, where even a single event of a predator eating some prey causing
+ them to be sick, can cause a prolonged aversion to similar prey animals
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Forthman_2000"
+
+\end_inset
+
+.
+ This method has been less successful in field trials 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Griffith_et_al_1978,Linnell_2000"
+
+\end_inset
+
+, mostly because it depends on the predators not tasting the chemical (LiCl)
+ and thus not being able to differentiate it from the known taste of livestock
+ meat 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "ForthmanQuick_1985,Forthman_2000"
+
+\end_inset
+
+.
+ Because precise dosages, well distributed through the livestock carcasses
+ are required 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Forthman_2000"
+
+\end_inset
+
+, farmers do not always implement it correctly resulting in failure 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ellins_1985"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This methods is inexpensive.
+ In contrast to poisons, it is safe for humans and non-lethal to predators,
+ scavengers and secondary consumers (no negative environmental impact).
+ As long as the territorial predators with a developed taste aversion stay
+ in their territories, its effect is relatively long-lasting.
+ It can be combined easily with most husbandry methods.
+ Trained territorial predators “protect” livestock from other predators,
+ so once taste aversion has been established, it is not very labour-intensive
+ to maintain 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Forthman_2000"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The taste is specific to a specific livestock type.
+ In other words, if predators develop a taste aversion to sheep, they might
+ still kill cattle and goats.
+ The greatest disadvantage is probably the logistical issues 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ellins_1985,Linnell_2000"
+
+\end_inset
+
+.
+ Finding all or most livestock carcasses to treat or enough bait so that
+ all residential predators develop an aversion to the taste of all livestock
+ species, is difficult, and may be impossible.
+ As a method, it is highly sensitive to methodological variation 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ellins_1985"
+
+\end_inset
+
+.
+ Moreover, it does not work overnight, so farmers might loose a number of
+ livestock before predators starts to avoid killing livestock.
+ Misapplication is not neutral in the sense that it can actually increase
+ depredation losses if done wrongly, e.g.
+ if the predator learn to taste the chemical and start killing livestock
+ (which will always be untreated) while avoiding treated carcasses.
+ Because it depend on resident predators learning to avoid killing livestock,
+ it is incompatible with any method that involves predator removal 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Forthman_2000"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: If the findings for coyotes as reported by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Jaeger_2004"
+
+\end_inset
+
+ are also true for black-backed jackals, and alpha breeding pairs are the
+ real killers of livestock while the betas and transients are mostly scavengers,
+ this method will not work since the livestock killers will never be able
+ to develop a taste aversion.
+ And of course, it will be useless against predators like cheetahs that
+ do not normally scavenge and are thus unlikely to ever take any bait.
+ A taste aversion to livestock carcasses does not necessarily result in
+ predators not killing livestock 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_2000,Shivik_et_al_2003"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Baker_et_al_2007"
+
+\end_inset
+
+ showed that the same chemical have different effects on different predator
+ species.
+ Since eating any untreated livestock meat will cause any previous conditioned
+ aversion to stop, the only situation where this method is an option is
+ where it can be ensured that all livestock carcasses on the farm have been
+ treated.
+ This method thus has to be combined with carcass disposal and share all
+ its disadvantages and limitations as well.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Chemical predator repellents
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Various chemical repellents have been tested against predators.
+ In contrast to conditioned taste aversion (CTA), it does not work by causing
+ nausea and vomiting in predators as a means of teaching them to avoid livestock.
+ Instead, strong-tasting chemicals like capsaicin (the active ingredient
+ of red peppers), undecenovanillylamide (nor-capsaicin), cinnamaldehyde
+ or various commercial products are put on foods to stop animals from eating
+ it.
+ It has worked with vegetative foods 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+, but little success has been demonstrated against predators except as a
+ repellent when threatening humans 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hunt_1984"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Unlike CTA that takes a while to have any effect, if it works
+ as a repellent, it would stop predators from killing livestock immediately.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: While some success has been shown against some predators,
+ other predators have change their attack methods, similar to what happens
+ against protective livestock collars 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ This method does not work for all or even most predators.
+ Putting repellents on all vulnerable livestock is labour-intensive.
+ One if the greatest drawbacks of this method is that it is not predator-selecti
+ve, but also affect livestock and humans 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: If used together with livestock protective collars on the hindquart
+ers of livestock, this method have some potential, but this has not been
+ demonstrated as effective in lowering livestock depredation, yet.
+ When used in collars, it has been demonstrated as ineffective and teaching
+ the predators to attack the hindquarters instead of the neck (Burns and
+ Mason, 1996, quoted in 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Shivik_2004"
+
+\end_inset
+
+).
+ In addition the fact that it is labour-intensive makes it unsuitable for
+ extensive types of farming.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Projectile predator repellents
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+This method involves shooting predators with projectiles (e.g.
+ rubber bullets or paint balls) to chase them away from livestock 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ It is usually use in combination with other methods like calving or lambing
+ camps in order to keep predators away from a specific area.
+ It has been shown that predators do not necessarily associate the repellents
+ with livestock or the area, but rather with the person(s) shooting at them
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004,Shivik_2006"
+
+\end_inset
+
+.
+ It can also be used by herders and patrolling range riders to scare away
+ predators from the vicinity of livestock herds 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For predators that have become very used to people and attack
+ livestock close to farm homesteads, this can be an easy and non-lethal
+ method to chase them away.
+ It also combines quite naturally with patrolling of areas where livestock
+ are grazing and can thus be used in different ways to both intensive and
+ extensive farming.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Because predators might not associate the repellent with
+ livestock or the area around the homestead, they might simply become better
+ at avoiding people who might shoot at them while continuing to kill livestock.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is very unlikely to work for predators that hunt
+ at night (most Southern African predators).
+ Unless the farmer catch the predators in the act of hunting livestock,
+ this method is pretty much useless.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Natural repellents
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Predators mark their territories to warn away other predators, both con-specific
+s and competing predator species.
+ Jackals and caracals are known to kill each other's young 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bothma_2012,DuToit_2013"
+
+\end_inset
+
+ and probably show habitat partition and niche contraction when sharing
+ an area.
+ Leopards kill other predators, including cheetahs, caracals and jackals
+ and these predators might want to avoid leopards or experience a decrease
+ in their numbers when there are leopards around 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+.
+ The importance of such predator interactions is illustrated by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bothma_2012"
+
+\end_inset
+
+, "The average carnivore in Africa is prone to predation and ecological
+ influence from 15 other types of carnivore at some stage of its life".
+ On an Eastern Cape farm where jackals used to be a major cause of livestock
+ loss, caracals has been used successfully for years to decrease the losses
+ (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Holmes_n_Holmes_2006"
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.farmersweekly.co.za/article.aspx?id=286
+\end_layout
+
+\end_inset
+
+; 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "DuToit_2013"
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://karoospace.co.za/can-caracals-save-sheep
+\end_layout
+
+\end_inset
+
+ last accessed 15 February 2017).
+ After initially releasing some caracals on the land to they put caracal
+ scat around kraals and lambing camps to keep jackals away from the sheep.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Unlike many human-made repellents that depend on the wariness
+ of predators towards the unknown, because these kind of repellents are
+ backed by the actual threat of inter-specific violent interactions 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ritchie_and_Johnson_2009"
+
+\end_inset
+
+, they remain effective for periods of up to 10 years so far (Marion Holmes,
+ personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Because the method works on the principle of establishing
+ a fake predator territory around the area where the livestock will be,
+ it can only be used to protect a certain relatively small area.
+ Finding enough faeces to implement this method might be impossible without
+ captive predators to provide scat (e.g.
+ wildlife rehabilitation centres).
+ Because the scat are strewn twice weekly, it can be quite labour intensive.
+ Too little research has been done on the interactions between all Southern
+ African predators to know when and how effective this method will be in
+ difference situations 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Caro_1987,Cozzi_et_al_2012,Durant_1998,Hayward_n_Kerley_2008,Kamler_et_al_2007,Kamler_et_al_2012a,Kamler_et_al_2013,Mills_n_Mills_2014,Ritchie_and_Johnson_2009"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is not compatible with lethal methods or other
+ methods that disturb the territorial distribution of predators on the farm.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Increasing natural prey
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+A study in the 1990's by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Marker_et_al_1996"
+
+\end_inset
+
+ in North Central Namibia, found that the only factor to make a significant
+ difference in the levels of livestock depredation, was the number of wild
+ prey on the farm (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Avenant_n_Du_Plessis_2008"
+
+\end_inset
+
+).
+ For many of the other methods to work at all, there needs to be an alternative
+ source of prey available to predators.
+ Cheetah 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2003c"
+
+\end_inset
+
+ and leopard 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mizutani_1999"
+
+\end_inset
+
+ take livestock in lower numbers than what would be expected from livestock
+ stocking rates if they simply took prey according to availability.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Khorozyan_et_al_2015"
+
+\end_inset
+
+ showed that definite densities of wildlife exist, below which predators
+ will switch from wild prey to livestock.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Especially in Northern Namibia, but also in other parts of Southern
+ Africa, this method costs almost nothing except hunting less game and limiting
+ hunting dogs on farms.
+ It combines well with most other methods and increases the biodiversity
+ and thus ecological stability of the land.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Where there is no or few game currently, it can be expensive
+ to reintroduce wildlife on farms.
+ Even where some original wildlife can still be found on a farm, it can
+ take a while before game numbers reach high enough numbers to make a difference
+ in livestock losses.
+ In many cases an increase in natural prey numbers will not be sufficient
+ to decrease livestock losses.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is not really an option in transformed landscapes
+ where little natural habitat remains for wildlife.
+ In some areas where the total sustainable stocking rate for all herbivores
+ is below the critical density found by 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Khorozyan_et_al_2015"
+
+\end_inset
+
+, this method might also not be an option.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Livestock guarding dogs (LEDs)
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Livestock guarding dogs are already mentioned in one of the oldest books
+ in the Bible (Job 30:1).
+ Livestock guarding dogs should be clearly distinguished from herding dogs.
+ Whereas herding dogs use behaviour similar to that of a predator to scare
+ and bunch livestock together and move them in the direction they want,
+ livestock guarding dogs behave as one of the flock.
+ They are bred to be trustworthy (will not harm the flock), attentive (stays
+ with the flock), and protective (barks and defends the flock).
+ One of the best adapted breeds to the Namibian climate, long distances
+ and large enough for its predator species, is the Anatolian/Kangal, although
+ Rhodesian Ridgebacks have also been used with success (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Linnell_et_al_1996,Andelt_2004,Urbigkit_n_Ubigkit_2010,Van_Bommel_2010,VanBommel_n_Johnson_2012"
+
+\end_inset
+
+).
+ While there are many other breeds of livestock guarding dogs that are protectiv
+e, attentive and trustworthy, most of them were bred for different climates
+ and are not a good fit for the heat and long daily livestock movements
+ of Namibia.
+ LEDs are used in different ways.
+ The traditional way and the most effective 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hansen_2005"
+
+\end_inset
+
+, is the use of dogs together with herders and kraaling at night.
+ But they have also been used in other ways, some of which are better suited
+ to extensive farming conditions: the cheapest method (and the second most
+ effective) is having LEDs alone in camps with livestock.
+ Two other options is having LEDs alone with livestock in open range 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "VanBommel_n_Johnson_2012"
+
+\end_inset
+
+ or patrolling the livestock together with a "range inspector" 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hansen_2005"
+
+\end_inset
+
+.
+ An evaluation of various livestock guarding dogs in Slovakia, showed that
+ the success of dogs depended more on the attitude and diligence of the
+ herders than on the breed of dog 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rigg_et_al_2011"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Well-trained livestock guarding dogs are one the best protectors
+ of livestock against predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2005a"
+
+\end_inset
+
+.
+ Compared to herders, they are also relatively cheap (the cost of the puppy
+ plus about N$500.00/month for food and veterinary costs = cost of 5-6 small
+ livestock units saved per year).
+ Once the dog and livestock have bonded, self-feeders can be used to feed
+ them and a minimum of effort and labour is required for maintaining the
+ protection of livestock (Ivan van Niekerk 2016, personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: It takes about a year for an Anatolian shepherd dog to be
+ trained and develop enough confidence to chase away a large predator like
+ a leopard or cheetahs.
+ Therefore in the first year of its life, a livestock guarding dog needs
+ to be accompanied by a herder in order to teach it not to chase game, play
+ with the young livestock or learn other behavioural problems.
+ Of course, the herd itself also needs to be protected until the LGD can
+ take its place.
+ For this reason, the first year of the dog's training can be quite expensive.
+ On average a LGD has a working lifetime of about 4-5 years in Namibia and
+ sometimes a dog can die from snake bite within its first year of working
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_et_al_2005"
+
+\end_inset
+
+.
+ However, since snakebite have been the major cause of death, snake aversion
+ training might extend the average working life of LEDs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_et_al_2013"
+
+\end_inset
+
+.
+ This means that a new dog needs to be trained on average every 5 year just
+ to protect the same number of livestock.
+ If a LGD is not trained properly, it can show all kinds of behavioural
+ problems, including at worst, starting to kill livestock itself.
+ Therefore the herder doing the training needs both to know how to train
+ the dog and be trustworthy 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schumann_Ed_2004,Potgieter_2011"
+
+\end_inset
+
+.
+ Another major drawback to using LGDs, is that the demand is much higher
+ than the supply, so a farmer might not always be able get a dog when required.
+ Although self-feeders can ease the problem, regular care of the dog is
+ still a requirement making the utilization of remote areas by livestock
+ problematic.
+ Sometimes the most vulnerable livestock is no longer in the herd to which
+ the LGD has bonded and a whole process is involved to introduce the dog
+ to its new herd.
+ This method can thus cause a lot more management headaches compared to
+ other methods.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: One LGD can protect no more than 200 small livestock effectively.
+ This will also depend on the vegetation, terrain and the predator threat
+ itself.
+ Because the dogs bond with a specific herd, when two herds each with their
+ own LGD are put into adjacent camps, the dog might attack each other, attack
+ the livestock of the neighbouring camp or even start to spend time with
+ each other and start ignoring the livestock.
+ LEDs have not been tested with cattle, but it will probably be quite difficult
+ to bond the dog with cattle, since most cows will tend to be quite aggressive
+ in protecting their calves and can easily kill the puppy.
+ So while it might be possible, bonding cattle and dogs has not yet been
+ tested.
+ Not only does the dog need to bond with the livestock herd, but the herd
+ also needs to bond with the dog.
+ When this does not happen properly, some sheep will run away from the dog
+ and can even break legs or kill themselves while running away from the
+ dog, especially in mountainous terrain (personal observation).
+ The dog is also limited to work only with the kind of livestock to which
+ it is bonded, meaning that a dog that was raised with goats cannot be used
+ with sheep, nor a dog raised with sheep used with goats.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Guard donkeys
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Donkeys are one of the undervalued protection animals against predators.
+ While they cannot protect against some of the same size predators that
+ LEDs can, they do not require special feeding, as they graze with the other
+ livestock and are much easier and cheaper to acquire 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ The principle behind this method is to use the protective instinct of a
+ donkey for her foal to also protect other livestock.
+ Normally a female donkey that has recently foaled is put with her foal
+ among livestock about to calf.
+ Since she would not like to be alone, she tends to stay with the livestock
+ and chase away any predators that threaten the young.
+ To be successfully implemented, there are a number of guidelines to keep
+ in mind: 1) use only a mare or gelding since donkey stallions can be aggressive
+ to livestock; 2) have the donkey bond with the herd it is to protect for
+ 4-6 weeks; 3) use only one donkey per herd, (or a single jenny with a foal),
+ otherwise a group of donkey will rather graze on their own; 4) test a new
+ donkey’s response to predators (use a dog in a kraal with the donkey and
+ do not use donkeys that react passively); and 5) use donkeys in small open
+ pastures with a moderate-size herd 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Marker_2000a"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Using donkeys are faster to implement than livestock guarding
+ dogs (LEDs) with no need for training.
+ They are cheap to buy and maintain, since they live on the same grazing
+ as the other livestock.
+ They have a longer life expectancy than LEDs (10-20 years), and can be
+ used in combination with many other methods 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Donkeys are reportedly less effective in preventing livestock
+ losses than livestock guarding dogs 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: While donkeys are fairly effective against cheetahs and smaller
+ predators, leopards and larger predators are not discouraged by donkeys
+ and would sometimes go past calves in order to kill and eat a donkey foal
+ (Francois Kok 2014, personal communication).
+ For best results, the mare should have a foal a few weeks before the calving/la
+mbing seasons of the livestock to be protected.
+ This necessitates the use of seasonal breeding (see page 
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "subsec:Seasonal-avoidance-of"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Guard Llamas/Alpacas
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Both llamas and alpacas are natives of South America and can used as guarding
+ animals, but reports from Israel imply that llamas are more aggressive
+ towards predators than alpacas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ These animals are basically defending their territories when they attack
+ predators.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Like donkeys, they do not need to be trained or fed specifically,
+ but graze with other livestock.
+ Unlike donkeys, they appear to form strong bonds with the livestock they
+ protect, especially being protective of small lambs.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Llamas are even more scarce and expensive to buy than livestock
+ guarding dogs in Southern Africa.
+ How well they are adapted to savannah bush vegetation is not known yet.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Even though they are aggressive towards smaller predators,
+ in South America they are known to run away from pumas, so their use are
+ probably restricted to protecting against smaller predators like caracals
+ and jackals.
+ Because they are territorial animals, they will probably also work better
+ in smaller camps.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Protection cattle
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Cattle"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Cattle can be used to protect small livestock from predators by the different
+ livestock species bonding with each other.
+ Sheep are bonded with cattle by putting lambs 45-90 days of age, with the
+ cattle in a kraal for 60 days 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ Goats appear not to bond directly with the cattle, but bond with sheep
+ who in turn are bonded with cattle.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For predators that can be chased away by cattle, this method
+ is apparently very effective.
+ It can also be used very effectively together with other livestock management
+ techniques like holistic (high-intensity, short duration) grazing and result
+ in better veld utilization by encouraging grazing succession 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Vesey-FitzGerald_1960,Gwynne_n_Bell_1968"
+
+\end_inset
+
+.
+ The reduction in losses, predator-proof fence maintenance needed, and time
+ spent searching for sheep, probably make up for the relatively high costs
+ of the method (a similar period of bonding is required for other methods
+ using guarding animals).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The greatest disadvantage to this method is the time and
+ money spent during the period of bonding (US$ 0.51/lamb/day according to
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Linnell_et_al_1996"
+
+\end_inset
+
+).
+ In Namibia, where feed is relatively expensive, this cost might be even
+ higher.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is unlikely to work against some cattle-killing
+ predators, although not de-horning cattle is likely to have an impact even
+ on losses due to larger predators.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Avoiding depredation hotspots
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Predators often prefer to hunt in certain types of habitat within their
+ home ranges 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Abade_et_al_2014"
+
+\end_inset
+
+.
+ This terrain in which predators prefers to hunt is determined to a large
+ extent by their way of hunting, e.g.
+ an ambush predator would prefer areas with enough cover for hiding and
+ stalking while both coursing and speed hunters can be expected to prefer
+ relatively flat areas rather than rocky or mountainous terrain for hunting.
+ It is known that leopards avoid open areas 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martins_2010"
+
+\end_inset
+
+, and this has been used to decrease leopard predation on calves by keeping
+ cows with calves away from bushy, mountainous parts of a farm (while utilizing
+ those areas by larger oxen and cows with horns; e.g.
+ see Landbouweekblad, 24 June 2011).
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Balme_et_al_2007"
+
+\end_inset
+
+ showed that leopards actually preferred to hunt in areas of intermediate
+ cover, but also that the habitat type was more important than the prey
+ species abundance.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Eaton_1970"
+
+\end_inset
+
+ showed that for cheetah in a heterogeneous environment, the hunting technique
+ and preferred hunting areas and prey differed between different cheetah
+ groups.
+ However, in general, it does appear as if bush edges next to open areas
+ are preferred cheetah hunting habitat 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Mills_et_al_2004"
+
+\end_inset
+
+.
+ Females normally don't move very far once they have small young, thus creating
+ a temporary depredation hotspot around their denning sites, to be avoided
+ by vulnerable livestock.
+ For the smaller meso-predators, like jackals and caracals, little is known
+ about their habitat preferences in general and their preferred hunting
+ habitat in particular.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Where livestock are kept in camps, like almost all commercial
+ farms in Namibia, it is a very easy to implement method, costing almost
+ nothing except planning.
+ Because of a minimum interference with the ecology and behaviour of predators,
+ this method "works with nature" and is one of the more sustainable methods.
+ It can also be combined with most other methods.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: This method is dependent on the veld of a farm providing
+ heterogeneous habitat with different hunting preferences by predators.
+ If all of the farm consists of "difficult terrain", as sometimes happens,
+ it cannot be implemented.
+ This might be one reason for the often reported differences in livestock
+ depredation rates, being very high on some farms while many of the other
+ farms in a district have negligible losses.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method is only likely to work if there are disproportionate
+ livestock losses in some areas of the farm.
+ In general, more research about the spatial behaviour of economically significa
+nt predators is needed for this option to work well.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Seasonal avoidance of predation (seasonal breeding)
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Seasonal-avoidance-of"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+While the previous method depend on spatial avoidance of predators, this
+ method depends on temporal avoidance.
+ By having specific calving/lambing seasons, the same strategy used by many
+ natural prey species is mimicked.
+ By not providing the predators with a ready source of food throughout the
+ year, an increase in predator densities is avoided.
+ Any of the other preventative methods could also be used for a short period
+ in those seasons when livestock are most vulnerable (e.g.
+ when there are young animals).
+ Such seasonal changes will need to take into account both the seasonal
+ behaviour of the predators (e.g.
+ breeding seasons etc.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Shivik_2004"
+
+\end_inset
+
+) and the seasonal grazing requirements of the livestock.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1996"
+
+\end_inset
+
+ summarize this method as using 1) seasonal changes in livestock husbandry
+ practices, 2) seasonal changes in the life cycle of livestock (birth seasons),
+ 3) seasonal changes in predator life cycles, 4) seasonal changes in the
+ availability of alternative prey and 5) seasonal changes in predation levels.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: If the birth season is synchronized with that of preferred wild
+ prey species, it can drastically reduce livestock losses compared to livestock
+ giving birth throughout the year.
+ Alternatively, if the predator species on a farm have a distinct breeding
+ season (e.g.
+ black-backed jackals in springtime) during which they would have utilized
+ the birthing season of their natural prey in the wild to feed their young,
+ avoiding this season for the birth of livestock can make a big difference
+ on livestock depredation losses.
+ Many livestock species have a natural breeding season in any case and manipulat
+ing this a bit is easy and cheap.
+ This method can also be combined with many other methods and is almost
+ required for some other methods to work.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: There is a reason why natural prey species have their young
+ in a specific season (when they have seasonal breeding)...
+ it is usually the season with the best veld for raising young.
+ This is also true for livestock.
+ So changing the birth season to avoid predators might result in losses
+ due to unsuitable veld conditions.
+ Having distinct breeding seasons requires more direct management of the
+ livestock and possibly higher labour costs.
+ One of the greatest drawbacks is that it might result in lower birth percentage
+s for livestock, especially in extensive farming systems where the males
+ might simply not get to all the receptive females in time for those livestock
+ species who are not naturally seasonal breeders, while year-round breeding
+ increases the chance of higher birth percentages in extensive farming systems.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Where livestock depredation do not have seasonal peaks or does
+ not happen primarily to feed predator young, this method is impractical.
+ When aiming for a birth season to coincide with an increased availability
+ of natural prey, this method is only practical where enough wild prey is
+ available on the farm.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Calving or lambing camps
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Calving-or-lambing"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+If possible, having safe areas for the vulnerable livestock, like young
+ animals, is good management practice.
+ In higher rainfall areas, such camps can be irrigated or cultivated with
+ high-quality grazing.
+ This is not an option in most of Namibia, though.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: In addition to making it easier to protect livestock from predators,
+ having small camps close to the homestead, makes more intensive livestock
+ management also possible.
+ The increase in survival of young might compensate for any decrease in
+ growth rates of the young livestock.
+ Where irrigated pastures are possible, it can actually lead to an increase
+ in production compared to more extensive free-range systems.
+ This method can also be combined with various other methods.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Similar to kraaling, a built-up of parasites and disease
+ epidemics are much more likely than with free-ranging livestock.
+ Grazing close to the homestead and trampling of the veld, might lead to
+ lower production than free-ranging options and make this method less sustainabl
+e.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: The availability of enough good grazing around the homestead
+ for all female and young (if calving/lambing seasons are used) or throughout
+ the year (if young are born throughout the year), is an important limitation
+ on this method.
+ It is thus not a well-suited method for extensive farming in areas with
+ low sustainable stocking rates.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Kraaling young livestock full-time 
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+In contrast to kraaling of all livestock at night, this involves keeping
+ the young animals in a predator-proof enclosure permanently, with the adult
+ females joining their young to suckle only at night while grazing during
+ the day.
+ Or alternatively (especially in the hot summer-time), having the adults
+ graze at night and suckling their young during the day.
+ This has been a traditional livestock management technique in Northern
+ Namibia (Francois Kok, Johann Britz 2013, personal communication; 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_et_al_1996"
+
+\end_inset
+
+).
+ A variation on this method would be to kraal all livestock full-time in
+ a feeding lot.
+ However, this has been found as not economically viable in Namibia 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "NAMMIC_2011"
+
+\end_inset
+
+, mostly because of high prices for livestock feed and long distances to
+ market.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For cattle this method has been shown to be quite effective
+ in North Central Namibia.
+ In some situations, with high livestock depredation levels, it might be
+ one of the few solutions available.
+ For natural "hiders", like goats (and cattle to some extent), where the
+ young is not strong enough to keep up with the adults and would normally
+ remain hidden in one place, while their mothers graze (in contrast to "follower
+s", where the young are strong enough and remain with their mothers within
+ the herd, like sheep; 
+\shape italic
+cf
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Estes_1991"
+
+\end_inset
+
+), this method combines well with intensive care of the young by the farmer.
+ While the young in this method might initially grow slower than free-ranging
+ young who are with their mothers all the time, they often make up for the
+ difference by weaning age already.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: This method is fairly labour-intensive (and thus costly).
+ For each camp or cattle post with cows, a reliable worker is needed to
+ let the adult cows out, while keeping the calves inside every day, 7 days
+ a week.
+ To be at all practical, it has to be combined with birthing seasons.
+ If a single central kraal is used, the same issues with trampling of the
+ veld and weaker growth and production starts to play a role.
+ Some farmers also complain that this method result in weaker protective
+ and mothering instincts in the cows when the calves are finally allowed
+ to go out and graze with their mothers.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This is not a practical solution for extensive farming systems
+ (e.g.
+ where few water points, rough terrain and low grazing capacity result in
+ very large camps that a grazing cow cannot cross in single day) or where
+ livestock do not have a single breeding season.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Changing breed or species of livestock
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Where predation levels are very high, the best option for the farmer might
+ be to change to other breeds or species of livestock.
+ Cattle are in general less susceptible to depredation than small livestock.
+ In mountainous areas, goats can experience less depredation than sheep
+ (especially less surplus killing events).
+ Behavioural attributes of different breeds can influence depredation in
+ two ways 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+: 1) through behavioural traits making other management methods easier (e.g.
+ making herding easier) or 2) through specific anti-predator behaviour (e.g.
+ aggressive attacks of predators).
+ Simple size might put livestock out of the preferred prey size range of
+ some predators (e.g.
+ cattle are not generally vulnerable to caracals).
+ Damara and karakul sheep breeds are known to bunch together more in larger
+ herds than breeds like dorpers.
+ Sheep natural behaviour actually varies all the way from large grazing-while-mo
+ving herds, adapted better for lower grass cover, to more selective, more
+ sedentary grazers, in smaller groups to sheep breeds that form territorial
+ breeding pairs.
+ Some breeds of European (
+\shape italic
+Bos taurus
+\shape default
+) origin in South America developed anti-predator behaviour 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+, while in North America the Brahman (
+\shape italic
+Bos indicus)
+\shape default
+ and longhorn cattle are known for their protective behaviour 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stone_et_al_2008"
+
+\end_inset
+
+.
+ Cattle that know the kind of terrain on a farm (e.g.
+ mountain-raised cattle) also tend to suffer less depredation losses than
+ cattle from other areas.
+ Generally, horned cattle breeds are likely to be able to better protect
+ their calves than polled or short-horn breeds, but individual cows also
+ differ in their protectiveness.
+ Goats tend to scatter uphill when attacked by predators, leading to less
+ surplus killing, unlike sheep that tend to mill around in one place (but
+ sometimes defend their lambs better in the herd against smaller predators).
+ Angora goats are also much more vulnerable to predation than Boer goats.
+ There are unconfirmed claims by some farmers that by not weaning their
+ female Damara lambs, it allows the mothers to teach their daughters how
+ to protect their lambs and also help to establish a herd hierarchy, leading
+ to less depredations losses to jackals.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This method is simple and fairly easy to implement.
+ However, in some cases it can have limited success in reducing livestock
+ depredation unless combined with other methods.
+ In very extensive farming systems, it might be the only option, combined
+ with letting cattle horns grow 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The switch to other livestock species or breed can have negative
+ economic consequences (e.g.
+ beef is generally significantly cheaper than mutton and cattle has a much
+ lower rate of increase than either sheep or goats).
+ Because few farmers can afford to make such a switch quickly, any change
+ has to be done slowly, leading to continued losses until the switch has
+ been completed.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Dairy breeds are generally not well-adapted to the hot climate,
+ thorny vegetation and long distances required to walk between grazing and
+ drinking water typical of many parts of Namibia.
+ Cattle are tall grass grazers, using their tongues to ingest grass, making
+ a switch to cattle not an option in areas dominated by short grasses where
+ tall grass grazers did not occur naturally.
+ Additionally, for a stud farm where the stud might have built up over generatio
+ns, switching to a different breed is both financially and emotionally not
+ a realistic option (Harry Schneider-Waterberg 2013, personal communication).
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Changing production livestock age
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Some farmers in Namibia use a steer production farming system whereby they
+ buy weaner calves and then graze the steers and heifers on natural grazing
+ to gain weight in order to sell them at profit.
+ By weaning age, most calves are no longer vulnerable to many predators
+ and depredation losses can be minimal in this kind of farming system.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Especially when there are few predators larger then cheetahs
+ on the farm, this method can be very effective.
+ It is fairly easy to implement, although it needs careful record keeping
+ and management to succeed economically.
+ One major advantage is that with this method it is easier to quickly adapt
+ stocking rates according to the rainfall (i.e.
+ buy fewer new cattle when the veld condition is becoming bad).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: No breeding selection is possible and the farmer is largely
+ stuck with whatever is available for sale at the time of buying, with little
+ control over livestock quality.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Steer production farming is impossible without enough weaner
+ calves being produced (and offered for sale) in other cow-and-calf production
+ systems.
+ It is thus not an option for all farmers.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Horned cattle
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Many livestock breeds that are native to or adapted well to Africa, have
+ horns that help them in protecting their young from predators (e.g.
+ Afrikaner and Nguni cattle).
+ Putting experienced bulls, horned oxen and old cows with young animals
+ in a single herds in order to teach younger animals how to protect against
+ predators is a simple way to allow livestock to use their natural instincts
+ and behaviour for reducing depredation losses.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This is one of the easiest methods when farming with horned
+ livestock breeds, since it actually involves less labour and thus labour
+ costs than the alternative of de-horning.
+ It is also very easy to implement in extensive farming systems.
+ When combined with strong behavioural breeding selection for those cows
+ who are able to protect their young from predators, this can be a very
+ cost-effective method to reduce livestock depredation, with higher wean
+ percentages compensating for all of the potential drawbacks.
+ Together with choosing the right kind and breed of livestock, this might
+ be one of the only methods available to very extensive farming systems
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Many farmers report that cattle with horns are more dangerous
+ when handling them in the kraal or hurt each other when forced close together,
+ e.g.
+ in feeding lots or while being transported.
+ Some feeding lots appear to discriminate against cattle with horns for
+ this reason.
+ Apparently some farmers also prefer de-horned cattle for aesthetic reasons
+ (Johann Britz 2014, personal communication).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method might not be good fit for those farmers whose primary
+ market is feeding lots or who are farming with breeds that do not have
+ horns for other reasons.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Grouping of livestock (holistic grazing with large herds)
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+While holistic grazing (short duration, high intensity grazing) was primarily
+ developed for veld (grazing) improvement 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Bingham_1997,Jones_2000,Savory_2013"
+
+\end_inset
+
+, it mimics another natural strategy used by many prey species to minimize
+ depredation by crowding together for protection.
+ Instead of having many small herds of livestock distributed through the
+ landscape, having a single large herd (or only a few large herds) means
+ both the chances of a predator encounter is smaller and that the herd is
+ more able to protect its vulnerable members 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Holistic grazing systems can result in improvement of the range-land
+, while often leading to lower production (because the livestock are forced
+ not to graze selectively for high-quality plants), but because it mimics
+ natural herd-forming behaviour of wild herbivores, it also leads to a significa
+ntly decrease in livestock depredation (Uwe Gressmann 2013, personal communicati
+on).
+ This method can also be very easily combined with mixed herds for cattle
+ to protect small livestock (see above 
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "subsec:Cattle"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Unless intensively managed adaptively, it can lead to veld
+ degradation instead of improvement 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Carter_et_al_2014"
+
+\end_inset
+
+.
+ While negative trampling and piosphere effects have been demonstrated in
+ arid and semi-arid regions of the world (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "VonWehrden_et_al_2012"
+
+\end_inset
+
+), the suitability of holistic grazing compared to other grazing management
+ systems like normal rotational grazing or adaptive grazing regimes (e.g.
+ short period - at most 2 weeks - selective grazing early in the growing
+ season, followed by long periods of grazing all grasses down after the
+ grasses had seeded) has not been demonstrated where trampling will not
+ result in a vegetative ground litter cover of the veld, simply due to too
+ little vegetation available.
+ In general, because livestock is forced not to graze selectively for more
+ nutritious grasses, this method, while improving the veld in the long run,
+ can cause lower production by livestock in the short term.
+ General livestock management (e.g.
+ vaccinations or early detection of any health issues) can be more difficult
+ with large herds compared to smaller herds in separate camps.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This method might not be a good option for the more arid parts
+ of Namibia and Southern Africa.
+ Unless combined with other methods like herding dogs, herders or mobile
+ electric fences, this method is not a good fit for livestock breeds in
+ which the natural behaviour is to break up into small groups rather than
+ flocking together in large herds.
+ This method is less likely to work together with methods that disturb the
+ natural territoriality of predators by removing individuals 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Sterilizing breeding alphas
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+This method is not primarily to keep predator numbers down as often supposed,
+ but because for some predators (specifically canids like black-backed jackals
+ and coyotes) where you have territorial alpha pairs who prevent others
+ from breeding in their territories, they tend to depredate on livestock
+ to feed their pups 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+ If there is no young, they can survive on other sources of food, similar
+ to non-breeding individuals (
+\shape italic
+cf
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Jaeger_2004"
+
+\end_inset
+
+).
+ Denning (the killing of young and/or breeding alphas in their dens with
+ poison fumes) or injection of predators with contraceptives works on the
+ same principle.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Where the primary reason for livestock depredation is the feeding
+ of their young, this method can be very effective.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: This method is both difficult (finding the breeding animals
+ in the first place) and expensive to implement (about US$ 600 per animal
+ - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Shivik_2006"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Like lethal methods, this method is not really an option against
+ threatened or scarce predator species.
+ Only where most livestock depredation coincides with the breeding season
+ of the predators on the farm, would this method have any chance of success.
+ Because of the expertise and costs required this is not really an option
+ for most farmers to implement by themselves.
+\end_layout
+
+\begin_layout Subsection
+
+\lang british
+Compensatory methods
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+These methods do not prevent livestock depredation, but in some way compensate
+ or reward farmers or land-owners for having wildlife, including predators,
+ on their land.
+ One example of such a method that really worked well for wildlife in general
+ (although not directly applicable to carnivores), was when Namibian legislation
+ changed in 1967 so that all non-protected wildlife on a farm became the
+ property of the land-owner.
+ Before this, all wildlife belonged to the government and were generally
+ considered as a nuisance by farmers who tried to rid their farms of these
+ competitors with their livestock for grazing.
+ This change caused wildlife to suddenly become a valuable resource for
+ sustainable use of game animals for biltong and meat, resulting in an estimated
+ 70% increase in game numbers and 44% increase in species diversity on farmlands
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "McGranahan_2011"
+
+\end_inset
+
+.
+ Unlike the preventative and reactive methods, the success of these measures
+ are not measured in number of prevented livestock kills and sustainability,
+ but purely in terms of the resulting sustainability of predator populations
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2003"
+
+\end_inset
+
+ and it is normally used as part of a conservation program for endangered
+ predator species.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Dickman_et_al_2011"
+
+\end_inset
+
+ give a good theoretical overview of various compensation schemes as fitting
+ within the general "payments to encourage coexistence" (PEC) framework.
+ They distinguish between 3 types of PEC: 1) compensation and insurance
+ schemes; 2) revenue sharing; and 3) conservation payments.
+ "An “ideal” PEC would: (i) minimize conflict by specifically targeting
+ payments to those most directly affected by carnivores, (ii) reduce the
+ direct costs of human–carnivore coexistence, (iii) provide local people
+ with additional revenue directly linked to carnivores, (iv) avoid moral
+ hazard and perverse incentives, (v) not require significant additional
+ external revenue, (vi) specifically link payments to desired conservation
+ outcomes, and (vii) be likely to have a positive impact on human poverty."
+ Most of these aims have seldom, if ever been reached in actual compensation
+ practices.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Montag_2003"
+
+\end_inset
+
+ makes the point that an important assumption of almost all compensation
+ methods is that the conflict is an economic issue.
+ In reality, most farmers have a sense of responsibility towards the livestock
+ for which they care and monetary compensation does not address this.
+ She also mentions the difference between typically utilitarian, rural view
+ of wildlife and the typically recreational, urban view of wildlife.
+ The political momentum and support for carnivore restoration and conservation
+ largely comes from urbanized centres that neither live in the area of carnivore
+s nor shares the livestock producing way of life.
+ This illustrates why the conflict is often considered as primarily between
+ different human groups, rather than between humans and predators (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Treves_n_Karanth_2003,Montag_2003,Bruskotter_2013,Madden_n_McQuinn_2014"
+
+\end_inset
+
+; discussed further below 
+\begin_inset CommandInset ref
+LatexCommand vpageref
+reference "sec:Why-have-past"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Trophy hunting of predators
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Because of the effectiveness of utilization of other game animals leading
+ to an increase in their value and numbers on farms, many Namibian farmers
+ are in favour of a similar use of predators via trophy hunting (Various,
+ personal communication).
+ A similar approach has worked for leopards in Uganda 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Treves_n_Karanth_2003"
+
+\end_inset
+
+ and for lions in Africa 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lindsey_et_al_2011a,Bouche_et_al_2016"
+
+\end_inset
+
+.
+ However, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Treves_2009"
+
+\end_inset
+
+ makes the point that hunting for protecting livestock and sustainable hunting
+ for conservation of predators, are really different aims and might be ultimatel
+y incompatible.
+ Too little is known about both predator behaviour and hunter behaviour
+ to be sure that the aim of coexistence will be reached and therefore careful
+ monitoring and adaptive management is required.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Putting an economic value on predators, can potentially change
+ the attitude of many farmers to become more positive towards carnivores
+ and if the value is high enough, to try and sustain carnivore numbers on
+ their farms.
+ Currently far more predators are killed in Namibia to protect livestock,
+ than are trophy hunted; with many farmers taking a "shoot, shovel and shut
+ up" attitude (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Marker_et_al_2003,Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+; various Namibian farmers, personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Trophy hunting is normally selective for large males and
+ can change the population structure of predators negatively if not managed
+ properly 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Balme_et_al_2010,Keehner_et_al_2015"
+
+\end_inset
+
+.
+ Additionally, it can cause other negative ecological effects like sexually
+ selected infanticide (SSI) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Balme_et_al_2009a,Packer_et_al_2009"
+
+\end_inset
+
+.
+ Trophy hunting can ultimately have a negative impact on predator survival,
+ unless it is very well managed 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hunter_et_al_2013"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Lindsey_et_al_2013a"
+
+\end_inset
+
+ mention some current management practices that undermine the sustainability
+ of lion trophy hunting and a number of changes to make it more sustainable
+ - some of which might also be applicable to ensuring sustainable trophy
+ hunting of other predators.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: The greatest constraint on the use of trophy hunting of predators
+ to help farmers become more positive about predators on their land, is
+ that predators are on the top of the food chain.
+ This means that a single predator can often use more than one farm as part
+ of its home range and that a single farm with the available natural prey
+ and habitat on it can often support only relatively few predators (compared
+ to herbivores).
+ Unless the income from a single trophy predator shot every few years surpasses
+ the livestock losses due to those predators living on the land, it will
+ not act as an incentive for farmers to sustain predator populations on
+ their land.
+ In this case trophy hunting of a predator will at best offset some of the
+ costs spend by the farmer to prevent livestock losses (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "McGranahan_2011"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Compensation for livestock depredation losses
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Compensation schemes have had mixed results 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Anthony_n_Swemmer_2015"
+
+\end_inset
+
+.
+ The idea behind this method is to to make it possible for farmers to coexist
+ with predators and to encourage it by paying them in part or fully for
+ livestock losses due to predators.
+ There can be three sources of funding for the payments, 1) government,
+ 2) hunters' associations or 3) private conservation organizations 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bauer_et_al_2015*"
+
+\end_inset
+
+ mentions using tourism income to pay compensation for livestock losses
+ due to lions (also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Stander_2008"
+
+\end_inset
+
+).
+ To function at all, such compensation schemes need to be 1) simple, 2)
+ rapid and 3) safeguard against false claims 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nyhus_et_al_2003"
+
+\end_inset
+
+ found the most effective compensation projects to be 1) fair, 2) transparent
+ and 3) above all, fast.
+ This included: 1) quick, accurate verification of damage; 2) prompt and
+ fair payment.
+ 3) sufficient and sustainable funds; 4) being site specific; 5) clear rules
+ and guidelines (simple and transparent); 6) measures success appropriately
+ as having an effect on numbers of predators killed.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Dickman_et_al_2011"
+
+\end_inset
+
+ found that in practice compensation rarely covers all the costs of coexistence
+ with predators.
+ Paying below market value of losses are often done to prevent perverse
+ incentive ("moral hazard") when the compensation pays better than taking
+ livestock to market, resulting in farmers not expending any effort to prevent
+ livestock losses and sometimes even claiming for non-predation livestock
+ losses 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2003,Bauer_et_al_2015*"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Mishra_et_al_2003"
+
+\end_inset
+
+ opined that most initiatives to offset the costs of living with carnivores
+ and to make conservation beneficial to affected people, have thus far been
+ small, isolated, and heavily subsidized.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Montag_2003"
+
+\end_inset
+
+concludes, "Compensation may be viewed as a useful tool, but one with limitation
+s and possible unanticipated adverse consequences."
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+One of the few reported cases where such compensation appears sustainable
+ and effective, involved a WWF funded project for Central Asian leopards
+ in Turkmenistan 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lukarevsky_2003"
+
+\end_inset
+
+.
+ However, it had a number of unique features: 1) The team included members
+ of the local community, including the leader himself.
+ It was thus not a case of "outsiders" running the project.
+ 2) Local residents actively participated in planning a strategy for leopard
+ conservation.
+ 3) Instead of money or other means of compensation, it was decided to compensat
+e farmers in kind (i.e.
+ with other livestock to replace any livestock killed by a leopard).
+ 4) Using the funding money from WWF a herd of sheep was bought, from which
+ the offspring would be used to give compensation for depredation losses.
+ 5) The herd became the property of the local-based Catena Ecoclub, enabling
+ them to make decisions with regards to how the flock would be organized,
+ how cases of leopard attacks would be analysed, etc.
+ 6) Because the livestock herd can reproduce and was not used for any other
+ purpose, this ensured the sustainability of the original WWF funding.
+ A flock of 650-700 sheep would grow on its own and cover the cost of paying
+ shepherds and veterinarians.
+ 7) Next, 40 of the most influential and respected ranchers were invited
+ to participate in a seminar where the project was explained to them.
+ A council was elected to look after the herd on an annual basis and it
+ was decided that the livestock would eventually become the property of
+ the local farmers association once it was established.
+ 8) This local council elected 2 experts to investigate cases of supposed
+ leopard kills.
+ 9) A simple procedure was established by which a farmer would register
+ a case of livestock losses, and the experts would not only decide whether
+ it was truly a leopard kill, but also whether the farmer's livestock were
+ properly managed to prevent predation.
+ 10) The local communities were kept up to date about the progress of the
+ project using poster display stands and education.
+ The long-term plan was to combine education and compensation to ensure
+ the survival of Central Asian leopards.
+ Perhaps the most important lesson from this case study was the role of
+ local leadership in all phases of the project, ensuring that the long-term
+ beneficiaries and implementers of the project were also involved in the
+ decision-making process and the resulting project was well-adapted to local
+ conditions (see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Anthony_n_Swemmer_2015"
+
+\end_inset
+
+).
+ The separation of the two arms respectively verifying predation kills and
+ the other deciding on how much compensation needs to be paid, appears to
+ be a general requirement for successful compensation schemes 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2003"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Most farmers agree that compensation is a nice idea if implemented
+ properly 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Rust_2016*"
+
+\end_inset
+
+.
+ In areas without any natural prey and where predators are dependent on
+ livestock for their survival, this might be the only way to achieve coexistence
+ of livestock and predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996,Mishra_et_al_2003"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: One obvious drawback to this method is that on its own it
+ gives no incentive for farmers to protect their livestock from predators.
+ Additionally, it is not always easy for farmers to prove that losses were
+ due to predators, especially when the whole prey animal is consumed.
+ Failed expectations of farmers about compensation often result in unanticipated
+ negative results, when farmers become even more negative towards predators
+ than before 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Mishra_et_al_2003"
+
+\end_inset
+
+ mentioned that some reasons why current compensation schemes did not work,
+ including 1) time and costs involved in getting compensation and 2) low
+ compensation rates (only 3% of total loss).
+ The greatest issue with this method is the question of who should be responsibl
+e for funding the compensation and how to keep funding sustainable.
+ The difference between urban and rural values 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003,Rust_2016*"
+
+\end_inset
+
+, where sometimes farmers have the perception that people who do not have
+ to deal with the consequences, are trying to manipulate them into keeping
+ predators on their land, can also result in the situation where compensation
+ payouts have no significant effect on tolerance for predators 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Naughton-Treves_et_al_2003"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This is not really a method that an individual farmer can implement
+, but it needs the cooperation of various role-players, with policy, responsibil
+ities and roles well defined to address issues about the legality and liability
+ of wild-life damage, Endangered Species Act legislation, and private property
+ rights.
+ In situations with protected species, the government is the only body that
+ can assume certain responsibilities for human-wildlife conflicts in areas
+ where wildlife is under the stewardship of the people 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Insurance schemes for livestock depredation losses
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Few instances of successful insurances schemes for livestock depredation
+ losses have been reported (
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Mishra_et_al_2003"
+
+\end_inset
+
+ discuss one notable exception).
+ This method basically shares the same strengths and weaknesses of direct
+ compensation for livestock losses.
+ However, it differs in that the farmers themselves carry the costs for
+ the compensation.
+ Insurance is commonly used in Europe, but in general an unsubsidised, purely
+ private insurance scheme is not viable 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Especially given the high reported rates of livestock losses
+ and its uneven distribution (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Van_Niekerk_2010"
+
+\end_inset
+
+), insurance might be an affordable and sustainable way to compensate for
+ livestock losses.
+ It can make the compensation independent and provide something that farmers
+ can mostly do for themselves, instead of having to rely on outside funding
+ organizations or government like other compensation schemes.
+ This method can provide farmers with some peace of mind and works well
+ with almost any other method.
+ Where insurance is working well (i.e.
+ sustainable), payment of rewards for those farmers with the least number
+ of livestock losses to predators (least number of claims), can be an added
+ incentive for good livestock husbandry practices, combining insurance with
+ preventative methods (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Mishra_et_al_2003"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Paying for insurance against depredation losses still equate
+ to a nett loss for most farmers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Montag_2003"
+
+\end_inset
+
+.
+ Most insurance companies do not have the expertise for a realistic assessment
+ of livestock depredation risks and setting realistic premiums, therefore
+ it is usually very expensive and only worthwhile in cases of extremely
+ high livestock depredation rates.
+ And like with direct compensation, there is the need for verification of
+ predator kills when livestock are lost 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Insurance against depredation livestock losses is not offered
+ by most insurance companies in Southern Africa, so unless the agricultural
+ unions can set up their own insurance scheme, it is unlikely to be available.
+ However, it appears likely that it would not be economically viable according
+ to 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Compensation for predators on farmlands
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+This is one of the few compensation methods where successes have been recorded
+ (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Mishra_et_al_2003"
+
+\end_inset
+
+).
+ Instead of directly paying farmers, paying price premiums for their produce
+ (e.g.
+ the "Wildlife Friendly Meat" project by Conservation South Africa in Namaqualan
+d, South Africa) is an alternative method to compensate formers for coexisting
+ with predators on their land.
+ Instead of paying for losses of livestock to predators, the meat from farms
+ who followed certain management practices were to be branded as "Wildlife
+ Friendly", sold in Woolworths stores for higher than normal prices with
+ the price premium being passed on to the farmers.
+ Such niche marketing basically depends on changing the level of predation
+ loss that is economically (and socially) acceptable to farmers 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Shivik_2004"
+
+\end_inset
+
+.
+ It helps to shift the cost of having predators on their land to the consumers
+ who prefer "green" non-lethal methods of predation control.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Unstable markets and fluctuations in the prices of livestock
+ products is a major issue for all commercial farmers.
+ A price premium is one important way to help farmers manage the risk of
+ coexisting with predators on there land instead of aiming for extirpation
+ of all predators.
+ Trough rewarding livestock farmers directly for conserving predators on
+ their land, the real aim of these kind of compensation schemes is directly
+ addressed (instead of a roundabout way of partial compensation for economic
+ losses only).
+ The farmers protecting their livestock well using preventative methods,
+ still score by having greater livestock survival rates; i.e.
+ there is no danger for perverse incentive to allow livestock depredation
+ in order to be compensated (
+\shape italic
+cf
+\shape default
+ the snow leopard case study mentioned by 
+\begin_inset CommandInset citation
+LatexCommand citeauthor
+key "Mishra_et_al_2003"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Unless such a compensation scheme is adapted well to the
+ local situation (e.g.
+ by including local agricultural leaders in the planning and decision-making
+ process), lack of participation by farmers might make it useless.
+ Because many of the threatened predators have home ranges that overlap
+ with more than one farm, a single farmer or even a few dispersed farmers,
+ might not contribute much to the long-term survival of predator species.
+ Finding shops that are willing to sell predator-friendly livestock products
+ as a separate brand and are moreover willing to pass the premium price
+ on to the farmers, is difficult.
+ Similar efforts in Namibia to market and sell "cheetah-friendly meat" in
+ the past fell apart because 1) it was difficult to ensure farmers' compliance
+ with the required management practices and 2) separate branding and marketing
+ (and passing higher prices on to the producers) was an issue for the supply
+ chain (L.L.
+ Marker 2013, personal communication).
+ There was and still is uncertainty on whether the demand for such products
+ is high enough to sustain a higher price.
+ Consumers might support the idea of "predator-friendly" meat production,
+ but are they actually willing to pay more for such meat? Woolworths, as
+ a franchise that targets the upmarket section of consumers, might be considered
+ as the ideal partner in such a project, but up to the present higher producer
+ prices have still failed to realize in practice.
+ Like in the case of compensation for livestock losses, the numbers of predators
+ on a farm now have to be confirmed before payment is possible 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Nyhus_et_al_2005"
+
+\end_inset
+
+.
+ Direct payment for predators suffers from the same issues with sustainable
+ funding as compensation for livestock depredation.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: This is not really an option for a single farmer without the
+ support of at least the local farmers association or even better, the national
+ agricultural union.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Ecotourism
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Like trophy hunting, ecotourism is another way to benefit directly from
+ predators on farmlands.
+ In communal areas, where regular income from livestock sales are relatively
+ low 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hangara_et_al_2011b,Hangara_et_al_2012"
+
+\end_inset
+
+, ecotourism involving predators can potentially generate greater income
+ than livestock farming 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_et_al_1997c"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Ecotourism can increase farm income a lot and in some cases
+ even replace livestock farming 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "McGranahan_2011"
+
+\end_inset
+
+.
+ The possibility to see predators in the wild is a significant drawing card
+ for many tourists and hunters 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hoogesteijn_n_Hoogesteijn_2010"
+
+\end_inset
+
+.
+ Unlike many of the other compensation methods, it can be implemented by
+ a single farmer on his own land.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: Because predators are often so elusive, tourists might be
+ disappointed and avoid returning to a tourist enterprise if they had unrealisti
+c expectations of seeing a predator in the wild.
+ It is difficult to combine tourism with hunting.
+ Most livestock farmers do not have the skills or inclination for the kind
+ of work required for a well-managed tourism enterprise 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "McGranahan_2011"
+
+\end_inset
+
+.
+ Becoming known well enough to attract enough tourists to compensate for
+ all livestock losses due to predators, will probably also take some time.
+ Some "ecotourism" activities, like using baits to attract predators for
+ tourists, can habituate predators to humans and teach them to associate
+ humans with food, leading to more livestock depredation and even endangering
+ people's lives 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Hoogesteijn_n_Hoogesteijn_2010,Athreya_et_al_2010"
+
+\end_inset
+
+!
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Finding wild predators for tourist viewing require excellent
+ tracking skills, a soil substrate in which tracking is relatively easy,
+ and enough time, unless some of the predators have been radio/GPS collared.
+ Tourism is not a realistic option for remote farms in a monotonous landscape
+ that are unlikely to attract many, if any, tourists.
+\end_layout
+
+\begin_layout Subsection
+
+\lang british
+Reactive methods
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Reactive methods have the advantage that unless there are real losses to
+ predators, nothing or little needs to be done.
+ As long as there is little livestock depredation, the implementation costs
+ are also low.
+ Of course, it can always be combined with other methods.
+ The greatest disadvantage of these methods is that they usually do not
+ prevent any livestock losses and the farmer might experience significant
+ losses before implementing a reactive method.
+ For this reason, these methods are generally better for situations where
+ livestock losses are infrequent and not useful at all for areas where depredati
+on of livestock is common.
+ The main aim of reactive methods is thus to prevent further losses, after
+ a predator already attacked livestock.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Hunting and trapping reactively (killing a single "problem predator")
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+In contrast to the preventative use of hunting to eradicate predators or
+ decrease predator numbers, hunting (with or without dogs) can also be used
+ reactively.
+ In this case the main aim is to kill the specific individual that was responsib
+le for killing the livestock.
+ Even if the method does not result in any actual decrease in livestock
+ depredation, it does give the farmer some intrinsic satisfaction to kill
+ the guilty predator
+\begin_inset CommandInset citation
+LatexCommand citep
+key "ForthmanQuick_1985"
+
+\end_inset
+
+.
+ However, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Chapron_n_Treves_2016"
+
+\end_inset
+
+ showed that allowing killing of predators or government culling of predators
+ did not make livestock owners more positive towards predators, but actually
+ increased illegal killing of predators.
+ An important assumption, and one that has been challenged (e.g.
+ 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Linnell_et_al_1999"
+
+\end_inset
+
+) is that there are specific individuals that become livestock killers or
+ "problem animals".
+ For some species (e.g.
+ coyotes - 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Sacks_et_al_1999,Jaeger_2004"
+
+\end_inset
+
+) it is fairly clear that a few individual animals are responsible for most
+ of the livestock depredation 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_1990b"
+
+\end_inset
+
+, while the majority of the predators prefer natural prey, but for other
+ species it appears as if predators simply utilize livestock within the
+ right size range according to their availability, making little differentiation
+ between livestock and other prey species.
+ In the latter case, removing any individual animal will simply result in
+ its place been taken be another individual who will continue to prey on
+ livestock, at most giving a short reprieve in livestock losses, while having
+ a destabilising effect on the ecosystem (and its sustainability).
+ It has long been known that removal of a single predator can sometimes
+ temporarily stop any further livestock losses.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Jaeger_2004"
+
+\end_inset
+
+ showed that in coyotes (which have similar behaviour to black-backed jackals,
+ see also 
+\begin_inset CommandInset citation
+LatexCommand citealp
+key "Estes_1991,Ferguson_et_al_1983"
+
+\end_inset
+
+) it is principally the resident alpha breeding pair that are killing livestock
+ and removing them will stop livestock killing until a new alpha pair is
+ established three to four months later.
+ Indiscriminate killing of coyotes had no effect on livestock losses at
+ all, mostly because the betas and transient individuals were much more
+ vulnerable to capture than the alphas.
+ However, they did not investigate what the effect will be a year later,
+ and the 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+ study showed that it could increase livestock losses in the next year.
+ Two possible ecological explanations for such an increase could be that
+ the neighbouring alpha pairs expand their territories so that the territory
+ which used to have one territorial breeding pair is now shared by 6 or
+ more breeding pairs.
+ Alternatively, the betas might start breeding in the next year since there
+ is no alpha pair to suppress their breeding.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Balme_et_al_2009a"
+
+\end_inset
+
+ suggested the following procedure to ensure that only habitual livestock
+ killing leopards were removed: 1) inspect depredation events within 24
+ h of being reported; 2) if a leopard is verified as being responsible for
+ the damage, an attempt is made to identify the individual by deploying
+ camera-traps at the kill site; 3) a destruction permit is granted only
+ when the same leopard is known to be responsible for at least three depredation
+ events within a 2-month period.
+ A similar method has been used occasionally in Namibia, but using a GPS
+ collar on the suspect leopards, instead of camera traps (Stuart Munro 2015,
+ personal communication).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: Since it is only used after livestock had been killed, it can
+ be substantially less expensive than pre-emptive hunting.
+ Especially if dogs are used to take the trail from where livestock have
+ been killed, this method can be very selective in order to kill the specific
+ individual that was responsible for killing livestock.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: If the guilty predator was not a habitual livestock killer,
+ removing it might have no effect at all on the livestock losses.
+ In the case study from the Ceres Karoo hunting club 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Conradie_n_Piesse_2013"
+
+\end_inset
+
+, predators were mostly killed in response to livestock losses.
+ And yet, the result was that those farms where most predators were killed
+ in a certain year, had an increase in livestock depredation in the following
+ year (however, there is little indication that this killing was very selective).
+ This method might therefore not be very effective.
+ It is actually quite difficult to be certain that the specific individual
+ who had killed livestock, is being targeted.
+ Moreover, there has been recorded instances where an individual collared
+ male leopard that killed many livestock in a single night, on two neighbouring
+ farms, afterwards walked past within 50 m of the same livestock kraal,
+ without ever killing a single livestock animal again over a period of 6
+ years (Quinton Martins 2010, personal communication).
+ Removing the predator might thus have no effect on future livestock losses
+ at all.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Being selective and finding the guilty predator is very dependent
+ on any livestock depredation events being found shortly after the kill.
+ If the livestock are spread wide over a big farm or the labour force on
+ the farm is small, this might not be practical.
+ It might really only be effective in those situations where an individual
+ predator has become a specialist killer of livestock.
+ As shown by 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1999"
+
+\end_inset
+
+, a single "over-kill" (surplus killing) event does not mean that the individual
+ predator has become a habitual livestock killer.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Translocation of problem animals
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Translocation"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+In effect this has pretty much the same effect as trying to kill a problem
+ individual.
+ However, for threatened or scarce species, relocating an individual that
+ has killed livestock to somewhere else, might save the life of that specific
+ animal and could have a positive effect on the survival of the species
+ overall.
+ This is also a reactive method in that individuals that has killed livestock,
+ are targeted.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: For scarce or threatened species where each individual is important,
+ moving a "problem animal" to somewhere else, can mitigate conflict, decreasing
+ livestock losses, and advance the survival of the predator species 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Weise_et_al_2015b"
+
+\end_inset
+
+.
+ Similar to killing reactively, it is aimed at removing a single "problem
+ animal" (or pride of predators) that has been killing livestock habitually.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: This method will make no difference if there is no single
+ "problem" individual.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Linnell_et_al_1999"
+
+\end_inset
+
+ makes the point that there are two kinds of "problem predators": those
+ who are simply in the wrong place (i.e.
+ hunting in a habitat where there are lots of livestock) or those who actually
+ start to specialize in killing livestock.
+ In the former case, the territorial animal who was responsible for livestock
+ losses will simply be replaced by one or more others who will continue
+ killing livestock.
+ Various studies have shown that predators, especially felids, often move
+ great distances after having been relocated, and either resume killing
+ livestock somewhere else or return to their original home range (and sometimes
+ continue killing livestock there) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Stander_et_al_1997c,Weilenmann_et_al_2010,Weise_et_al_2015a"
+
+\end_inset
+
+.
+ Additionally, if it is moved into an area with high densities of con-specifics,
+ a territorial predator will either have to replace the current inhabitants
+ of the territory (followed by SSI in males), be killed by a current territorial
+ individual, or have to move out and find an empty space for itself, often
+ on farmlands again.
+ Relocating some species over long distances can compromise their genetic
+ integrity 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Ropiquet_et_al_2015"
+
+\end_inset
+
+, thus diluting their adaptability to local conditions.
+ Compared to just shooting the problem animal, it is quite an expensive
+ method, with an estimate for leopard relocation in Namibia of USD $3 140.00
+ per animal 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Weise_et_al_2015b"
+
+\end_inset
+
+.
+ However, it is one of the few available methods where the farmer does not
+ have to carry all the costs (except for the initial capture of the predator),
+ which might partially explain its popularity in Namibia.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: For stock-killing lions, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stander_1990b"
+
+\end_inset
+
+ found that relocation of habitual livestock killers did not work, with
+ the lions simply moving back to areas where they would continue to prey
+ on livestock.
+ In this case, relocation of lions was only successful for occasional livestock
+ killers.
+ The second constraint was that lion prides had to be either relocated to
+ their original territories within protected areas, or moved to areas where
+ there were no other lions yet.
+ The same principles might be true for some other predator species.
+ However, this necessitates that enough is known about both the animals
+ that are to be relocated and the area to which they will be relocated.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Weise_et_al_2015b"
+
+\end_inset
+
+ found that there are some situations in which leopards can be successfully
+ translocated in Namibia.
+ However, the model will differ between countries and species.
+ For leopards in Namibia, it was hypothesized that translocation should
+ happen over distances larger than 200km, to a conservation area (or land-use
+ without conflict potential) of at least 875 km², with current low resident
+ leopard densities (<2 leopards/100 km²) and with releases at least 18 months
+ apart to mimic natural dispersion events of sub-adult leopards.
+ Although having a data point of one female only, a soft release method
+ appeared to result in less movement post-release.
+ The model had a 67% to 83% success rate (depending on how success was defined),
+ but they still did not recommend it as a standard response to carnivore
+ conflict, since there are only a limited number of places in Namibia left
+ to which leopards (or other predators) can be relocated using the attributes
+ required by the model of 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Weise_et_al_2015b"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+
+\lang british
+Poisonous Livestock Protection Collars (LPC)
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+One of the few uses of poison that can be defended from an ecological point
+ of view, is the use of collars on livestock with poison pockets around
+ the throat of the sheep 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Linnell_et_al_1996,Bothma_2012"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Advantages: This is the only use of poison that are selective in killing
+ only those predators that attacked livestock.
+ This could lead to surviving predators avoiding sheep in future.
+ However, since the poison is usually very effective, there are very few
+ if any survivors.
+ The farmer do have the personal satisfaction of the guilty predator being
+ killed.
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Disadvantages: The greatest disadvantage is that the attacked sheep is still
+ killed in order to kill the predator! Moreover, if any predators survive
+ biting into the collar, they might learn to avoid the collared sheep only,
+ while still attacking other sheep.
+ The other great disadvantage of poison collars are high costs of the collars.
+ This means that not all sheep can be collared, and thus that sheep without
+ LPCs remain vulnerable to predators.
+ Additionally, it has all the disadvantages of other kinds of collars (labour,
+ collars needing to be replaced regularly in growing sheep, predators changing
+ their attack method to avoid the neck or throat, etc.).
+\end_layout
+
+\begin_layout Itemize
+
+\lang british
+Limitations: Depending on the poison used, sometimes scavengers that eat
+ from the carcass of the predator killed by the poison might in turn die
+ from the poison...
+ an ecological ripple effect killing non-target animals and loosing all
+ the advantages of the collars being more selective than other uses of poison.
+ Because the poison is also dangerous to humans and house animals, care
+ is needed when using the collars.
+\end_layout
+
+\begin_layout Section*
+—————–
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The following bibliography styles are allowed: 
+\family sans
+elsarticle-harv
+\family default
+, 
+\family sans
+elsarticle-num-names
+\family default
+, or 
+\family sans
+elsarticle-num
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "/home/boer/doks/Literature/Ecology"
+options "elsarticle-harv"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
